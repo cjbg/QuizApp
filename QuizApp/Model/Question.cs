@@ -6,8 +6,10 @@ namespace QuizApp.Model
   {
     public int Number { get; set; }
 
+    public int RepetitionNumber { get; set; }
+
     public string Name { get; set; }
 
-    public List<Answer> Answers { get; set; }    
+    public List<Answer> Answers { get; set; }
   }
 }

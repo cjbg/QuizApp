@@ -12,14 +12,14 @@ namespace QuizApp.Service
     {
       var questions = new List<Question>();
       Question question = new Question();
-      string[] validAnswers = {string.Empty};
+      string[] validAnswers = { string.Empty };
 
       foreach (var line in lines)
       {
         if (string.IsNullOrWhiteSpace(line))
         {
           continue;
-        }      
+        }
         if (IsQuestionLine(line))
         {
           question = SetQuestion(line);
@@ -91,6 +91,7 @@ namespace QuizApp.Service
         .Split('.')[0]);
 
       question.Name = line;
+      question.RepetitionNumber = 1;
       question.Answers = new List<Answer>();
 
       return question;
