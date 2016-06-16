@@ -13,11 +13,16 @@ namespace QuizApp.View
     public QuizView()
     {
       _presenter = new QuizPresenter(
-        new QuizModel(), 
-        this, 
+        new QuizModel(),
+        this,
         new QuizReader());
 
       InitializeComponent();
+    }
+
+    private void button1_Click(object sender, System.EventArgs e)
+    {
+
     }
   }
 }
