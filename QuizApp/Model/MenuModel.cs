@@ -1,4 +1,4 @@
-﻿using QuizApp.Interfaces;
+﻿using QuizApp.Model.Interface;
 
 namespace QuizApp.Model
 {
