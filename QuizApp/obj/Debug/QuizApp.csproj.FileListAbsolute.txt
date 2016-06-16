@@ -1,1 +1,2 @@
 c:\users\jakub.czabator\documents\visual studio 2015\Projects\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
