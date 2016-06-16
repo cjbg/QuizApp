@@ -97,6 +97,7 @@
       this.buttonCheck.TabIndex = 7;
       this.buttonCheck.Text = "Sprawdź";
       this.buttonCheck.UseVisualStyleBackColor = true;
+      this.buttonCheck.Click += new System.EventHandler(this.buttonCheck_Click);
       // 
       // buttonNextQuestion
       // 
@@ -122,14 +123,14 @@
       this.textBoxQuestion.Location = new System.Drawing.Point(12, 12);
       this.textBoxQuestion.Multiline = true;
       this.textBoxQuestion.Name = "textBoxQuestion";
-      this.textBoxQuestion.Size = new System.Drawing.Size(505, 64);
+      this.textBoxQuestion.Size = new System.Drawing.Size(1188, 64);
       this.textBoxQuestion.TabIndex = 10;
       // 
       // QuizView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(536, 384);
+      this.ClientSize = new System.Drawing.Size(1212, 384);
       this.Controls.Add(this.textBoxQuestion);
       this.Controls.Add(this.buttonQuestionLearned);
       this.Controls.Add(this.buttonNextQuestion);

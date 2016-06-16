@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System.Drawing;
+using System.Windows.Forms;
 using QuizApp.Model;
 using QuizApp.Presenter;
 using QuizApp.Service;
@@ -56,6 +57,31 @@ namespace QuizApp.View
       set { checkBoxAnswer5.Text = value; }
     }
 
+    public Color ColorAnswer1
+    {
+      set { checkBoxAnswer1.ForeColor = value; }
+    }
+
+    public Color ColorAnswer2
+    {
+      set { checkBoxAnswer2.ForeColor = value; }
+    }
+
+    public Color ColorAnswer3
+    {
+      set { checkBoxAnswer3.ForeColor = value; }
+    }
+
+    public Color ColorAnswer4
+    {
+      set { checkBoxAnswer4.ForeColor = value; }
+    }
+
+    public Color ColorAnswer5
+    {
+      set { checkBoxAnswer5.ForeColor = value; }
+    }
+
     private void QuizView_Load(object sender, System.EventArgs e)
     {
       _presenter = new QuizPresenter(
@@ -63,6 +89,11 @@ namespace QuizApp.View
         this,
         new QuizReader());
 
+    }
+
+    private void buttonCheck_Click(object sender, System.EventArgs e)
+    {
+      _presenter.CheckAnswers();
     }
   }
 }

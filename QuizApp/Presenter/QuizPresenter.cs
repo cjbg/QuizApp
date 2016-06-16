@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using QuizApp.Model;
 using QuizApp.Model.Interface;
 using QuizApp.Service.Interface;
@@ -52,6 +53,34 @@ namespace QuizApp.Presenter
       } while (question.RepetitionNumber == 0);
 
       return question;
+    }
+
+    public void CheckAnswers()
+    {
+      if (_currentQuestion.Answers[0].IsCorrect)
+      {
+        _view.ColorAnswer1 = Color.Green;
+      }
+
+      if (_currentQuestion.Answers[1].IsCorrect)
+      {
+        _view.ColorAnswer2 = Color.Green;
+      }
+
+      if (_currentQuestion.Answers[2].IsCorrect)
+      {
+        _view.ColorAnswer3 = Color.Green;
+      }
+
+      if (_currentQuestion.Answers[3].IsCorrect)
+      {
+        _view.ColorAnswer4 = Color.Green;
+      }
+
+      if (_currentQuestion.Answers[4].IsCorrect)
+      {
+        _view.ColorAnswer5 = Color.Green;
+      }
     }
   }
 }
