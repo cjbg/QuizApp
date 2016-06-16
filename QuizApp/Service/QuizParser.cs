@@ -86,7 +86,10 @@ namespace QuizApp.Service
     private Question SetQuestion(string line)
     {
       Question question = new Question();
-      question.Number = (int)GetNumericValue(GetFirstLetter(line));
+      question.Number = Convert.ToInt32(
+        line.Split(' ')[0]
+        .Split('.')[0]);
+
       question.Name = line;
       question.Answers = new List<Answer>();
 
