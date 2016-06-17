@@ -37,20 +37,22 @@
       // 
       // buttonStart
       // 
-      this.buttonStart.Location = new System.Drawing.Point(57, 150);
+      this.buttonStart.Location = new System.Drawing.Point(86, 231);
+      this.buttonStart.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStart.Name = "buttonStart";
-      this.buttonStart.Size = new System.Drawing.Size(147, 48);
+      this.buttonStart.Size = new System.Drawing.Size(220, 74);
       this.buttonStart.TabIndex = 0;
-      this.buttonStart.Text = "Start";
+      this.buttonStart.Text = "Start - Fizjologia 1-114";
       this.buttonStart.UseVisualStyleBackColor = true;
       this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
       // 
       // checkBoxShuffleAnswers
       // 
       this.checkBoxShuffleAnswers.AutoSize = true;
-      this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(57, 76);
+      this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(86, 117);
+      this.checkBoxShuffleAnswers.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.checkBoxShuffleAnswers.Name = "checkBoxShuffleAnswers";
-      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(167, 17);
+      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(236, 24);
       this.checkBoxShuffleAnswers.TabIndex = 1;
       this.checkBoxShuffleAnswers.Text = "Losowa kolejność odpowiedzi";
       this.checkBoxShuffleAnswers.UseVisualStyleBackColor = true;
@@ -58,39 +60,43 @@
       // checkBoxHideAnswerNumber
       // 
       this.checkBoxHideAnswerNumber.AutoSize = true;
-      this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(57, 99);
+      this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(86, 152);
+      this.checkBoxHideAnswerNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.checkBoxHideAnswerNumber.Name = "checkBoxHideAnswerNumber";
-      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(170, 17);
+      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(241, 24);
       this.checkBoxHideAnswerNumber.TabIndex = 2;
       this.checkBoxHideAnswerNumber.Text = "Ukryj litery przy odpowiedziach";
       this.checkBoxHideAnswerNumber.UseVisualStyleBackColor = true;
       // 
       // textBoxRepetitionNumber
       // 
-      this.textBoxRepetitionNumber.Location = new System.Drawing.Point(57, 50);
+      this.textBoxRepetitionNumber.Location = new System.Drawing.Point(86, 77);
+      this.textBoxRepetitionNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.textBoxRepetitionNumber.Name = "textBoxRepetitionNumber";
-      this.textBoxRepetitionNumber.Size = new System.Drawing.Size(147, 20);
+      this.textBoxRepetitionNumber.Size = new System.Drawing.Size(218, 26);
       this.textBoxRepetitionNumber.TabIndex = 3;
       // 
       // labelRepetitionNumber
       // 
       this.labelRepetitionNumber.AutoSize = true;
-      this.labelRepetitionNumber.Location = new System.Drawing.Point(54, 34);
+      this.labelRepetitionNumber.Location = new System.Drawing.Point(81, 52);
+      this.labelRepetitionNumber.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
       this.labelRepetitionNumber.Name = "labelRepetitionNumber";
-      this.labelRepetitionNumber.Size = new System.Drawing.Size(127, 13);
+      this.labelRepetitionNumber.Size = new System.Drawing.Size(188, 20);
       this.labelRepetitionNumber.TabIndex = 4;
       this.labelRepetitionNumber.Text = "Liczba powtórzeń pytania";
       // 
       // MenuView
       // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+      this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(276, 254);
+      this.ClientSize = new System.Drawing.Size(414, 391);
       this.Controls.Add(this.labelRepetitionNumber);
       this.Controls.Add(this.textBoxRepetitionNumber);
       this.Controls.Add(this.checkBoxHideAnswerNumber);
       this.Controls.Add(this.checkBoxShuffleAnswers);
       this.Controls.Add(this.buttonStart);
+      this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.Name = "MenuView";
       this.Text = "Menu";
       this.ResumeLayout(false);
