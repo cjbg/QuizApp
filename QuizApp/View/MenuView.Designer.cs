@@ -41,7 +41,7 @@
       this.buttonStart.Name = "buttonStart";
       this.buttonStart.Size = new System.Drawing.Size(147, 48);
       this.buttonStart.TabIndex = 0;
-      this.buttonStart.Text = "Start";
+      this.buttonStart.Text = "Start - Pytania 1-114";
       this.buttonStart.UseVisualStyleBackColor = true;
       this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
       // 
