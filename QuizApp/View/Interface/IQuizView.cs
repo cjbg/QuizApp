@@ -25,5 +25,15 @@ namespace QuizApp.View.Interface
     Color ColorAnswer4 { set; }
 
     Color ColorAnswer5 { set; }
+
+    bool CheckedAnswer1 { get; set; }
+
+    bool CheckedAnswer2 { get; set; }
+
+    bool CheckedAnswer3 { get; set; }
+
+    bool CheckedAnswer4 { get; set; }
+
+    bool CheckedAnswer5 { get; set; }
   }
 }

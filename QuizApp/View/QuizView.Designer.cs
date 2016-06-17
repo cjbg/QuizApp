@@ -117,6 +117,7 @@
       this.buttonQuestionLearned.TabIndex = 9;
       this.buttonQuestionLearned.Text = "Umiem";
       this.buttonQuestionLearned.UseVisualStyleBackColor = true;
+      this.buttonQuestionLearned.Click += new System.EventHandler(this.buttonQuestionLearned_Click);
       // 
       // textBoxQuestion
       // 

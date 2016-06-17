@@ -9,16 +9,17 @@ namespace QuizApp.View
 {
   public partial class QuizView : Form, IQuizView
   {
-    private QuizPresenter _presenter;    
+    private QuizPresenter _presenter;
 
     public QuizView()
-    {     
+    {
       InitializeComponent();
     }
 
     private void buttonNextQuestion_Click(object sender, System.EventArgs e)
     {
-
+      buttonCheck.Enabled = true;      
+      _presenter.SetNextQuestion();
     }
 
     public string Question
@@ -35,7 +36,7 @@ namespace QuizApp.View
 
     public string Answer2
     {
-      get { return checkBoxAnswer2.Text; }    
+      get { return checkBoxAnswer2.Text; }
       set { checkBoxAnswer2.Text = value; }
     }
 
@@ -82,6 +83,36 @@ namespace QuizApp.View
       set { checkBoxAnswer5.ForeColor = value; }
     }
 
+    public bool CheckedAnswer1
+    {
+      get { return checkBoxAnswer1.Checked; }
+      set { checkBoxAnswer1.Checked = value; }
+    }
+
+    public bool CheckedAnswer2
+    {
+      get { return checkBoxAnswer2.Checked; }
+      set { checkBoxAnswer2.Checked = value; }
+    }
+
+    public bool CheckedAnswer3
+    {
+      get { return checkBoxAnswer3.Checked; }
+      set { checkBoxAnswer3.Checked = value; }
+    }
+
+    public bool CheckedAnswer4
+    {
+      get { return checkBoxAnswer4.Checked; }
+      set { checkBoxAnswer4.Checked = value; }
+    }
+
+    public bool CheckedAnswer5
+    {
+      get { return checkBoxAnswer5.Checked; }
+      set { checkBoxAnswer5.Checked = value; }
+    }
+
     private void QuizView_Load(object sender, System.EventArgs e)
     {
       _presenter = new QuizPresenter(
@@ -94,6 +125,12 @@ namespace QuizApp.View
     private void buttonCheck_Click(object sender, System.EventArgs e)
     {
       _presenter.CheckAnswers();
+      buttonCheck.Enabled = false;
+    }
+
+    private void buttonQuestionLearned_Click(object sender, System.EventArgs e)
+    {
+      _presenter.QuestionLearned();
     }
   }
 }
