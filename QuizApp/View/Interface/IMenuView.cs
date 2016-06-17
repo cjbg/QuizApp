@@ -5,5 +5,7 @@
     bool ShuffleAnswers { get; }
 
     bool HideAnswerLetter { get; }
+
+    string RepetitionNumberText { get; }
   }
 }

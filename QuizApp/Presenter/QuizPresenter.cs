@@ -12,36 +12,25 @@ namespace QuizApp.Presenter
   {
     private readonly IQuizModel _model;
     private readonly IQuizView _view;
-    private readonly IQuizReader _reader;
-    private readonly bool _shuffleAnswers;
-    private readonly bool _hideAnswerLetter;
+    private readonly IQuizReader _reader;    
 
-    private Question _currentQuestion;
-    private int _realNumberAnswer1;
-    private int _realNumberAnswer2;
-    private int _realNumberAnswer3;
-    private int _realNumberAnswer4;
-    private int _realNumberAnswer5;
+    private Question _currentQuestion;   
 
     public QuizPresenter(
       IQuizModel model, 
       IQuizView view, 
-      IQuizReader reader, 
-      bool shuffleAnswers, 
-      bool hideAnswerLetter)
+      IQuizReader reader)
     {
       _model = model;
       _view = view;
-      _reader = reader;
-      _shuffleAnswers = shuffleAnswers;
-      _hideAnswerLetter = hideAnswerLetter;
+      _reader = reader;      
 
       PrepareView();
     }
-
+  
     private void PrepareView()
     {
-      _model.Questions = _reader.ReadQuestionsFromResources();
+      _model.Questions = _reader.ReadQuestionsFromResources(_model.RepetitionNumber);
       _currentQuestion = GetRandomQuestion();
       SetViewData();
     }
@@ -49,21 +38,46 @@ namespace QuizApp.Presenter
     private void SetViewData()
     {
       _view.Question = _currentQuestion.Name;
-      _view.Answer1 = _currentQuestion.Answers[0].Name;
-      _view.Answer2 = _currentQuestion.Answers[1].Name;
-      _view.Answer3 = _currentQuestion.Answers[2].Name;
-      _view.Answer4 = _currentQuestion.Answers[3].Name;
-      _view.Answer5 = _currentQuestion.Answers[4].Name;
-      _view.CheckedAnswer1 = false;
-      _view.CheckedAnswer2 = false;
-      _view.CheckedAnswer3 = false;
-      _view.CheckedAnswer4 = false;
-      _view.CheckedAnswer5 = false;
+      SetAnswerNames();
+      SetCheckedAnswers();
+      SetAnswersColors();
+    }
+
+    private void SetAnswersColors()
+    {
       _view.ColorAnswer1 = Color.Black;
       _view.ColorAnswer2 = Color.Black;
       _view.ColorAnswer3 = Color.Black;
       _view.ColorAnswer4 = Color.Black;
       _view.ColorAnswer5 = Color.Black;
+    }
+
+    private void SetCheckedAnswers()
+    {
+      _view.CheckedAnswer1 = false;
+      _view.CheckedAnswer2 = false;
+      _view.CheckedAnswer3 = false;
+      _view.CheckedAnswer4 = false;
+      _view.CheckedAnswer5 = false;
+    }
+
+    private void SetAnswerNames()
+    {
+      _view.Answer1 = SetAnswerName(_currentQuestion.Answers[0].Name);
+      _view.Answer2 = SetAnswerName(_currentQuestion.Answers[1].Name);
+      _view.Answer3 = SetAnswerName(_currentQuestion.Answers[2].Name);
+      _view.Answer4 = SetAnswerName(_currentQuestion.Answers[3].Name);
+      _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);
+    }
+
+    private string SetAnswerName(string name)
+    {
+      if (_model.HideAnswerLetter)
+      {
+        return name.Substring(2, name.Length - 2);
+      }
+
+      return name;
     }
 
     private Question GetRandomQuestion()
@@ -77,7 +91,7 @@ namespace QuizApp.Presenter
         question = _model.Questions[index];
       } while (question.RepetitionNumber == 0);
 
-      if (_shuffleAnswers)
+      if (_model.ShuffleAnswers)
       {
         question.Answers = question.Answers.OrderBy(
           x => random.Next())
@@ -197,6 +211,9 @@ namespace QuizApp.Presenter
       _view.HideAnswer3();
       _view.HideAnswer4();
       _view.HideAnswer5();
+      _view.CheckButtonEnabled = false;
+      _view.LearnedButtonEnabled = false;
+      _view.NextButtonEnabled = false;
     }
   }
 }

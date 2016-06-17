@@ -22,14 +22,10 @@ namespace QuizApp.View
       _presenter.StartQuiz();
     }
 
-    public bool ShuffleAnswers
-    {
-      get { return checkBoxShuffleAnswers.Checked; }
-    }
+    public bool ShuffleAnswers => checkBoxShuffleAnswers.Checked;
 
-    public bool HideAnswerLetter
-    {
-      get { return checkBoxHideAnswerNumber.Checked; }
-    }
+    public bool HideAnswerLetter => checkBoxHideAnswerNumber.Checked;
+
+    public string RepetitionNumberText => textBoxRepetitionNumber.Text;
   }
 }

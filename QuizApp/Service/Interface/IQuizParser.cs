@@ -5,6 +5,6 @@ namespace QuizApp.Service
 {
   public interface IQuizParser
   {
-    List<Question> ParseQuestions(List<string> lines);
+    List<Question> ParseQuestions(List<string> lines, int repetitionNumber);
   }
 }

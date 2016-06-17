@@ -12,12 +12,14 @@ namespace QuizApp.View
     private QuizPresenter _presenter;
     private readonly bool _shuffleAnswers;
     private readonly bool _hideAnswerLetter;
+    private readonly int _repetitionNumber;
       
-    public QuizView(bool shuffleAnswers, bool hideAnswerLetter)
+    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber)
     {
       InitializeComponent();
       _shuffleAnswers = shuffleAnswers;
       _hideAnswerLetter = hideAnswerLetter;
+      _repetitionNumber = repetitionNumber;
     }
 
     private void buttonNextQuestion_Click(object sender, System.EventArgs e)
@@ -142,14 +144,33 @@ namespace QuizApp.View
       checkBoxAnswer5.Hide();
     }
 
+    public bool CheckButtonEnabled
+    {
+      get { return buttonCheck.Enabled; }
+      set { buttonCheck.Enabled = value; }
+    }
+
+    public bool LearnedButtonEnabled
+    {
+      get { return buttonQuestionLearned.Enabled; }
+      set { buttonQuestionLearned.Enabled = value; }
+    }
+
+    public bool NextButtonEnabled
+    {
+      get { return buttonNextQuestion.Enabled; }
+      set { buttonNextQuestion.Enabled = value;}
+    }
+
     private void QuizView_Load(object sender, System.EventArgs e)
     {
       _presenter = new QuizPresenter(
-        new QuizModel(),
+        new QuizModel(
+          _shuffleAnswers, 
+          _hideAnswerLetter,
+          _repetitionNumber),
         this,
-        new QuizReader(),
-        _shuffleAnswers,
-        _hideAnswerLetter);
+        new QuizReader());
     }
 
     private void buttonCheck_Click(object sender, System.EventArgs e)

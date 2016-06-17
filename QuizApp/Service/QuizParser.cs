@@ -8,7 +8,7 @@ namespace QuizApp.Service
 {
   public class QuizParser : IQuizParser
   {
-    public List<Question> ParseQuestions(List<string> lines)
+    public List<Question> ParseQuestions(List<string> lines, int repetitionNumber)
     {
       var questions = new List<Question>();
       Question question = new Question();
@@ -22,7 +22,7 @@ namespace QuizApp.Service
         }
         if (IsQuestionLine(line))
         {
-          question = SetQuestion(line);
+          question = SetQuestion(line, repetitionNumber);
         }
         else if (IsAnswerMark(line))
         {
@@ -83,7 +83,7 @@ namespace QuizApp.Service
       return Convert.ToChar(line.Trim()[0]);
     }
 
-    private Question SetQuestion(string line)
+    private Question SetQuestion(string line, int repetitionNumber)
     {
       Question question = new Question();
       question.Number = Convert.ToInt32(
@@ -91,7 +91,7 @@ namespace QuizApp.Service
         .Split('.')[0]);
 
       question.Name = line;
-      question.RepetitionNumber = 1;
+      question.RepetitionNumber = repetitionNumber;
       question.Answers = new List<Answer>();
 
       return question;

@@ -1,4 +1,5 @@
 ﻿using System.Drawing;
+using System.Windows.Forms;
 
 namespace QuizApp.View.Interface
 {
@@ -45,5 +46,11 @@ namespace QuizApp.View.Interface
     void HideAnswer4();
 
     void HideAnswer5();
+
+    bool CheckButtonEnabled { get; set; }
+
+    bool LearnedButtonEnabled { get; set; }
+
+    bool NextButtonEnabled { get; set; }
   }
 }

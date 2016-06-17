@@ -21,7 +21,7 @@ namespace QuizApp.Service
       _parser = parser;
     }
 
-    public List<Question> ReadQuestionsFromResources()
+    public List<Question> ReadQuestionsFromResources(int repetitionNumber)
     {
       string resourceData = Resources.Fizjologia_Pytania_1_114;
 
@@ -29,7 +29,7 @@ namespace QuizApp.Service
           new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries)
         .ToList();
 
-      return _parser.ParseQuestions(lines);
+      return _parser.ParseQuestions(lines, repetitionNumber);
     }
   }
 }
