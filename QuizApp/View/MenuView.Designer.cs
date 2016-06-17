@@ -29,11 +29,12 @@
     private void InitializeComponent()
     {
       this.buttonStart = new System.Windows.Forms.Button();
+      this.checkBoxShuffleAnswers = new System.Windows.Forms.CheckBox();
       this.SuspendLayout();
       // 
       // buttonStart
       // 
-      this.buttonStart.Location = new System.Drawing.Point(68, 103);
+      this.buttonStart.Location = new System.Drawing.Point(57, 118);
       this.buttonStart.Name = "buttonStart";
       this.buttonStart.Size = new System.Drawing.Size(147, 48);
       this.buttonStart.TabIndex = 0;
@@ -41,21 +42,34 @@
       this.buttonStart.UseVisualStyleBackColor = true;
       this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
       // 
+      // checkBoxShuffleAnswers
+      // 
+      this.checkBoxShuffleAnswers.AutoSize = true;
+      this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(57, 43);
+      this.checkBoxShuffleAnswers.Name = "checkBoxShuffleAnswers";
+      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(167, 17);
+      this.checkBoxShuffleAnswers.TabIndex = 1;
+      this.checkBoxShuffleAnswers.Text = "Losowa kolejność odpowiedzi";
+      this.checkBoxShuffleAnswers.UseVisualStyleBackColor = true;
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(284, 261);
+      this.ClientSize = new System.Drawing.Size(276, 254);
+      this.Controls.Add(this.checkBoxShuffleAnswers);
       this.Controls.Add(this.buttonStart);
       this.Name = "MenuView";
       this.Text = "Menu";
       this.ResumeLayout(false);
+      this.PerformLayout();
 
     }
 
     #endregion
 
     private System.Windows.Forms.Button buttonStart;
+    private System.Windows.Forms.CheckBox checkBoxShuffleAnswers;
   }
 }
 

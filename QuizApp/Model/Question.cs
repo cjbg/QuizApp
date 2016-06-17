@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace QuizApp.Model
 {
@@ -10,6 +11,6 @@ namespace QuizApp.Model
 
     public string Name { get; set; }
 
-    public List<Answer> Answers { get; set; }
+    public List<Answer> Answers { get; set; }    
   }
 }

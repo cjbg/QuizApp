@@ -35,5 +35,15 @@ namespace QuizApp.View.Interface
     bool CheckedAnswer4 { get; set; }
 
     bool CheckedAnswer5 { get; set; }
+
+    void HideAnswer1();
+
+    void HideAnswer2();
+
+    void HideAnswer3();
+
+    void HideAnswer4();
+
+    void HideAnswer5();
   }
 }

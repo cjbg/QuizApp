@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Drawing;
+using System.Linq;
 using QuizApp.Model;
 using QuizApp.Model.Interface;
 using QuizApp.Service.Interface;
@@ -12,13 +13,25 @@ namespace QuizApp.Presenter
     private readonly IQuizModel _model;
     private readonly IQuizView _view;
     private readonly IQuizReader _reader;
-    private Question _currentQuestion;
+    private readonly bool _shuffleAnswers;
 
-    public QuizPresenter(IQuizModel model, IQuizView view, IQuizReader reader)
+    private Question _currentQuestion;
+    private int _realNumberAnswer1;
+    private int _realNumberAnswer2;
+    private int _realNumberAnswer3;
+    private int _realNumberAnswer4;
+    private int _realNumberAnswer5;
+
+    public QuizPresenter(
+      IQuizModel model, 
+      IQuizView view, 
+      IQuizReader reader, 
+      bool shuffleAnswers)
     {
       _model = model;
       _view = view;
       _reader = reader;
+      _shuffleAnswers = shuffleAnswers;
 
       PrepareView();
     }
@@ -53,14 +66,20 @@ namespace QuizApp.Presenter
     private Question GetRandomQuestion()
     {
       var random = new Random();
-      var index = random.Next(_model.Questions.Count - 1);
       Question question;
 
       do
       {
+        var index = random.Next(_model.Questions.Count);
         question = _model.Questions[index];
-
       } while (question.RepetitionNumber == 0);
+
+      if (_shuffleAnswers)
+      {
+        question.Answers = question.Answers.OrderBy(
+          x => random.Next())
+          .ToList();
+      }
 
       return question;
     }
@@ -170,6 +189,12 @@ namespace QuizApp.Presenter
       _view.Answer3 = String.Empty;
       _view.Answer4 = String.Empty;
       _view.Answer5 = String.Empty;
+      _view.HideAnswer1();
+      _view.HideAnswer2();
+      _view.HideAnswer3();
+      _view.HideAnswer4();
+      _view.HideAnswer5();
     }
   }
 }
+

@@ -2,5 +2,6 @@
 {
   public interface IMenuView
   {
+    bool ShuffleAnswers { get; }
   }
 }

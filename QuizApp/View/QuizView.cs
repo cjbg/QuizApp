@@ -10,10 +10,12 @@ namespace QuizApp.View
   public partial class QuizView : Form, IQuizView
   {
     private QuizPresenter _presenter;
+    private readonly bool _shuffleAnswers;
 
-    public QuizView()
+    public QuizView(bool shuffleAnswers)
     {
       InitializeComponent();
+      _shuffleAnswers = shuffleAnswers;
     }
 
     private void buttonNextQuestion_Click(object sender, System.EventArgs e)
@@ -113,13 +115,38 @@ namespace QuizApp.View
       set { checkBoxAnswer5.Checked = value; }
     }
 
+    public void HideAnswer1()
+    {
+      checkBoxAnswer1.Hide();
+    }
+
+    public void HideAnswer2()
+    {
+      checkBoxAnswer2.Hide();
+    }
+
+    public void HideAnswer3()
+    {
+      checkBoxAnswer3.Hide();
+    }
+
+    public void HideAnswer4()
+    {
+      checkBoxAnswer4.Hide();
+    }
+
+    public void HideAnswer5()
+    {
+      checkBoxAnswer5.Hide();
+    }
+
     private void QuizView_Load(object sender, System.EventArgs e)
     {
       _presenter = new QuizPresenter(
         new QuizModel(),
         this,
-        new QuizReader());
-
+        new QuizReader(),
+        _shuffleAnswers);
     }
 
     private void buttonCheck_Click(object sender, System.EventArgs e)

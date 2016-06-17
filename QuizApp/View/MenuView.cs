@@ -21,5 +21,10 @@ namespace QuizApp.View
     {
       _presenter.StartQuiz();
     }
+
+    public bool ShuffleAnswers
+    {
+      get { return checkBoxShuffleAnswers.Checked; }      
+    }
   }
 }
