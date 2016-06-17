@@ -21,7 +21,9 @@ namespace QuizApp.Presenter
 
     public void StartQuiz()
     {
-      QuizView view = new QuizView(_view.ShuffleAnswers);
+      QuizView view = new QuizView(
+        _view.ShuffleAnswers,
+        _view.HideAnswerLetter);
       view.ShowDialog();
     }
   }

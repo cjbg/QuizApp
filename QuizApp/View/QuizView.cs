@@ -11,11 +11,13 @@ namespace QuizApp.View
   {
     private QuizPresenter _presenter;
     private readonly bool _shuffleAnswers;
-
-    public QuizView(bool shuffleAnswers)
+    private readonly bool _hideAnswerLetter;
+      
+    public QuizView(bool shuffleAnswers, bool hideAnswerLetter)
     {
       InitializeComponent();
       _shuffleAnswers = shuffleAnswers;
+      _hideAnswerLetter = hideAnswerLetter;
     }
 
     private void buttonNextQuestion_Click(object sender, System.EventArgs e)
@@ -146,7 +148,8 @@ namespace QuizApp.View
         new QuizModel(),
         this,
         new QuizReader(),
-        _shuffleAnswers);
+        _shuffleAnswers,
+        _hideAnswerLetter);
     }
 
     private void buttonCheck_Click(object sender, System.EventArgs e)
@@ -161,3 +164,4 @@ namespace QuizApp.View
     }
   }
 }
+    

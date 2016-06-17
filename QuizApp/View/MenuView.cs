@@ -24,7 +24,12 @@ namespace QuizApp.View
 
     public bool ShuffleAnswers
     {
-      get { return checkBoxShuffleAnswers.Checked; }      
+      get { return checkBoxShuffleAnswers.Checked; }
+    }
+
+    public bool HideAnswerLetter
+    {
+      get { return checkBoxHideAnswerNumber.Checked; }
     }
   }
 }

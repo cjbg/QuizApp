@@ -14,6 +14,7 @@ namespace QuizApp.Presenter
     private readonly IQuizView _view;
     private readonly IQuizReader _reader;
     private readonly bool _shuffleAnswers;
+    private readonly bool _hideAnswerLetter;
 
     private Question _currentQuestion;
     private int _realNumberAnswer1;
@@ -26,12 +27,14 @@ namespace QuizApp.Presenter
       IQuizModel model, 
       IQuizView view, 
       IQuizReader reader, 
-      bool shuffleAnswers)
+      bool shuffleAnswers, 
+      bool hideAnswerLetter)
     {
       _model = model;
       _view = view;
       _reader = reader;
       _shuffleAnswers = shuffleAnswers;
+      _hideAnswerLetter = hideAnswerLetter;
 
       PrepareView();
     }

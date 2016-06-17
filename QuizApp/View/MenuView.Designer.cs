@@ -30,6 +30,7 @@
     {
       this.buttonStart = new System.Windows.Forms.Button();
       this.checkBoxShuffleAnswers = new System.Windows.Forms.CheckBox();
+      this.checkBoxHideAnswerNumber = new System.Windows.Forms.CheckBox();
       this.SuspendLayout();
       // 
       // buttonStart
@@ -52,11 +53,22 @@
       this.checkBoxShuffleAnswers.Text = "Losowa kolejność odpowiedzi";
       this.checkBoxShuffleAnswers.UseVisualStyleBackColor = true;
       // 
+      // checkBoxHideAnswerNumber
+      // 
+      this.checkBoxHideAnswerNumber.AutoSize = true;
+      this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(57, 66);
+      this.checkBoxHideAnswerNumber.Name = "checkBoxHideAnswerNumber";
+      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(170, 17);
+      this.checkBoxHideAnswerNumber.TabIndex = 2;
+      this.checkBoxHideAnswerNumber.Text = "Ukryj litery przy odpowiedziach";
+      this.checkBoxHideAnswerNumber.UseVisualStyleBackColor = true;
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(276, 254);
+      this.Controls.Add(this.checkBoxHideAnswerNumber);
       this.Controls.Add(this.checkBoxShuffleAnswers);
       this.Controls.Add(this.buttonStart);
       this.Name = "MenuView";
@@ -70,6 +82,7 @@
 
     private System.Windows.Forms.Button buttonStart;
     private System.Windows.Forms.CheckBox checkBoxShuffleAnswers;
+    private System.Windows.Forms.CheckBox checkBoxHideAnswerNumber;
   }
 }
 
