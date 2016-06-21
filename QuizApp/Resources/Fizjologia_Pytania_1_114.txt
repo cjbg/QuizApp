@@ -311,7 +311,7 @@ D. Wzrost ciśnienia osmotycznego krwi o 1-2% ponad wartość prawidłową
 E. Działanie nikotyny 
 
 40 -Badany jest w stanie utrzymać dynamometr z siłą równą 2/3 wartości siły maksymalnejprzy: 
-ODP:A
+ODP:1
 A. CZAS WYTRZYMAŁOŚCI MIĘŚNIOWEJ (50 SKRYPT) 
 B. 
 C. 
@@ -916,3 +916,323 @@ B. Długości naczynia krwionośnego
 C. Całkowitej energii przepływu w danym odcinku układu naczyniowego 
 D. Promienia wewnętrznego naczynia krwionośnego 
 E. Prawidłowego rozdziału krwi do poszczególnych łożysk naczyniowych 
+
+115 - Oddychanie Biota
+ODP:1
+A. W stanach śpiączki toksycznej, a także przy nadmiernym zwiększeniu ciśnienia śródczaszkowego, obserwuje się niekiedy inną formę oddychania periodycznego tzw. Oddychanie Biota. Polega ono na seriach 4-5 głębokich ruchów oddechowych o identycznejamplitudzie, rozdzielonych dużymi okresami bezdechu o bardzo nieregularnej długości. Oddychanie periodyczne-nieregularne przerwy w ruchach oddechowych występujące także w ciągu dnia. Charakteryzuje się nieregularnością rytmu, połączoną niekiedy z oscylacjami amplitudy ruchów oddechowych. Przyczyną jest osłabienie wrażliwości neuronów oddechowych pnia mózgu na chemiczne bodźce oddychania. Dzieje się tak pod wpływem toksycznego lub mechanicznego uszkodzenia pnia mózgu w zatruciach, urazach wypadkowych czaszki lub wylewach krwi do mózgu. (str. 714) 
+B.
+C.
+D.
+E.
+
+116 - W którym stadium eytrocyt traci jądro
+ODP:A
+A. Erytroblasty ortochromatyczny (str. 424)
+B.
+C.
+D.
+E.
+
+117 - Śródgałkowe ciśnienie 10-21mm hg od czego zależy?
+ODP:1
+A. zależy od cieczy wodnistej (płynu komorowego) produkowanego przez nabłonek ciała rzęskowego i od równowagi między jego produkcją a odpływem (str. 119)
+B.
+C.
+D.
+E.
+
+118 - Propulsywne przepychanie pokarmu skurcze odcinkowe/ perystaltyczne jakie ???
+ODP:1
+A. 2cm/s str. 740 – SA to ruchy obejmujące krótkie segmenty jelita, przemieszczają zawartość w obu kierunkach od miejsca skurczu W TRACZU NIE MOGLIŚMY ZNALEŹĆ NIC O 2CM/S
+B.
+C.
+D.
+E.
+
+119 - Doświadczenie turcka 2 cześć -H2SO4 na mięśnie żaby SIŁY !!! działania bodźca na okres latencji
+ODP:1
+A. skrypt str ,5 – im silniejsza podnieta tym krótszy czas latencji
+B.
+C.
+D.
+E.
+
+120 - Neutrofile jak nazywamy zdolność do przechodzenia przez nabłonek
+ODP:1
+A. diapedeza (str. 409 – jeżeli chodzi o śródbłonek, na tej stronie jest kinetyka neutrofili, nie pada słowo diapedeza, ale w internatach tak jest)
+B.
+C.
+D.
+E.
+
+121 - Neutrofile jak nazywamy zdolność do przechodzenia przez nabłonek
+ODP:1
+A. diapedeza - jest to proces przechodzenia leukocytów przez śr HYPERLINK "https://pl.wikipedia.org/wiki/Śr%F3dbłonek"ódb HYPERLINK "https://pl.wikipedia.org/wiki/Śr%F3dbłonek"łonek naczyń z udziałem cząsteczek adhezyjnych do płynu śródmiąższowego tkanek, w których wystąpiło zapalenie.
+B.
+C.
+D.
+E.
+
+122 - Faza czynna połykania
+ODP:1
+A. Ustna (ustno - gardłowa nie wchodzi). faza ustna- charakter dowolny (pewnie chodzi o czynny), faza gardlowa i przelywkowa- charakter odruchowy
+B.
+C.
+D.
+E.
+
+123 - Nagie zakończenia nerwowe - Dotyk + Temperatura (nie ma odp ból)
+ODP:1
+A. MECHANO TERMO I BÓL - TRACZYK (która strona w traczyku? 90 ktoras w duzym) wolne zakonczenia nerwowe- eksteroreceptory (czucie skorne), proprioreceptory nagie zakonczenia nerwowe- nocyceptory (bodzce uszkadzajace tkanki)- bodzce mechaniczne, temperatura, bodzce chemiczne
+B.
+C.
+D.
+E.
+
+124 - Marzenia senne 
+ODP:1
+A. 85% REM i 15% NREM 260 TRACZ
+B.
+C.
+D.
+E.
+
+125 - Który z poniższych układów nerkowych wykazuje największą aktywność w wydalaniu jonów wodorowych: - to A czy D w 10?????? ktos wie?
+ODP:0
+A. wydalanie NaH2PO4 => to na pewno dobrze wszędzie jest napisane że w usuwaniu H + największą rolę odgrywa bufor wodorowwęglanowy (HCO3-) , bufor fosoforanowy jest na II miejscu głownie w kanaliku dalszym i zbiorczym ( ja na 99 % moge przysiać ze była to odp A), więc może bufory Hco30 nie yło w odp bufor HCO3- nie wydala H+ z moczem ale bierze udział w przemianach wewnątrz nerek a fosforanowy mimo że w mniejszym stopniu bierze udział w przemianach w nerkach, to jest głownym ktory wydala H+
+B. wydalanie siarczanu
+C. wydalanie NH4+ nie wchodzi podobno czy to pewne, że nie wchodzi???????????( w bullocku 599 str pisze, że nie wchodzi ;)) ale w bullocku jest pytanie z czym się nie łączy (a z nh3 0łączy się tworząc nh4+); a w normach dla moczu jest więcej nh4+ niż kwaśności miar0eczkowej
+D. wydalanie kwaśności miareczkowej????????????????????????/z W warunkach fizjologicznych 2/3 do 3/4 wszystkich jonów H+ ulega wydaleniu jako sprzężone z NH3, podczas gdy resztę, tj. V4 do V3 stanowi miareczkowa kwasowość moczu (związana z buforem fosforanowym). Kwaśność miareczkowa stanowi 25-40% wydalonego jonu wodorowego, pozostała część zaś wydalana jest w powiązaniu z amoniakiem odp a i d jak dla mnie to to samo bo pisze, ze glownym skladnikiem kwasnosci miareczkowej są fosforany jednosodowe
+E.
+
+126 - Aldosteron
+ODP:1
+A. wszystkie odp (a jakie były warianty? -gielda) wytwarzany przez warstwe klebkowata kory nadnerczy, mineralokortykosteroid, reguluje gospodarke wodno- mineralna ustroju, w ramach RAA, wzmaga resorpcje zwrotna soli sodowych, hamuje wydalanie do moczu sodu, wzrost cisnienia tetniczego
+B.
+C.
+D.
+E.
+
+127 - Heparyna wzmaga aktywność antytrombiny 3
+ODP:1
+A. dobrze 444 TRACZ
+B.
+C.
+D.
+E.
+
+128 - Gdzie otolity – woreczek łagiewka
+ODP:1
+A. w woreczku dwa razy większe niż w łagiewce 130 TRACZ
+B.
+C.
+D.
+E.
+
+129 - Sarkomery
+ODP:1
+A. podstawowa jednostka czynnościowa mięśnia poprzecznie prążkowanego
+B.
+C.
+D.
+E.
+
+130 - Jakie barwniki w czopkach – ma część kwasową???
+ODP:1
+A. jodopsyna- swiatloczuly barwnik
+B.
+C.
+D.
+E.
+
+131 - Jakich komórek najmniej w przysadce
+ODP:1
+A. zasadochłonnych 347 TRACZ - komorki barwnikooporne- 50%, kwasochlonne- 35%, zasadochlonne- 15% kwasochlonne- hormon wzrostu i prolaktyna zasadochlonne- hormon luteinizujacy, folikulotropowy, tyreotropowy , adenokortykotropowy
+B.
+C.
+D.
+E.
+
+132 - Peptydaza w soku trzustkowym karboksypeptydaza
+ODP:1
+A. A 766 TRACZ trypsyna(endopeptydaza), chymotrypsyna A i B(endopeptydaza), elastaza(endopeptydaza), karboksypeptydazy A i B (egzopeptydaza)
+B.
+C.
+D.
+E.
+
+133 - Hamuje śliny
+ODP:1
+A. Atropina (746 TRACZ) Atropina - Poraża zakończenia przywsp HYPERLINK "https://pl.wikipedia.org/wiki/Układ_przywsp%F3łczulny"ółczulnego uk HYPERLINK "https://pl.wikipedia.org/wiki/Układ_przywsp%F3łczulny"ładu nerwowego, co skutkuje obniżeniem wydzielania gruczo HYPERLINK "https://pl.wikipedia.org/wiki/Gruczoł"łowego oraz rozkurczem mi HYPERLINK "https://pl.wikipedia.org/wiki/Tkanka_mięśniowa_gładka"ęśni gładkich przewodu HYPERLINK "https://pl.wikipedia.org/wiki/Przew%F3d_pokarmowy" HYPERLINK "https://pl.wikipedia.org/wiki/Przewód_pokarmowy" HYPERLINK "https://pl.wikipedia.org/wiki/Przew%F3d_pokarmowy"pokarmowego,oskrzeli i uk HYPERLINK "https://pl.wikipedia.org/wiki/Układ_moczowo-płciowy"ładu moczowego. Poraża akomodację oka i rozszerza źrenice
+B.
+C.
+D.
+E.
+
+134 - Załamek T rozkojarzenie elektromechaniczne
+ODP:1
+A. (repolaryzacja komór) (SKRYPT 91/92) zalamek T reprezentuje koncowy okres skurczu komor, bedac wyrazem repolaryzacji miesnia sercowego
+B.
+C.
+D.
+E.
+
+135 - Limf B
+ODP:1
+A. CD19 (294 MAŁY TRACZ)
+B.
+C.
+D.
+E.
+
+136 - Kostamery co robią?:
+ODP:1
+A. przekazywanie napięcia z sarkomeru na kompleks glikoproteinowy do macierzy zewnątrzkomórkowej Przenoszą sygnały z mięśnia do macierzy pozakom. Funkcja kostamerów Przenoszenie sił mechanicznych poprzez sarkolemę poza włókno Koordynacja kształtu błony (skurcz/rozkurcz) Przekazywanie sygnałów z innych komórek
+B.
+C.
+D.
+E.
+
+137 - Jakich białek najwięcej w osoczu zdrowego
+ODP:1
+A. albumin (303 MAŁY TRACZ)
+B.
+C.
+D.
+E.
+
+138 - Stan czuwania
+ODP:1
+A. układ siatkowaty wstępujący i cześć podstawna przodomózgowia (186 MAŁY TRACZ) Ośrodkiem czuwania jest jądro siatkowate mostu przednie.
+B.
+C.
+D.
+E.
+
+139 - Co to znaczy skurcz izotoniczny
+ODP:1
+A. zmiana długości mięśnia, bez zmiany napięcia
+B.
+C.
+D.
+E.
+
+140 - Jakie parametry krążenia nie zmieniają się przy skurczu
+ODP:1
+A. opór naczyniowy ogólny
+B.
+C.
+D.
+E.
+
+141 - Prężność tlenu w pęcherzyka/powietrzu wydychanym
+ODP:1
+A. Odpowiedź prawidłowa: 100/120 <- to pytanie sam miałem na egzaminie ( W opracowaniu jest zdjęcie tabelki - Tabela 20.1) - Duży Traczyk str. 661 na dole
+B.
+C.
+D.
+E.
+
+142 - Próba Martineta – wzrasta skurczowe ciśnienie, spada rozkurczowe
+ODP:1
+A. normotoniczna pasuje najbardziej chociaż nic nie jest napisane jak bardzo spada to rozkurczowe i co się dzieje z pulsem KĘDZIORA STR 143/144. Hipertoniczna - zbyt duże zwiększenie częstości tętna i skurczowego tętniczego ciśnienienia krwi – u osób z niesprawnym uk. krążenia. Asteniczna - wyraża się jedynie znacznym wzrostem HR - u osób z niesprawnym uk. krążenia. Dystoniczna zbyd duże większenie HR i znaczne obniżenie rozkuczowego RR - u osób z niesprawnym uk. krążenia. Normotoniczna - HR (++30-50 bpm) RRsk (++20-40mmHg) RRrozk ( const lub -- 10-15 mmHg) – po 3-4 min wraca do normy.
+B.
+C.
+D.
+E.
+
+143 - Akwaporyny
+ODP:1
+A. antydiuretyczny wyrzuca ja na błonę (AQP2): (823 TRACZ) AHD powoduje wbudowanie akwaporyn (AQP2 bo AQP1 stale wbudowane) w ścianę kanalików zbiorczych przez co powoduje resorpcje wody i jonów sodu. Aktywacja receptorów V2 --- pobudzenie cyklazy adenylowej – wzrost cAMP --- akt kinazy białkowej A ---- fosforylacja białka APQ2 ---- wbudowywanie w kanaliki ---- wzrost przepuszczalności dla H2O
+B.
+C.
+D.
+E.
+
+144 - Sarkomery (78 TRACZ)– triada co powoduje
+ODP:1
+A.  rozprzestrzenia depolaryzacje i uwalnianie jonów wapnia Ca2+ do sarkomerów
+B.
+C.
+D.
+E.
+
+145 - Kanaliki T co powodują (79 TRACZ)
+ODP:1
+A. umożliwiają rozprzestrzenianie Ca2+ w mięśniu poprzecznie prążkowanym przez co biorą udział w skurczu mięśnia, gwałtowna dyfuzja jonów Ca2+ do szczeliny triady, a z niej do sarkoplazmy. Są elektroczynnikami, reagują na zmiane potencjału elektrycznego błony, przekazują pobudzenie do knałów wapniowych ER.
+B.
+C.
+D.
+E.
+
+146 - Odruch na światło
+ODP:1
+A. jądro dodatkowe nerwu III (103 tracz) (Westphala Edingera) (Jądro Perlii (Jądro centralne n. III w polu przedpokrywkowym =>Westphala Edingera=> Zwój rzęskowy)
+B.
+C.
+D.
+E.
+
+147 - 2,3 DPG- Łączy się łańcuchami beta hemoglobiny z R do T /nie wiem o co chodzi w pytaniu/
+ODP:1
+A. (skrypt 69 – 2,3-DPG zmniejszenie powinowactwa Hb do O2) (TRACZ 400 --- 2,3-DPG łączy się w miejscach między łańcuchami Beta. W wyniku odłączenia się 2,3-DPG odległość między dimerami wzrasta--- wzrost powinowactwa --- Hb przechodzi ze stanu ścisłego T do stanu rozluźnionego R.) (Jest tabelka w opracowaniu - HB R Hb T Odległość między dimerami Większa Mniejsza Powinowactwo do O2 Duże Małe)
+B.
+C.
+D.
+E.
+
+148 - FEV1 maleje, VC w normie doświadczenie z zapałką??
+ODP:1
+A. (Próba Snidera, Choroba Obturacyjna Płuc) (181 skrypt) Powyższy wynik świadczy o chorobie obturacyjnej płuc --> FEV1 maleje, VC norma O chorobie restrykcyjnej świadczyłoby zmniejszenie VC.
+B.
+C.
+D.
+E.
+
+149 - Wymiana Hamburgera
+ODP:1
+A. Cl- do erytrocytu a a HCO3- do osocza –prążek 3 – przesunięcie chlorkowe (403 tracz) We krwi żylnej płynącej do płuc stężenie jonów chlorkowych w erytrocytach jest wyższe niż we krwi tętniczej. Dyfudujący CO2 z tkanek do osocza krwi i tworzący się w osoczu w nadmiarze HCO3- wypiera aniony chlorkowe, które przechodzą do erytrocytów (wymiana Hamburgera) przez kanał anionowy utworzony w błonie erytrocytów przez białka prążka 3 (Band 3 protein). Zwiększenie stężenia anionów chlorkowych w erytrocytach przesuwa krzywą dysocjacji hemoglobiny w prawo. Duży Traczyk str. 403 Dwutlenek węgla bez przeszkód dyfunduje z cytoplazmy komórek do płynu zewnątrzkomórkowego (ECF), następnie do osocza krwi i do wnętrza erytrocytów. Pod wpływem enzymu znajdującego się w cytoplazmie erytrocytów - anhydrazy węglanowej – wchodzi w rekację z cząsteczkami wody, powstaje wówczas kwas węglowy. Kwas węglowy dysocjuje na wolne jony wodoru i aniony wodorowęglanowe. Wolny jon H+ wiąże się z odtlenowaną hemoglobiną i ułatwia dysocjację tlenu (Efekt Bohra), zaś aniony wodorowęglanowe częściowo dyfundują z cytoplazmy erytrocytów do osocza. Zwiększenie stężenia anionów wodorowęglanowych w osoczu powoduje wypieranie z osocza anionów chlorkowych, które przez kanał anionowy, utworzony w błonie erytrocytów z białka prążka 3, napływają do wnętrza erytrocytów. Duży Traczyk str. 403
+B.
+C.
+D.
+E.
+
+150 - Wzór Arnetha coś z jądra pałeczkowate – pewnie chodziło o przesunięcie w LEWO jeśli o pałeczkowate a płatowane w PRAWO (Jest zdjęcie w opracowaniu)
+ODP:1
+A. Wzór Arnetha określa liczbę płatów j HYPERLINK "https://pl.wikipedia.org/wiki/J%C4%85dro_kom%C3%B3rkowe"ądra kom HYPERLINK "https://pl.wikipedia.org/wiki/J%C4%85dro_kom%C3%B3rkowe"órkowego w danym granulocycie obojętnochłonnym i prawidłowo wynosi 2-5. Jest ona zmienna i zależy od wieku komórki. W miarę starzenia się komórki rośnie. Jeśli we krwi obserwuje się zwiększoną liczbę nie w pełni dojrzałych komórek z jądrem jednopłatowym, pałeczkowatym (tzw. przesunięcie w lewo), świadczyć to może o stanie chorobowym związanym ze zwiększonym zapotrzebowaniem tkanek na granulocyty, kiedy to dochodzi do nasilonego ich uwalniania ze szpiku przy jednoczesnym obniżeniu rygorystyczności bariery szpikowej dla komórek nie w pełni jeszcze dojrzałych. (Sawicki str. 229) (Jest zdjęcie w opracowaniu)
+B.
+C.
+D.
+E.
+
+151 - Synapsy elektryczne
+ODP:1
+A. mają dużo kanałów jonowo-metabolicznych W synapsach elektrocznych neurony prawie się stykają (gł. połączenia typu „neksus”). Kolbka presynaptyczna oddalona jest od kolbki postsynaptycznej o 3,5 nm. Możliwa jest wędrówka jonów z jednej komórki do drugiej – przekazywanie dwukierunkowe. Impuls jest bardzo szybko przekazywany. Występują w mięśniach, siatkówce oka, części korowej m HYPERLINK "https://pl.wikipedia.org/wiki/M%C3%B3zgowie"ózgu oraz niektórych częściach serca.
+B.
+C.
+D.
+E.
+
+152 - Zeitgeber /z niemieckiego dawca czasu/
+ODP:1
+A. rytmiczne czynniki środowiskowe (synchronizatory) regulujące zegar biologiczny. Najważniejszym zeitgeberem jest światło. Duży Traczyk str. 262-263
+B.
+C.
+D.
+E.
+
+153 - Tropomiozyna co robi
+ODP:1
+A. blokuje miejsca wiązania miozyny na aktynie, połączona z aktyna Tropomiozyna – jedno z białek miofilamentu cienkiego (aktynowego). Fibryle tropomiozymy są nawinięte na aktynowy rdzeń. W pewnych odstępach przyczepiona jest globularna troponina. Białko to może łączyć się z jonami wapnia, co powoduje zmianę położenia tropomiozyny na aktynie. Dzięki temu na aktynie odsłonięte zostają miejsca wiążące miozynę. /Warto wspomnieć też o troponinach: / Wyróżnia się: - troponinę TnC - przyłączającą wapń podczas skurczu mięśnia - troponinę TnI - wiążącą aktynę i hamującą jej kontakt z miozyną - troponinę TnT - wiążącą tropomiozynę.
+B.
+C.
+D.
+E.
+
+154 - Czynnik hamujący pobudliwość baroreceptorów tętniczych
+ODP:1
+A. tlenek azotu (NO) Torująco wpływa – Prostacyklina PGI2 – hamuje kanały K+ zależne od Ca2+, adaptacja, osłabione pobudzenie trwa dłużej. Telnek azotu (uwalniany z komórek śródbłonka) hamuje pobudliwość zakończeń baroreceptorów. --- hiperwentylacja Duży Traczyk str. 565
+B.
+C.
+D.
+E.
