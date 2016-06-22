@@ -1920,16 +1920,442 @@ E.
 
 240 - Co nie pobudza ruchów żołądka
 ODP:1
-A. sekretyna, to dobrze! 
+A. sekretyna, to dobrze! Pobudzenie nerwów błędnych i acetylocholina prowadzą do częstszych potencjałów czynnościowych i co za tym idzie, do częstszych i silniejszych skurczów żołądka, natomiast odwrotny wpływ mają nerwy współczulne i aminy katecholowe. Spośród hormonów najsilniejszy wpływ pobudzający ma gastryna. Nasila ona częstość wyładowań potencjałów czynnościowych i wzmaga częstość i siłę skurczów żołądka, zwalniając jednak opróżnianieżołądkowe. Podobny wpływ na opróżnianie żołądka ma CCK. Sekretyna i glukagon hamują potencjały czynnościowe i skurcze żołądka, także zwalniając jego opróżnianie. Jedynie motylina silnie pobudza aktywność elektryczną i motoryczną żołądka, przyspieszając jego opróżnianie. (21.1.4.3) 
+B.
+C.
+D.
+E.
+	
+241 - Czemu krew się nie cofa do serca
+ODP:1
+A. vis frontalne. Całkowity gradient ciśnień w układzie żylnym zależy od dwóch głównych czynników: • fali ciśnienia docierającego przez mikrokrążenie do najmniejszych żył ( vis a tergo) • obniżenia centralnego ciśnienia w dużych żyłach i prawym przedsionku ( vis a fronte) Wysokość ciśnienia na początku układu żylnego zależy od oporu w mikrokrążeniu zwłaszcza w tętniczkach. Rozszerzenie ich zwiększa gradient ciśnień w układzie żylnym i przyspiesza ruch krwi żylnej. Drugi czynnik działa wtedy, kiedy centralne ciśnienie żylne obniża się w następstwie nasilonych wdechów oraz przy zwiększonym odpływie krwiżylnej do krążenia płucnego wskutek przyspieszenia rytmu serca i zwiększenia objętości minutowej serca. TRACZYK Str 549. 
 B.
 C.
 D.
 E.
 
-241 -
+242 - Co nie należy do układu optycznego 
 ODP:1
-A.
+A. siatkówka. Układ optyczny oka składa się z rogówki ,soczewki, cieczy wodnistej i ciała szklistego. ‘Głównymi składowymi zlozonego układu optycznego oka sa rogówka i soczewka’ – Traczyk s. 104 
 B.
 C.
 D.
 E.
+
+243 Które białko wbudowane w receptor ACTH?
+ODP:1
+A. alfa-aktynina??? Nie mam pojecia czy ta alfa aktynina jest poprawna natomiast z ang Wiki ACTH receptors are located on the plasma membrane, and are G protein-coupled receptors. ( więc białko G może ? ) The ACTH receptor uses cAMP as a secondary messenger. 
+B.
+C.
+D.
+E.
+
+244. Czemu na początku aksonu szybszy impuls 
+ODP:1
+A. duża ilość kanałów jonowych. Próg pobudliwości niezbędny do wywołania potencjału czynnościowego jest zależny od gęstościkanałow sodowych (im więcej kanałów Na + tym mniejszy próg pobudliwości ). Najwięcej kanałów jest we wzgórku aksonalnym
+B.
+C.
+D.
+E.
+
+245. Komórki rzęskowe kiedy do kinetocylium
+ODP:1
+A. -> od – Na+ , do -Ca2+ Gdy rzęska zostanie popchnieta w kierunku kinetocylium, wydłuża sie czss otwarcia kanałów ( dla K+ iCa2+ --> wnikają one OBFICIE do komórki --> DEPOLARYZACJA) jak sie przybliża do kinetocylium to 1) OTWORZENIE KANAłu 2) wzrost % K+ i Ca2+ w tej rzęsce 3)DEPOLARYZACJA
+B.
+C.
+D.
+E.
+
+246.Wyrzutu sercowy w min 20% 
+ODP:1
+A. frakcja wyrzutowa -objętość wyrzutowa / objętość późno rozkurczowa=60 % 20. % V krwi tłoczonej przez serce w ciągu minuty ( czyli ta V wyrzutowa)znajduje się w naczyniach obszaru trzewnego, 
+B.
+C.
+D.
+E.
+
+247. pobudzenie zakonczeń acetylocholinowych nerwu błędnego w oskrzelach sporowduje: 
+ODP:1
+A. wzmożone wydzielanie śluzu w drogach oddechowych i dużo odpowiedzi z rozszerzaniem bądź zwężaniem dróg oddechowych Pobudzenie włókien cholinergicznych nerwu błednego powoduje silny skurcz mieśni gładkich i zwiężenie oskrzeli za pośrednictwem receptorów M3 oraz WYDZIELENIE ŚLUZU I ROZSZERZENIENACZYŃ KRWIONOŚNYCH OSKRZELI do śledziony -transferyna, a ze śledziony hemosyderyna) 
+B.
+C.
+D.
+E.
+
+248. kiedy wzrasta zewnątrzkomórkowe stęż jonów potasu: jedną z odp była pompa sodowopotasowa, 
+ODP:1
+A. Hiperkaliemia: • nadmierna podaż potasu u chorych z upośledzoną czynnością wydalniczą nerek lub z upośledzonym transportem potasu do komórek • upośledzenie wydalania potasu przez nerki – ostra lub przewlekła niewydolność nerek, niedobór aldosteronu lub GKS (wrodzony lub nabyty), hipoaldosteronizm hiporeninowy • hiperkaliemie polekowe • upośledlezenie dokomórkowego transportu potasu – kwasica nieoddechowa, blokada receptora adrenergicznego ß2, niedobór insuliny, niedobór aldosteronu, blokada układu renina–angiotensyna–aldosteron • 5) nadmierne uwalnianie potasu z komórek • 6) hiperkaliemia rzekoma (pozaustrojowe uwalnianie potasu z krwinek) – hemoliza próbkikrwi, • Zahamowanie pompy sodowo potasowej przez np. leki, toksyny lub niskie steżenie K+ również doprowadzi do podwyższenia stężenia K+ 
+B.
+C.
+D.
+E.
+
+249. pobudzenie narządu Cortiego,
+ODP:1
+A. odp z K+ i depolaryzacja. Narzad Cortiego – narzad spiralny: jego rola polega na przekazywaniu energii mechanicznej wsekwencje potencjałów czynnościowych. Kom. Rzęsate – receptory. Pobudzenie kom. Rzęsatych jest następstwem drgań udzielonych przychłonce i śródchłonce. W narzadzie spiralnym ślimaka wystepuja stale potencjaly spoczynkowe +80mV – potencjal srodchlonkowy i potencjal -80mV w kom. rzęsatych. Róznica potencjału = 160mV (zależy od składu jonowego środowiska) TRACZYK 124
+B.
+C.
+D.
+E.
+
+250.Co możemy usłyszeć podczas fazy rozkurczu serca
+ODP:1
+A. 3. ton serca Mechanizm: powstaje w obrębie komór (częściej lewej) w trakcie szybkiego napełnianiakomór (ton wczesnorozkurczowy), gdy upośledzona jest podatność komory lub zwiększona objętość napływającej krwi. Fizjologiczny III ton może występować u zdrowych dzieci i u młodzieży. 
+B.
+C.
+D.
+E.
+
+251.jaka jest roznica potencjałów między perylimfa a czym tam 
+ODP:1
+A. Znalazłem tylko różnice miedzy potencjałem Endolimfy (sródchłonka) = +80mV oraz potencjałem w komórkach rzęsa tych -=80 mV, więc różnica wynosi 160 mV to w traczyku s 124 potencjał spoczynkowy (nadolimfy) ok 80-100 mV w stosunku do perylimfy potencjał komórek czuciowych od -70 do -40 mV a to z notatek z neta 
+B.
+C.
+D.
+E.
+
+252.coś o tym ,które prawdziwe o komórkach rzęsiastych czy jakoś tak i opcje ,ze wewnętrznych jest jedna warstwa a zewnetrznych albo 3/albo 4/albo 5 
+ODP:1
+A. Komórki rzęsate będące receptorami zmysłu słuchu usytuowane są na błodnie podstawnej narządu spiralnego. Komórki te ułożone są w pojedynczy rząd około 3500 komórek wewnętrznych i trzy rzędy komórek zewnętrznych, których liczba dochodzi do 2000. 
+B.
+C.
+D.
+E.
+
+253.w jaki sposób w 70% jest transportowany CO2 HCO3-w osoczu 
+ODP:1
+A. W 84 % Co2 jest transportowany w postaci związanej chemicznie jako wodorowęglany 
+B.
+C.
+D.
+E.
+
+254. jakich jonów jest najwięcej w moczu 
+ODP:1
+A. CLNajwięcej. w moczu jest jonów Na+ -0,070 mL/min, a dopiero potem Cl-0,065mL/min tabela 24.3 
+B.
+C.
+D.
+E.
+
+255.prawo Pouissela czy jak to się tam pisze: 
+ODP:1
+A. odpowiedź z promieniem czy tam srednica naczynia Prawo Poiseuille’a głosim ze objętość cieczy przepływającej w jednostce czasu, czyli natężenie przepływu jest wprost proporcjonalne do różnicy ciśnień ( P1-P2) podtrzymującej ruch cieczy oraz do czwartej potęgi promienia rurki (r^4) natomiast odwrotnie proporcjonalne do jej długości L i do lepkości ciczy n. W równaniu znajduje się ponadto stała stała wartość 8 jako współczynnik wynikający ze scałkowania profilów prędkości cieczy w poszczególnych warstwach przepływu płynącej cieczy V ( natężenie przepływu) = P1-P2/L= r^4 * liczba pi/8n Lub R( opór przepływu) = P1-P2/V=8Ln/8*pi*r^4 Opór przepływu jest odwrotnie proporcjonalny do czwartej potęgi promienia naczynia r Przykład : dwukrotne zmniejszenie promienia naczynia powoduje 16 krotne zwiększenie oporu. STRONA 515 18.2.2 
+B.
+C.
+D.
+E.
+
+256.perystaltyka jelita
+ODP:1
+A. odpowiedzi byly jest pochodzenia miogennego, jest odnerwiona dalej nie pamietamy, jeszcze że po pobudzeniu mechanoreceptorów i to chyba mi zaliczyło. 1. Skurcze perystaltyczne są wynikiem miejscowego odruchu obejmującego śródścienne sploty jelitowe i występują one nawet w jelicie odnerwionym zewnętrznie lub wyciętym i zawieszonym w płynieodzywczym ( doświadczenie Mangusa) 2. Skurcze odcinkowe jelit jelit mają charakter wyłącznie MIOGENNY, a perystaltyczne są wynikiem ŚRÓDŚCIENNEGO ODRUCHU PERYSTALTYCZNEGO opisanego przez Baylissa Starlinga. 3. Błona śluzowa jelita tworzy podłużne lub okrężne fałdy spowodowane skurczami jej warstwy mięśniowej zachodzącymi pod wpływem bodźców mechanicznych lub transmiterów. Więc raczej pasuje odpowiedz z odnerwieniem 
+B.
+C.
+D.
+E.
+
+257.odruch żołądkowo-jelitowy-co robi
+ODP:1
+A. odp. chyba przyspieszenie perystaltyki jelita grubego po rozciagnieciu sciany zoladka ale sprawdzcie, jelita krętego • odruch żołądkowo-jelitowy -pobudza motorykę jelita, sygnalizuje o obecności pokarmu w żołądku
+B.
+C.
+D.
+E.
+
+258.toniczna aktywnosc przy zwieraczu przełyku dolnego
+ODP:1
+A. po prostu to zapamiętajcie Mechanizmy zamykające wpust = 1.toniczna skurcz dolnego zwieracza przełyku 2.Mechanizm zastawkowy pomiędzy przełykiem a żołądkiem ( kąt Hisa) 3.ucisk przełyku przez odnogi mięśni przepony 4.bierny uciskciśniania śródbrzusznego na dolny odcinek przelyku 
+B.
+C.
+D.
+E.
+
+259. kanaliki T gdzie sie znajduje
+ODP:1
+A. znajduje sie na styku A i I 
+B.
+C.
+D.
+E.
+
+260. cisnienie w nerkach
+ODP:1
+A. odp.80-180mmHg, (a mi tej odpowiedzi nie zaliczyli :( EFP-Efektywne ciśnienie filtracyjne –> 2kPa= 15 mmHg Traczyk str. 849 
+B.
+C.
+D.
+E.
+
+261.pytanie o baroreceptory
+ODP:1
+A. odp. komponetna naczyniowa jest wolniesza od sercowej (dobrze) przez co za obnizenie ciśnienia (za obniżenie ciśnienia składowa naczyniowa) odpowiada zwolnienie akcji serca(za zwolnienie odpowada składowa sercowa) Traczyk str. 566 Składowa sercowa-zwolnienie rytmu serca, osłabienie kurczliwości mięśnia sercowego, zmniejszenie pojemności minutowej serca. Składowa naczyniowa-rozszerzenie naczyń krwionośnych, spadek ciśnienia tętniczego. Opóźnienie składowej naczyniowej > opóźnienie składowej sercowej 
+B.
+C.
+D.
+E.
+
+262.w czym lepsze są receptory fazowe od tonicznych
+ODP:1
+A. w odp coś z szybkością, chyba że reagują na szybkie bodźce Receptory fazowe – szybko adaptujące się-długotrwały bodziec wywołuje potencjał generujący SZYBKO opadający do zera. Traczyk str. 95 
+B.
+C.
+D.
+E.
+
+263. co jest wydzielane przez komorki okladzinowe
+ODP:1
+A. odp. czynnik wewnętrzny Castle'a, +HCl Traczyk str. 757 
+B.
+C.
+D.
+E.
+
+264.droga dośrodkowoa dla zucia jest?
+ODP:1
+A. V,IX, X – Traczyk str. 723 Dośrodkowo: V, IX, X, Odśrodkowa: V, VII, IX, XII 
+B.
+C.
+D.
+E.
+
+265.co nie nie dzieje się w tarkcie pobudzenia pręcika
+ODP:1
+A. odp. otwarcie się kanałów sodowych (wtrakcie pobudzenia następuje zamknięcie kanałów Na+ ) i depolaryzacja ( następujehiperpolaryzacja) Traczyk str. 108 
+B.
+C.
+D.
+E.
+
+266.gdzie jest najwyzsze pH
+ODP:1
+A. odp. sok trzstkowy Traczyk str. 765 
+B.
+C.
+D.
+E.
+
+267.co nie wzrasta w skurczu izotonicznym? 
+ODP:1
+A. Napięcie (siła) mięśnia Traczyk str. 81 
+B.
+C.
+D.
+E.
+
+268.ile wynosi różnica pomiędzy komórkami rzęsatymi a śródchłonką 
+ODP:1
+A. = 160 mV Traczyk str. 124 
+B.
+C.
+D.
+E.
+
+269.co najbardziej wpływa na skurcz wpustu (chyba tak to brzmiało, 
+ODP:1
+A. odp typu ucisk przepony, skurcze przełyku itp.) Traczyk str. 727 Mechanizmy zamykające wpust: • Toniczny skurcz dolnego zwieracza przełyku • Mechanizm zastawkowy pomiędzy przełykiem a żołądkiem (kąt Hisa) • Ucisk przełyku przez odnogi mięśnia przepony • Bierny ucisk ciśnienia śródbrzusznego na dolny podprzeponowy odcinek przełyku 
+B.
+C.
+D.
+E.
+
+270.Uszkodzenie n.podjęzykowego -co powoduje?
+ODP:1
+A. Porażenie nerwu podjęzykowego jednostronne powoduje, że wysunięty język zbacza na stronę chorą (wiąże się to z przewagą mięśnia bródkowojęzykowego)( tutaj było do wyboru jakieś chrapanie, chrypka cos takiego) CHRAPANIE Traczyk str. 645 
+B.
+C.
+D.
+E.
+
+271.Pobudzenie przedwczesne odruchu komorowego przyczyna 
+ODP:1
+A. Komorowe pobudzenie dodatkowe: ?? • Występuje pełna przerwa wyrównawcza • Zniekształcenie zespołu komorowego • Brak załamka P • Skrócony odcinek T-Q • Punkt wyjścia występuje w obwodowych częściach układu przewodzącego lub w mięśniuroboczym Traczyk str. 497 
+B.
+C.
+D.
+E.
+
+272.IgG fałsz zaznacz – najbardziej swoiste w odpowiedzi 
+ODP:1
+A. • Najwyższe stężenie we krwi ( % we krwi=%pozanaczyniowe) najwięcej IgG1 • Najczęściej wytwarzane przeciwciała w trakcie wtórnej odpowiedzi immunologicznej • Przechodzą przez łożysko • Wiążą dopełniacz (składową C1q) • Udział w opsonizacji • IgG3 tworzy agregaty, im większe % tej podklasy większa lepkość krwi • Wśród przeciwciał o swoistości IgG1 i 3 spotyka się przeciwciała Rh-i te skierowane przeciwko czynnikowi VII krzepnięcia krwi 
+B.
+C.
+D.
+E.
+
+273. Wydzielanie na zakończeniach synaptycznych – acetylocholina – w płytkach ruchowych
+ODP:1
+A. synapsa nerwowo-mięśniowa Traczyk str. 64 
+B.
+C.
+D.
+E.
+
+274. WPW zespół
+ODP:1
+A. zespół preekscytacji Niejdednorodność czynnościowa, Polega na obecności dodatkowej drogi ( np. przetrwałe z życia płodowego pęczki mięśniowe) przewodzenia impulsów elektrycznych z przedsionków do komór przez pęczek Kenta, z pominięciem węzła przedsionkowo-komorowego i pęczka Hisa. Przewodzenie w dodatkowych drogach odbywa się szybciej niż drogą fizjologiczną, dlatego część komory przyległa do dolnego ujścia dodatkowej drogi zostaje pobudzona szybciej niż części pozostałe. Przejawia się to w EKG falą potencjału wyprzedzającą normalny zespół komorowy. Traczyk str. 501 
+B.
+C.
+D.
+E.
+
+275. Przysadka hormony 
+ODP:1
+A. 1) Płat przedni • Beta-LPH • ACTH • GH • TSH • FSH • LH • Prolaktyna 2) Część pośrednia • CLIP –peptyd kortykotropinopodobny • Alfa-LPH • Beta-endorfina 
+B.
+C.
+D.
+E.
+
+276. Ile osocza filtruje nerka w ciągu minuty
+ODP:1
+A. 1,2 litra/min Traczyk str. 846 
+B.
+C.
+D.
+E.
+
+277. Nebulina i tityna co robią ? 
+ODP:1
+A. Nebulina-przebiega od linii Z wzdłuż nitek aktyny, może regulować tworzenie i długość nitek aktyny Tytyna-sięga od Linii Z do linii M. rozkurcz mięśnia, pozwala mięśniowi na powrót do pierwotnego kształtu po biernym rozciągnięciu, umożliwia przyłączenie innych białek pomocniczych prążka A, utrzymuej strukturę mięśnia 
+B.
+C.
+D.
+E.
+
+278. Wskaźnik wentylacji pręcherzykowej
+ODP:1
+A. -0,85 
+B.
+C.
+D.
+E.
+
+279. Batmotropizm co to? 
+ODP:1
+A. pobudliwość mięśnia sercowego 
+B.
+C.
+D.
+E.
+
+280. Wchłanianie wody 
+ODP:1
+A. zależy od wazopresyny w kanaliku zbiorczym Traczyk str/ 858 
+B.
+C.
+D.
+E.
+
+281. Największy opór
+ODP:1
+A. oskrzela 
+B.
+C.
+D.
+E.
+
+282. Co pobudza hormon tyreotropowy 
+ODP:1
+A. Co pobudza hormon tyreotropowy • Niedoczynność pierwotna tarczycy • TRH • Spadek stężenia T3 i T4 we krwi • Sen • Zimno… • Długotrwałe reakcje emocjonalne 
+B.
+C.
+D.
+E.
+
+283. Jony H+ 
+ODP:1
+A. wchodzi HPO4, NIE NH4+ a nie kwaśność miareczkowa? ??? 
+B.
+C.
+D.
+E.
+
+284 - Ktory z poniższych układow nerkowych wykazuje największą aktywność w wydalaniu jonow wodorowych:
+ODP:0
+A. wydalanie NaH2PO4 
+B. wydalanie siarczanu 
+C. wydalanie NH4+ nie wchodzi podobno czy to pewne, że nie wchodzi???????????( wbullocku 599 str pisze, że nie wchodzi ;)) ale w bullocku jest pytanie z czym się niełączy (a z nh3 0łączy się tworząc nh4+); a w normach dla moczu jest więcej nh4+ niżkwaśności miar0eczkowej
+D. wydalanie kwaśności miareczkowej 
+E.
+
+285 - BULDOG pytanie 180 z egzaminu końcowego: „ W warunkach prawidłowych jon H+ jest wydalany przez nerki głównie w postaci: 
+ODP:0
+A. HCO3
+B. jonu fosforanowego 
+C. NH4+ 
+D. kwasoty miareczkowej
+E. jonu beta hydroksymasłowego 
+U:Opis do odpowiedzi: „Nerka wydala jony H+jako NH4+ i kwaśność miareczkową. Kwaśność miareczkowa występuje głównie w postaci H2PO4-, a wydalana jest przede wszystkim jako NaH2PO4 (nazywany też kwaśnym fosforanem, ortofosforanem jednosodowym lub fisforanem jednozasadowym). Prawidłowa nerka wydala prawie dwukrotnie więcej kwasu połączonego z NH3 niż kwaśności miareczkowej. Prędkość wydalania NH4+ wzrasta w kwasicy metabolicznej.” 
+
+286 - Gradient CO2 między kom. a światłem pęcherzyków NIE15
+ODP:1
+A. wchodzi 6 traczyk s. 661 tabelka 
+B.
+C.
+D.
+E.
+
+287 - Ruch rzęsek
+ODP:1
+A. depolaryzacja przez potas i odchylenie w stronę kinetocylium TRACZYK 126-127 „Jeżeli ruch rzęsek odbywa się w kierunku DO kinetocylium, to powstaje DEPOLARYZACJA i zwiększenie częstotliwości potencjałow. „ – Tracz str 130 „Skurcz szybki zależy od przepływu jonów K+ do wnętrza komó®ki w czasie jej depolaryzacji”. –Tracz str 127 
+B.
+C.
+D.
+E.
+
+288 - Lapik (może chodzi o labilność??)
+ODP:1
+A. chronaksja jest ok (im wieksza labilność tym mniejsza chronaksja) . co to lapik? ch. wie 
+B.
+C.
+D.
+E.
+
+289 Wzrost prężności O2 w krwi żylnej Nie jest spowodowana:
+ODP:1
+A. wysiłkiem fizycznym, niedokrwistością, obniżoną objętością minutową serca, zatruciem tlenkiem węgla. Wzrost prężności tlenu w krwi żylnej jest wyższa niż normalnie w wyniku: zatrucia cyjankiem BULDOG 339 str pytanie 25 
+B.
+C.
+D.
+E.
+
+290 - co produkuje ciecz wodnistą 
+ODP:1
+A. nabłonek ciała rzęskowego 
+B.
+C.
+D.
+E.
+
+291 - witamina co wchlania sie zaleznie od Na+ 
+ODP:1
+A. tiamina wchłania się na drodze transportu czynnego zależnego od Na+ ,ale nie wiem czy o to tu chodziło 
+B.
+C.
+D.
+E.
+
+292 - parathormon
+ODP:1
+A. hamuje reabsorbcje fosforanów w kanaliku bliższym s.854 
+B.
+C.
+D.
+E.
+
+293 - hematokryt
+ODP:1
+A. dzieci 30-40, Norma dla niemowląt i małych dzieci wynosi 30-40%. Spadek poziomu hematokrytu może świadczyć o niedokrwistości, zaś podwyższony poziom najczęściej o odwodnieniu *s.398 hematokryt: -mężczyźni: 41,5-50,4 % -kobiety 36-45 % dziecko: -I tydzień życia 52% -kilka tygodni 42% -pare miesięcy – 4 lat 36% -12 r.życia – 39% Wzrost Hct może być spowodowany: -wymiotami, biegunk ą (odwodnienie) -niedotlenienie tkanek, czerwienica prawdziwa 
+B.
+C.
+D.
+E.
+
+294. Małe motoneurony gamma unerwiają odśrodkowo??????? odpowiedz?
+ODP:1
+A. Gamma: unerwiają włókna mięśniow we wrzecionach mięśniowych (tzw. włókna wrzecionowe) 
+B.
+C.
+D.
+E.
+
