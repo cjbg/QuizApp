@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using QuizApp.Model;
@@ -31,16 +32,34 @@ namespace QuizApp.Presenter
     private void PrepareView()
     {
       _model.Questions = _reader.ReadQuestionsFromResources(_model.RepetitionNumber);
-      _currentQuestion = GetRandomQuestion();
+      _currentQuestion = GetQuestion();
       SetViewData();
     }
 
     private void SetViewData()
     {
       _view.Question = _currentQuestion.Name;
-      SetAnswerNames();
+
+      if (_currentQuestion.HasOneAnswer)
+      {
+        SetOneAnswer();
+      }
+      else
+      {
+        SetAnswerNames();
+      }
+
       SetCheckedAnswers();
       SetAnswersColors();
+    }
+
+    private void SetOneAnswer()
+    {
+      _view.Answer1 = SetAnswerName(_currentQuestion.Answers[0].Name);
+      _view.Answer2 = string.Empty;
+      _view.Answer3 = string.Empty;
+      _view.Answer4 = string.Empty;
+      _view.Answer5 = string.Empty;
     }
 
     private void SetAnswersColors()
@@ -80,64 +99,45 @@ namespace QuizApp.Presenter
       return name;
     }
 
-    private Question GetRandomQuestion()
-    {
-      var random = new Random();
-      Question question;
+    private Question GetQuestion()
+    {      
+      var question = GetRandom();
 
-      do
+      if (_model.ShuffleAnswers && !question.HasOneAnswer)
       {
-        var index = random.Next(_model.Questions.Count);
-        question = _model.Questions[index];
-      } while (question.RepetitionNumber == 0);
-
-      if (_model.ShuffleAnswers)
-      {
-        question.Answers = question.Answers.OrderBy(
-          x => random.Next())
-          .ToList();
+        question.Answers = ShuffleAnswers(question);
       }
 
       return question;
     }
 
+    private Question GetRandom()
+    {
+      var random = new Random();
+      Question question;
+      do
+      {
+        var index = random.Next(_model.Questions.Count);
+        question = _model.Questions[index];
+      } while (question.RepetitionNumber == 0);
+      return question;
+    }
+
+    private static List<Answer> ShuffleAnswers(Question question)
+    {
+      var random = new Random();
+      return question.Answers.OrderBy(
+          x => random.Next())
+        .ToList();
+    }
+
     public void CheckAnswers()
     {
       SetAnswersColor();
-      if (IsAnsweredCorrectly())
+      if (_currentQuestion.IsAnsweredCorrectly(_view))
       {
         _currentQuestion.RepetitionNumber--;
       }
-    }
-
-    private bool IsAnsweredCorrectly()
-    {
-      if (_view.CheckedAnswer1 != _currentQuestion.Answers[0].IsCorrect)
-      {
-        return false;
-      }
-
-      if (_view.CheckedAnswer2 != _currentQuestion.Answers[1].IsCorrect)
-      {
-        return false;
-      }
-
-      if (_view.CheckedAnswer3 != _currentQuestion.Answers[2].IsCorrect)
-      {
-        return false;
-      }
-
-      if (_view.CheckedAnswer4 != _currentQuestion.Answers[3].IsCorrect)
-      {
-        return false;
-      }
-
-      if (_view.CheckedAnswer5 != _currentQuestion.Answers[4].IsCorrect)
-      {
-        return false;
-      }
-
-      return true;
     }
 
     private void SetAnswersColor()
@@ -175,28 +175,15 @@ namespace QuizApp.Presenter
 
     public void SetNextQuestion()
     {
-      if (IsAllAnswered())
+      if (_model.IsAllAnswered())
       {
         SetViewAtQuizEnd();
         return;
       }
 
-      _currentQuestion = GetRandomQuestion();
+      _currentQuestion = GetQuestion();
       SetViewData();
-    }
-
-    private bool IsAllAnswered()
-    {
-      foreach (var question in _model.Questions)
-      {
-        if (question.RepetitionNumber > 0)
-        {
-          return false;
-        }
-      }
-
-      return true;
-    }
+    }    
 
     private void SetViewAtQuizEnd()
     {
@@ -217,4 +204,5 @@ namespace QuizApp.Presenter
     }
   }
 }
+
 

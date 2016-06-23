@@ -36,57 +36,57 @@ namespace QuizApp.View
 
     public string Answer1
     {
-      get { return checkBoxAnswer1.Text; }
-      set { checkBoxAnswer1.Text = value; }
+      get { return textBoxAnswer1.Text; }
+      set { textBoxAnswer1.Text = value; }
     }
 
     public string Answer2
     {
-      get { return checkBoxAnswer2.Text; }
-      set { checkBoxAnswer2.Text = value; }
+      get { return textBoxAnswer2.Text; }
+      set { textBoxAnswer2.Text = value; }
     }
 
     public string Answer3
     {
-      get { return checkBoxAnswer3.Text; }
-      set { checkBoxAnswer3.Text = value; }
+      get { return textBoxAnswer3.Text; }
+      set { textBoxAnswer3.Text = value; }
     }
 
     public string Answer4
     {
-      get { return checkBoxAnswer4.Text; }
-      set { checkBoxAnswer4.Text = value; }
+      get { return textBoxAnswer4.Text; }
+      set { textBoxAnswer4.Text = value; }
     }
 
     public string Answer5
     {
-      get { return checkBoxAnswer5.Text; }
-      set { checkBoxAnswer5.Text = value; }
+      get { return textBoxAnswer5.Text; }
+      set { textBoxAnswer5.Text = value; }
     }
 
     public Color ColorAnswer1
     {
-      set { checkBoxAnswer1.ForeColor = value; }
+      set { textBoxAnswer1.ForeColor = value; }
     }
 
     public Color ColorAnswer2
     {
-      set { checkBoxAnswer2.ForeColor = value; }
+      set { textBoxAnswer2.ForeColor = value; }
     }
 
     public Color ColorAnswer3
     {
-      set { checkBoxAnswer3.ForeColor = value; }
+      set { textBoxAnswer3.ForeColor = value; }
     }
 
     public Color ColorAnswer4
     {
-      set { checkBoxAnswer4.ForeColor = value; }
+      set { textBoxAnswer4.ForeColor = value; }
     }
 
     public Color ColorAnswer5
     {
-      set { checkBoxAnswer5.ForeColor = value; }
+      set { textBoxAnswer5.ForeColor = value; }
     }
 
     public bool CheckedAnswer1

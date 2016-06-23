@@ -11,5 +11,7 @@ namespace QuizApp.Model.Interface
     int RepetitionNumber { get; set; }
 
     List<Question> Questions { get; set; }
+
+    bool IsAllAnswered();
   }
 }

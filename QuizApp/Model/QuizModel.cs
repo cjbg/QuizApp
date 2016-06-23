@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using QuizApp.Model.Interface;
 
 namespace QuizApp.Model
@@ -36,5 +37,10 @@ namespace QuizApp.Model
     }
 
     public List<Question> Questions { get; set; }
+
+    public bool IsAllAnswered()
+    {
+      return Questions.All(x => x.RepetitionNumber <= 0);
+    }
   }
 }

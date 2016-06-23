@@ -8,6 +8,8 @@ namespace QuizApp.Service
 {
   public class QuizParser : IQuizParser
   {
+    private const string HasOneAnswerMark = "1";
+
     public List<Question> ParseQuestions(List<string> lines, int repetitionNumber)
     {
       var questions = new List<Question>();
@@ -47,9 +49,17 @@ namespace QuizApp.Service
 
     private void SetValidAnswers(Question question, string[] validAnswers)
     {
-      question.Answers.ForEach(
-        x => x.IsCorrect = validAnswers.Any(
-          y => y == GetFirstLetter(x.Name).ToString()));
+      if (validAnswers[0] == HasOneAnswerMark)
+      {
+        question.Answers[0].IsCorrect = true;
+        question.HasOneAnswer = true;
+      }
+      else
+      {
+        question.Answers.ForEach(
+          x => x.IsCorrect = validAnswers.Any(
+            y => y == GetFirstLetter(x.Name).ToString()));
+      }
     }
 
     private bool IsLastAnswerLine(string line)
