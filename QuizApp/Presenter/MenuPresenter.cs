@@ -21,12 +21,13 @@ namespace QuizApp.Presenter
       _view = view;
     }
 
-    public void StartQuiz()
+    public void StartQuiz(string textFromResource)
     {
       QuizView view = new QuizView(
         _view.ShuffleAnswers,
         _view.HideAnswerLetter,
-        ConvertRepetitionNumber());
+        ConvertRepetitionNumber(),
+        textFromResource);
 
       view.ShowDialog();
     }

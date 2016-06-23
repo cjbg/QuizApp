@@ -10,6 +10,8 @@ namespace QuizApp.Model.Interface
 
     int RepetitionNumber { get; set; }
 
+    string TextFromResource { get; set; }
+
     List<Question> Questions { get; set; }
 
     bool IsAllAnswered();

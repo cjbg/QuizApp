@@ -9,7 +9,7 @@ namespace QuizApp.Service
 {
   public class QuizReader : IQuizReader
   {
-    private readonly IQuizParser _parser;
+    private readonly IQuizParser _parser;    
 
     public QuizReader()
       : this(new QuizParser())
@@ -21,9 +21,9 @@ namespace QuizApp.Service
       _parser = parser;
     }
 
-    public List<Question> ReadQuestionsFromResources(int repetitionNumber)
+    public List<Question> ReadQuestionsFromResources(int repetitionNumber, string textFromResource)
     {
-      string resourceData = Resources.Fizjologia_Pytania_1_114;
+      string resourceData = textFromResource;
 
       List<string> lines = resourceData.Split(
           new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries)

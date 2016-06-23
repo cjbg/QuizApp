@@ -5,6 +5,6 @@ namespace QuizApp.Service.Interface
 {
   public interface IQuizReader
   {
-    List<Question> ReadQuestionsFromResources(int repetitionNumber);
+    List<Question> ReadQuestionsFromResources(int repetitionNumber, string textFromResource);
   }
 }

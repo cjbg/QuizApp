@@ -13,13 +13,15 @@ namespace QuizApp.View
     private readonly bool _shuffleAnswers;
     private readonly bool _hideAnswerLetter;
     private readonly int _repetitionNumber;
-      
-    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber)
+    private readonly string _textFromResource;
+
+    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber, string textFromResource)
     {
       InitializeComponent();
       _shuffleAnswers = shuffleAnswers;
       _hideAnswerLetter = hideAnswerLetter;
       _repetitionNumber = repetitionNumber;
+      _textFromResource = textFromResource;
     }
 
     private void buttonNextQuestion_Click(object sender, System.EventArgs e)
@@ -193,7 +195,8 @@ namespace QuizApp.View
         new QuizModel(
           _shuffleAnswers, 
           _hideAnswerLetter,
-          _repetitionNumber),
+          _repetitionNumber,
+          _textFromResource),
         this,
         new QuizReader());
     }

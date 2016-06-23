@@ -9,13 +9,14 @@ namespace QuizApp.Model
     private bool _shuffleAnswers;
     private bool _hideAnswerLetter;
     private int _repetitionNumber;
+    private string _textFromResource;
 
-
-    public QuizModel(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber)
+    public QuizModel(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber, string textFromResource)
     {
       _shuffleAnswers = shuffleAnswers;
       _hideAnswerLetter = hideAnswerLetter;
       _repetitionNumber = repetitionNumber;
+      _textFromResource = textFromResource;     
     }
 
     public bool ShuffleAnswers
@@ -35,6 +36,13 @@ namespace QuizApp.Model
       get { return _repetitionNumber; }
       set { _repetitionNumber = value; }
     }
+
+    public string TextFromResource
+    {
+      get { return _textFromResource; }
+      set { _textFromResource = value; }
+    }
+
 
     public List<Question> Questions { get; set; }
 

@@ -28,23 +28,24 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.buttonStart = new System.Windows.Forms.Button();
+      this.buttonStart_Questions_1_114 = new System.Windows.Forms.Button();
       this.checkBoxShuffleAnswers = new System.Windows.Forms.CheckBox();
       this.checkBoxHideAnswerNumber = new System.Windows.Forms.CheckBox();
       this.textBoxRepetitionNumber = new System.Windows.Forms.TextBox();
       this.labelRepetitionNumber = new System.Windows.Forms.Label();
+      this.buttonStart_Questions_115_294 = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
-      // buttonStart
+      // buttonStart_Questions_1_114
       // 
-      this.buttonStart.Location = new System.Drawing.Point(86, 231);
-      this.buttonStart.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStart.Name = "buttonStart";
-      this.buttonStart.Size = new System.Drawing.Size(220, 74);
-      this.buttonStart.TabIndex = 0;
-      this.buttonStart.Text = "Start - Fizjologia 1-114";
-      this.buttonStart.UseVisualStyleBackColor = true;
-      this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
+      this.buttonStart_Questions_1_114.Location = new System.Drawing.Point(86, 210);
+      this.buttonStart_Questions_1_114.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.buttonStart_Questions_1_114.Name = "buttonStart_Questions_1_114";
+      this.buttonStart_Questions_1_114.Size = new System.Drawing.Size(220, 74);
+      this.buttonStart_Questions_1_114.TabIndex = 0;
+      this.buttonStart_Questions_1_114.Text = "Start - Fizjologia 1-114";
+      this.buttonStart_Questions_1_114.UseVisualStyleBackColor = true;
+      this.buttonStart_Questions_1_114.Click += new System.EventHandler(this.buttonStart_Click);
       // 
       // checkBoxShuffleAnswers
       // 
@@ -86,16 +87,28 @@
       this.labelRepetitionNumber.TabIndex = 4;
       this.labelRepetitionNumber.Text = "Liczba powtórzeń pytania";
       // 
+      // buttonStart_Questions_115_294
+      // 
+      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(84, 294);
+      this.buttonStart_Questions_115_294.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.buttonStart_Questions_115_294.Name = "buttonStart_Questions_115_294";
+      this.buttonStart_Questions_115_294.Size = new System.Drawing.Size(220, 74);
+      this.buttonStart_Questions_115_294.TabIndex = 5;
+      this.buttonStart_Questions_115_294.Text = "Start - Fizjologia 115-294";
+      this.buttonStart_Questions_115_294.UseVisualStyleBackColor = true;
+      this.buttonStart_Questions_115_294.Click += new System.EventHandler(this.buttonStart_Questions_115_294_Click);
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(414, 391);
+      this.Controls.Add(this.buttonStart_Questions_115_294);
       this.Controls.Add(this.labelRepetitionNumber);
       this.Controls.Add(this.textBoxRepetitionNumber);
       this.Controls.Add(this.checkBoxHideAnswerNumber);
       this.Controls.Add(this.checkBoxShuffleAnswers);
-      this.Controls.Add(this.buttonStart);
+      this.Controls.Add(this.buttonStart_Questions_1_114);
       this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.Name = "MenuView";
       this.Text = "Menu";
@@ -106,11 +119,12 @@
 
     #endregion
 
-    private System.Windows.Forms.Button buttonStart;
+    private System.Windows.Forms.Button buttonStart_Questions_1_114;
     private System.Windows.Forms.CheckBox checkBoxShuffleAnswers;
     private System.Windows.Forms.CheckBox checkBoxHideAnswerNumber;
     private System.Windows.Forms.TextBox textBoxRepetitionNumber;
     private System.Windows.Forms.Label labelRepetitionNumber;
+    private System.Windows.Forms.Button buttonStart_Questions_115_294;
   }
 }
 

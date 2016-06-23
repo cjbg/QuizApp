@@ -34,7 +34,7 @@ namespace QuizApp.Presenter
   
     private void PrepareView()
     {
-      _model.Questions = _reader.ReadQuestionsFromResources(_model.RepetitionNumber);
+      _model.Questions = _reader.ReadQuestionsFromResources(_model.RepetitionNumber, _model.TextFromResource);
       _currentQuestion = GetQuestion();
       SetViewData();
     }
