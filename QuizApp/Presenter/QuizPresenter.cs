@@ -11,6 +11,9 @@ namespace QuizApp.Presenter
 {
   public class QuizPresenter
   {
+    private const int MaxHeight = 425;
+    private const int DefaultHeight = 65;
+
     private readonly IQuizModel _model;
     private readonly IQuizView _view;
     private readonly IQuizReader _reader;    
@@ -60,6 +63,11 @@ namespace QuizApp.Presenter
       _view.Answer3 = string.Empty;
       _view.Answer4 = string.Empty;
       _view.Answer5 = string.Empty;
+      _view.VisibleAnswer2 = false;
+      _view.VisibleAnswer3 = false;
+      _view.VisibleAnswer4 = false;
+      _view.VisibleAnswer5 = false;     
+      _view.SetHeightAnswer1(MaxHeight); 
     }
 
     private void SetAnswersColors()
@@ -86,7 +94,12 @@ namespace QuizApp.Presenter
       _view.Answer2 = SetAnswerName(_currentQuestion.Answers[1].Name);
       _view.Answer3 = SetAnswerName(_currentQuestion.Answers[2].Name);
       _view.Answer4 = SetAnswerName(_currentQuestion.Answers[3].Name);
-      _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);
+      _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);      
+      _view.VisibleAnswer2 = true;
+      _view.VisibleAnswer3 = true;
+      _view.VisibleAnswer4 = true;
+      _view.VisibleAnswer5 = true;
+      _view.SetHeightAnswer1(DefaultHeight);
     }
 
     private string SetAnswerName(string name)
@@ -193,11 +206,11 @@ namespace QuizApp.Presenter
       _view.Answer3 = String.Empty;
       _view.Answer4 = String.Empty;
       _view.Answer5 = String.Empty;
-      _view.HideAnswer1();
-      _view.HideAnswer2();
-      _view.HideAnswer3();
-      _view.HideAnswer4();
-      _view.HideAnswer5();
+      _view.VisibleAnswer1 = false;
+      _view.VisibleAnswer2 = false;
+      _view.VisibleAnswer3 = false;
+      _view.VisibleAnswer4 = false;
+      _view.VisibleAnswer5 = false;
       _view.CheckButtonEnabled = false;
       _view.LearnedButtonEnabled = false;
       _view.NextButtonEnabled = false;

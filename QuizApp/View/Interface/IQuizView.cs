@@ -35,22 +35,24 @@ namespace QuizApp.View.Interface
 
     bool CheckedAnswer4 { get; set; }
 
-    bool CheckedAnswer5 { get; set; }
-
-    void HideAnswer1();
-
-    void HideAnswer2();
-
-    void HideAnswer3();
-
-    void HideAnswer4();
-
-    void HideAnswer5();
+    bool CheckedAnswer5 { get; set; }   
 
     bool CheckButtonEnabled { get; set; }
 
     bool LearnedButtonEnabled { get; set; }
 
     bool NextButtonEnabled { get; set; }
+
+    void SetHeightAnswer1(int height);
+
+    bool VisibleAnswer1 { set; }
+
+    bool VisibleAnswer2 { set; }
+
+    bool VisibleAnswer3 { set; }
+
+    bool VisibleAnswer4 { set; }
+
+    bool VisibleAnswer5 { set; }
   }
 }

@@ -117,32 +117,7 @@ namespace QuizApp.View
     {
       get { return checkBoxAnswer5.Checked; }
       set { checkBoxAnswer5.Checked = value; }
-    }
-
-    public void HideAnswer1()
-    {
-      checkBoxAnswer1.Hide();
-    }
-
-    public void HideAnswer2()
-    {
-      checkBoxAnswer2.Hide();
-    }
-
-    public void HideAnswer3()
-    {
-      checkBoxAnswer3.Hide();
-    }
-
-    public void HideAnswer4()
-    {
-      checkBoxAnswer4.Hide();
-    }
-
-    public void HideAnswer5()
-    {
-      checkBoxAnswer5.Hide();
-    }
+    }   
 
     public bool CheckButtonEnabled
     {
@@ -160,6 +135,56 @@ namespace QuizApp.View
     {
       get { return buttonNextQuestion.Enabled; }
       set { buttonNextQuestion.Enabled = value;}
+    }
+
+    public void SetHeightAnswer1(int height)
+    {
+      textBoxAnswer1.Height = height;
+    }
+
+    public bool VisibleAnswer1
+    {
+      set
+      {
+        textBoxAnswer1.Visible = value;
+        checkBoxAnswer1.Visible = value;
+      }
+    }
+
+    public bool VisibleAnswer2
+    {
+      set
+      {
+        textBoxAnswer2.Visible = value;
+        checkBoxAnswer2.Visible = value;
+      }
+    }
+
+    public bool VisibleAnswer3
+    {
+      set
+      {
+        textBoxAnswer3.Visible = value;
+        checkBoxAnswer3.Visible = value;
+      }
+    }
+
+    public bool VisibleAnswer4
+    {
+      set
+      {
+        textBoxAnswer4.Visible = value;
+        checkBoxAnswer4.Visible = value;
+      }
+    }
+
+    public bool VisibleAnswer5
+    {
+      set
+      {
+        textBoxAnswer5.Visible = value;
+        checkBoxAnswer5.Visible = value;
+      }
     }
 
     private void QuizView_Load(object sender, System.EventArgs e)
