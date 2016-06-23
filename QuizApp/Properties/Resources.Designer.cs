@@ -72,15 +72,25 @@ namespace QuizApp.Properties {
         ///2 -Oczopląs optokinetyczny występuje u ludzi (132 TRACZ, 25 SKRYPT) 
         ///ODP:D
         ///A. Chorych z uszkodzeniem błędnika 
-        ///B. Zdrowych po wykonaniu próby obrotowej i ma kierunek przeciwny do kierunku 
-        ///obrotów
+        ///B. Zdrowych po wykonaniu próby obrotowej i ma kierunek przeciwny do kierunku obrotów
         ///C. Chorych po wykonaniu próby obrotowej i ma kierunek zgodny z kierunkiem obrotów 
         ///D. Zdrowych podczas patrzenia na szybko przesuwające się obrazy 
-        ///E. Chor [rest of string was truncated]&quot;;.
+        ///E. Choryc [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Fizjologia_Pytania_1_114 {
             get {
                 return ResourceManager.GetString("Fizjologia_Pytania_1_114", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 115 - Oddychanie Biota
+        ///ODP:1
+        ///A. W stanach śpiączki toksycznej, a także przy nadmiernym zwiększeniu ciśnienia śródczaszkowego, obserwuje się niekiedy inną formę oddychania periodycznego tzw. Oddychanie Biota. Polega ono na seriach 4-5 głębokich ruchów oddechowych o identycznejamplitudzie, rozdzielonych dużymi okresami bezdechu o bardzo nieregularnej długości. Oddychanie periodyczne-nieregularne przerwy w ruchach oddechowych występujące także w ciągu dnia. Charakteryzuje się nieregularnością rytmu, połączon [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Fizjologia_Pytania_115_294 {
+            get {
+                return ResourceManager.GetString("Fizjologia_Pytania_115_294", resourceCulture);
             }
         }
     }
