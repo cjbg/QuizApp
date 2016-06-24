@@ -15,5 +15,7 @@ namespace QuizManager.Model.Interface
     List<Question> Questions { get; set; }
 
     bool IsAllAnswered();
+
+    int ConvertRepetitionNumberText(string repetitionNumberText);
   }
 }

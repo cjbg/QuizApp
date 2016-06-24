@@ -4,7 +4,6 @@ using System.Drawing;
 using System.Linq;
 using QuizManager.Model;
 using QuizManager.Model.Interface;
-using QuizManager.Properties;
 using QuizManager.Service;
 using QuizManager.Service.Interface;
 using QuizManager.View.Interface;
@@ -13,7 +12,6 @@ namespace QuizManager.Presenter
 {
   public class QuizPresenter
   {
-    private const int DefaultRepetitionNumber = 1;
     private const int MaxHeight = 425;
     private const int DefaultHeight = 65;
 
@@ -35,24 +33,12 @@ namespace QuizManager.Presenter
       _model = new QuizModel(
         shuffleAnswers,
         hideAnswerLetter,
-        ConvertRepetitionNumber(repetitionNumberText),
-        GetQuizSetText(quizSet));
-
+        repetitionNumberText,
+        _reader.GetTextFromQuizSet(quizSet));
       PrepareView();
     }
 
-    private string GetQuizSetText(QuizSet quizSet)
-    {
-      switch (quizSet)
-      {
-        case QuizSet.Questions_1_114:
-          return Resources.Fizjologia_Pytania_1_114;
-        case QuizSet.Questions_115_294:
-          return Resources.Fizjologia_Pytania_115_294;
-        default:
-          return string.Empty;
-      }
-    }
+    
 
     private void PrepareView()
     {
@@ -79,18 +65,7 @@ namespace QuizManager.Presenter
 
       SetCheckedAnswers();
       SetAnswersColors();
-    }
-
-    public int ConvertRepetitionNumber(string repetitionNumberText)
-    {
-      int repetitionNumber = DefaultRepetitionNumber;
-      if (!string.IsNullOrWhiteSpace(repetitionNumberText))
-      {
-        repetitionNumber = Convert.ToInt32(repetitionNumberText);
-      }
-
-      return repetitionNumber;
-    }
+    }    
 
     private void SetOneAnswer()
     {

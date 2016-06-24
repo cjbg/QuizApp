@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using QuizManager.Model.Interface;
 
@@ -6,16 +7,21 @@ namespace QuizManager.Model
 {
   public class QuizModel : IQuizModel
   {
+    private const int DefaultRepetitionNumber = 1;
     private bool _shuffleAnswers;
     private bool _hideAnswerLetter;
     private int _repetitionNumber;
     private string _textFromResource;
 
-    public QuizModel(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber, string textFromResource)
+    public QuizModel(
+      bool shuffleAnswers, 
+      bool hideAnswerLetter, 
+      string repetitionNumberText, 
+      string textFromResource)
     {
       _shuffleAnswers = shuffleAnswers;
       _hideAnswerLetter = hideAnswerLetter;
-      _repetitionNumber = repetitionNumber;
+      _repetitionNumber = ConvertRepetitionNumberText(repetitionNumberText);
       _textFromResource = textFromResource;     
     }
 
@@ -49,6 +55,17 @@ namespace QuizManager.Model
     public bool IsAllAnswered()
     {
       return Questions.All(x => x.RepetitionNumber <= 0);
+    }
+
+    public int ConvertRepetitionNumberText(string repetitionNumberText)
+    {
+      int repetitionNumber = DefaultRepetitionNumber;
+      if (!string.IsNullOrWhiteSpace(repetitionNumberText))
+      {
+        repetitionNumber = Convert.ToInt32(repetitionNumberText);
+      }
+
+      return repetitionNumber;
     }
   }
 }
