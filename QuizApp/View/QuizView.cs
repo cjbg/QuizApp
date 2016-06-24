@@ -1,9 +1,9 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
-using QuizApp.Model;
-using QuizApp.Presenter;
-using QuizApp.Service;
-using QuizApp.View.Interface;
+using QuizManager.Model;
+using QuizManager.Presenter;
+using QuizManager.Service;
+using QuizManager.View.Interface;
 
 namespace QuizApp.View
 {
@@ -12,22 +12,17 @@ namespace QuizApp.View
     private QuizPresenter _presenter;
     private readonly bool _shuffleAnswers;
     private readonly bool _hideAnswerLetter;
-    private readonly int _repetitionNumber;
-    private readonly string _textFromResource;
+    private readonly string _repetitionNumberText;
+    private readonly QuizSet _quizSet;
 
-    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, int repetitionNumber, string textFromResource)
+    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, string repetitionNumberText, QuizSet quizSet)
     {
       InitializeComponent();
+
       _shuffleAnswers = shuffleAnswers;
       _hideAnswerLetter = hideAnswerLetter;
-      _repetitionNumber = repetitionNumber;
-      _textFromResource = textFromResource;
-    }
-
-    private void buttonNextQuestion_Click(object sender, System.EventArgs e)
-    {
-      buttonCheck.Enabled = true;      
-      _presenter.SetNextQuestion();
+      _repetitionNumberText = repetitionNumberText;
+      _quizSet = quizSet;
     }
 
     public string Question
@@ -119,7 +114,7 @@ namespace QuizApp.View
     {
       get { return checkBoxAnswer5.Checked; }
       set { checkBoxAnswer5.Checked = value; }
-    }   
+    }
 
     public bool CheckButtonEnabled
     {
@@ -136,12 +131,15 @@ namespace QuizApp.View
     public bool NextButtonEnabled
     {
       get { return buttonNextQuestion.Enabled; }
-      set { buttonNextQuestion.Enabled = value;}
+      set { buttonNextQuestion.Enabled = value; }
     }
 
-    public void SetHeightAnswer1(int height)
+    public int HeightAnswer1
     {
-      textBoxAnswer1.Height = height;
+      set
+      {
+        textBoxAnswer1.Height = value;
+      }
     }
 
     public bool VisibleAnswer1
@@ -192,13 +190,17 @@ namespace QuizApp.View
     private void QuizView_Load(object sender, System.EventArgs e)
     {
       _presenter = new QuizPresenter(
-        new QuizModel(
-          _shuffleAnswers, 
-          _hideAnswerLetter,
-          _repetitionNumber,
-          _textFromResource),
-        this,
-        new QuizReader());
+        _shuffleAnswers,
+        _hideAnswerLetter,
+        _repetitionNumberText,
+        _quizSet,
+        this);
+    }
+
+    private void buttonNextQuestion_Click(object sender, System.EventArgs e)
+    {
+      buttonCheck.Enabled = true;
+      _presenter.SetNextQuestion();
     }
 
     private void buttonCheck_Click(object sender, System.EventArgs e)
@@ -213,4 +215,3 @@ namespace QuizApp.View
     }
   }
 }
-    

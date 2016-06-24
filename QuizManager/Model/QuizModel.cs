@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using QuizApp.Model.Interface;
+using QuizManager.Model.Interface;
 
-namespace QuizApp.Model
+namespace QuizManager.Model
 {
   public class QuizModel : IQuizModel
   {

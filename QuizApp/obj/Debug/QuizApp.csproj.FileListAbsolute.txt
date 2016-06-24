@@ -19,3 +19,5 @@ C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.View.MenuView.r
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.View.QuizView.resources
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.Cache
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizApp\bin\Debug\QuizManager.dll
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizApp\bin\Debug\QuizManager.pdb

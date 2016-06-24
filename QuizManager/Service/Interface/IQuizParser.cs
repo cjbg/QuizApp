@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using QuizApp.Model;
+using QuizManager.Model;
 
-namespace QuizApp.Service
+namespace QuizManager.Service
 {
   public interface IQuizParser
   {

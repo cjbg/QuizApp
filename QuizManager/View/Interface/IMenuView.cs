@@ -1,4 +1,4 @@
-﻿namespace QuizApp.View.Interface
+﻿namespace QuizManager.View.Interface
 {
   public interface IMenuView
   {

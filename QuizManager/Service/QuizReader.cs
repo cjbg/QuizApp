@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using QuizApp.Model;
-using QuizApp.Properties;
-using QuizApp.Service.Interface;
+using QuizManager.Model;
+using QuizManager.Properties;
+using QuizManager.Service.Interface;
 
-namespace QuizApp.Service
+namespace QuizManager.Service
 {
   public class QuizReader : IQuizReader
   {

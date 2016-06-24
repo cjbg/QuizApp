@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace QuizApp.Model.Interface
+namespace QuizManager.Model.Interface
 {
   public interface IQuizModel
   {
