@@ -1,7 +1,6 @@
 ﻿using System.Drawing;
-using System.Windows.Forms;
 
-namespace QuizApp.View.Interface
+namespace QuizManager.View.Interface
 {
   public interface IQuizView
   {
@@ -43,7 +42,7 @@ namespace QuizApp.View.Interface
 
     bool NextButtonEnabled { get; set; }
 
-    void SetHeightAnswer1(int height);
+    int HeightAnswer1 { set; }
 
     bool VisibleAnswer1 { set; }
 

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using QuizApp.Model;
+using QuizManager.Model;
 using static System.Char;
 
-namespace QuizApp.Service
+namespace QuizManager.Service
 {
   public class QuizParser : IQuizParser
   {

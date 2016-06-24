@@ -2,39 +2,64 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using QuizApp.Model;
-using QuizApp.Model.Interface;
-using QuizApp.Service.Interface;
-using QuizApp.View.Interface;
+using QuizManager.Model;
+using QuizManager.Model.Interface;
+using QuizManager.Properties;
+using QuizManager.Service;
+using QuizManager.Service.Interface;
+using QuizManager.View.Interface;
 
-namespace QuizApp.Presenter
+namespace QuizManager.Presenter
 {
   public class QuizPresenter
   {
+    private const int DefaultRepetitionNumber = 1;
     private const int MaxHeight = 425;
     private const int DefaultHeight = 65;
 
     private readonly IQuizModel _model;
     private readonly IQuizView _view;
-    private readonly IQuizReader _reader;    
+    private readonly IQuizReader _reader;
 
-    private Question _currentQuestion;   
+    private Question _currentQuestion;
 
     public QuizPresenter(
-      IQuizModel model, 
-      IQuizView view, 
-      IQuizReader reader)
+      bool shuffleAnswers,
+      bool hideAnswerLetter,
+      string repetitionNumberText,
+      QuizSet quizSet,
+      IQuizView view)
     {
-      _model = model;
       _view = view;
-      _reader = reader;      
+      _reader = new QuizReader();
+      _model = new QuizModel(
+        shuffleAnswers,
+        hideAnswerLetter,
+        ConvertRepetitionNumber(repetitionNumberText),
+        GetQuizSetText(quizSet));
 
       PrepareView();
     }
-  
+
+    private string GetQuizSetText(QuizSet quizSet)
+    {
+      switch (quizSet)
+      {
+        case QuizSet.Questions_1_114:
+          return Resources.Fizjologia_Pytania_1_114;
+        case QuizSet.Questions_115_294:
+          return Resources.Fizjologia_Pytania_115_294;
+        default:
+          return string.Empty;
+      }
+    }
+
     private void PrepareView()
     {
-      _model.Questions = _reader.ReadQuestionsFromResources(_model.RepetitionNumber, _model.TextFromResource);
+      _model.Questions = _reader.ReadQuestionsFromResources(
+        _model.RepetitionNumber,
+        _model.TextFromResource);
+
       _currentQuestion = GetQuestion();
       SetViewData();
     }
@@ -56,6 +81,17 @@ namespace QuizApp.Presenter
       SetAnswersColors();
     }
 
+    public int ConvertRepetitionNumber(string repetitionNumberText)
+    {
+      int repetitionNumber = DefaultRepetitionNumber;
+      if (!string.IsNullOrWhiteSpace(repetitionNumberText))
+      {
+        repetitionNumber = Convert.ToInt32(repetitionNumberText);
+      }
+
+      return repetitionNumber;
+    }
+
     private void SetOneAnswer()
     {
       _view.Answer1 = SetAnswerName(_currentQuestion.Answers[0].Name);
@@ -66,8 +102,8 @@ namespace QuizApp.Presenter
       _view.VisibleAnswer2 = false;
       _view.VisibleAnswer3 = false;
       _view.VisibleAnswer4 = false;
-      _view.VisibleAnswer5 = false;     
-      _view.SetHeightAnswer1(MaxHeight); 
+      _view.VisibleAnswer5 = false;
+      _view.HeightAnswer1 = MaxHeight;
     }
 
     private void SetAnswersColors()
@@ -94,12 +130,12 @@ namespace QuizApp.Presenter
       _view.Answer2 = SetAnswerName(_currentQuestion.Answers[1].Name);
       _view.Answer3 = SetAnswerName(_currentQuestion.Answers[2].Name);
       _view.Answer4 = SetAnswerName(_currentQuestion.Answers[3].Name);
-      _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);      
+      _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);
       _view.VisibleAnswer2 = true;
       _view.VisibleAnswer3 = true;
       _view.VisibleAnswer4 = true;
       _view.VisibleAnswer5 = true;
-      _view.SetHeightAnswer1(DefaultHeight);
+      _view.HeightAnswer1 = DefaultHeight;
     }
 
     private string SetAnswerName(string name)
@@ -113,7 +149,7 @@ namespace QuizApp.Presenter
     }
 
     private Question GetQuestion()
-    {      
+    {
       var question = GetRandom();
 
       if (_model.ShuffleAnswers && !question.HasOneAnswer)
@@ -196,7 +232,7 @@ namespace QuizApp.Presenter
 
       _currentQuestion = GetQuestion();
       SetViewData();
-    }    
+    }
 
     private void SetViewAtQuizEnd()
     {

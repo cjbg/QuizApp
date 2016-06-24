@@ -1,0 +1,7 @@
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.csprojResolveAssemblyReference.cache
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.Properties.Resources.resources
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.csproj.GenerateResource.Cache
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\bin\Debug\QuizManager.dll
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\bin\Debug\QuizManager.pdb
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.dll
+C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.pdb

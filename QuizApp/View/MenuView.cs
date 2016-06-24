@@ -1,37 +1,42 @@
 ﻿using System.Windows.Forms;
-using QuizApp.Model;
-using QuizApp.Presenter;
-using QuizApp.Properties;
-using QuizApp.View.Interface;
+using QuizManager.Model;
+using QuizManager.View.Interface;
 
 namespace QuizApp.View
 {
   public partial class MenuView : Form, IMenuView
   {
-    private readonly MenuPresenter _presenter;
-    public MenuView()
-    {
-      _presenter = new MenuPresenter(
-        new MenuModel(),
-        this);
-
-      InitializeComponent();
-    }
-
-    private void buttonStart_Click(object sender, System.EventArgs e)
-    {
-      _presenter.StartQuiz(Resources.Fizjologia_Pytania_1_114);
-    }
-
     public bool ShuffleAnswers => checkBoxShuffleAnswers.Checked;
 
     public bool HideAnswerLetter => checkBoxHideAnswerNumber.Checked;
 
     public string RepetitionNumberText => textBoxRepetitionNumber.Text;
 
+    public MenuView()
+    {
+      InitializeComponent();
+    }
+
+    private void buttonStart_Click(object sender, System.EventArgs e)
+    {      
+      QuizView view = new QuizView(
+        ShuffleAnswers,
+        HideAnswerLetter,
+        RepetitionNumberText,
+        QuizSet.Questions_1_114);
+
+      view.ShowDialog();
+    }
+
     private void buttonStart_Questions_115_294_Click(object sender, System.EventArgs e)
     {
-      _presenter.StartQuiz(Resources.Fizjologia_Pytania_115_294);
+      QuizView view = new QuizView(
+        ShuffleAnswers,
+        HideAnswerLetter,
+        RepetitionNumberText,
+        QuizSet.Questions_115_294);
+
+      view.ShowDialog();
     }
   }
 }
