@@ -683,7 +683,7 @@ D. Wydzielanie śluzu i rozszerzenie naczyń krwionośnych oskrzeli
 E. Zwiększenie przestrzeni nieużytecznej dróg oddechowych 
 
 87. Kilkakrotne zwiększenie zawartości potasu w diecie nie spowoduje wzrostu stężeniatego jonu we krwi w wyniku działania mechanizmu: (838 TRACZ) 
-ODP:A
+ODP:D
 A. Zwiększenia przepuszczalności kanalików dalszych nerki dla potasu 
 B. Wydalania potasu pod wpływem aldosteronu z wymiana na jon sodowy 
 C. Zwiększenia transportu potasu do komórek głównie mięśni szkieletowych 
