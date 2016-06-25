@@ -34,6 +34,7 @@
       this.textBoxRepetitionNumber = new System.Windows.Forms.TextBox();
       this.labelRepetitionNumber = new System.Windows.Forms.Label();
       this.buttonStart_Questions_115_294 = new System.Windows.Forms.Button();
+      this.buttonStartW1 = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
       // buttonStart_Questions_1_114
@@ -89,7 +90,7 @@
       // 
       // buttonStart_Questions_115_294
       // 
-      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(84, 294);
+      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(86, 294);
       this.buttonStart_Questions_115_294.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStart_Questions_115_294.Name = "buttonStart_Questions_115_294";
       this.buttonStart_Questions_115_294.Size = new System.Drawing.Size(220, 74);
@@ -98,11 +99,23 @@
       this.buttonStart_Questions_115_294.UseVisualStyleBackColor = true;
       this.buttonStart_Questions_115_294.Click += new System.EventHandler(this.buttonStart_Questions_115_294_Click);
       // 
+      // buttonStartW1
+      // 
+      this.buttonStartW1.Location = new System.Drawing.Point(86, 378);
+      this.buttonStartW1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.buttonStartW1.Name = "buttonStartW1";
+      this.buttonStartW1.Size = new System.Drawing.Size(220, 74);
+      this.buttonStartW1.TabIndex = 6;
+      this.buttonStartW1.Text = "Start - W1W2W3W4";
+      this.buttonStartW1.UseVisualStyleBackColor = true;
+      this.buttonStartW1.Click += new System.EventHandler(this.buttonStartW1_Click);
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(414, 391);
+      this.ClientSize = new System.Drawing.Size(414, 479);
+      this.Controls.Add(this.buttonStartW1);
       this.Controls.Add(this.buttonStart_Questions_115_294);
       this.Controls.Add(this.labelRepetitionNumber);
       this.Controls.Add(this.textBoxRepetitionNumber);
@@ -125,6 +138,7 @@
     private System.Windows.Forms.TextBox textBoxRepetitionNumber;
     private System.Windows.Forms.Label labelRepetitionNumber;
     private System.Windows.Forms.Button buttonStart_Questions_115_294;
+    private System.Windows.Forms.Button buttonStartW1;
   }
 }
 

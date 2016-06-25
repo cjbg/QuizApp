@@ -17,25 +17,30 @@ namespace QuizApp.View
       InitializeComponent();
     }
 
-    private void buttonStart_Click(object sender, System.EventArgs e)
-    {      
-      QuizView view = new QuizView(
+    private QuizView CreateQuizView(QuizSet quizSet)
+    {
+      return new QuizView(
         ShuffleAnswers,
         HideAnswerLetter,
         RepetitionNumberText,
-        QuizSet.Questions_1_114);
+        quizSet);
+    }
 
+    private void buttonStart_Click(object sender, System.EventArgs e)
+    {      
+      QuizView view = CreateQuizView(QuizSet.Questions_1_114);
       view.ShowDialog();
     }
 
     private void buttonStart_Questions_115_294_Click(object sender, System.EventArgs e)
     {
-      QuizView view = new QuizView(
-        ShuffleAnswers,
-        HideAnswerLetter,
-        RepetitionNumberText,
-        QuizSet.Questions_115_294);
+      QuizView view = CreateQuizView(QuizSet.Questions_115_294);
+      view.ShowDialog();
+    }
 
+    private void buttonStartW1_Click(object sender, System.EventArgs e)
+    {
+      QuizView view = CreateQuizView(QuizSet.Questions_W1W2W3W4);
       view.ShowDialog();
     }
   }

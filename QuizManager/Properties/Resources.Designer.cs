@@ -93,5 +93,31 @@ namespace QuizManager.Properties {
                 return ResourceManager.GetString("Fizjologia_Pytania_115_294", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1.hormon pochodzenia aminokwasowego , ktory nie dziala po podaniu doustnym : 
+        ///ODP:D
+        ///A. t3 
+        ///B. t4
+        ///C. melatonina 
+        ///D. noradrenalina 
+        ///
+        ///2.Hormony steroidowe: 
+        ///ODP:C
+        ///A. są nierozpuszczalne w tłuszczach 
+        ///B. nie przenikają przez błony 
+        ///C. działają za pośrednictwem receptorów wewnętrznych 
+        ///D. działają za pośrednictwem receptorów zewnętrznych 
+        ///
+        ///3. Uwalnianie insuliny z komórek B wysp trzustkowych zależy od : 
+        ///ODP:A
+        ///A. pobudzenia pozazwojowych n. cholinergicznych 
+        ///B. zahamowania pozazwojowych n,. chol [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string W1W2W3W4 {
+            get {
+                return ResourceManager.GetString("W1W2W3W4", resourceCulture);
+            }
+        }
     }
 }

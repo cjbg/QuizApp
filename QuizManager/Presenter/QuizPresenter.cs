@@ -49,6 +49,8 @@ namespace QuizManager.Presenter
           return Resources.Fizjologia_Pytania_1_114;
         case QuizSet.Questions_115_294:
           return Resources.Fizjologia_Pytania_115_294;
+        case QuizSet.Questions_W1W2W3W4:
+          return Resources.W1W2W3W4;
         default:
           return string.Empty;
       }
@@ -99,6 +101,7 @@ namespace QuizManager.Presenter
       _view.Answer3 = string.Empty;
       _view.Answer4 = string.Empty;
       _view.Answer5 = string.Empty;
+      _view.VisibleAnswer1 = false;
       _view.VisibleAnswer2 = false;
       _view.VisibleAnswer3 = false;
       _view.VisibleAnswer4 = false;
@@ -182,6 +185,11 @@ namespace QuizManager.Presenter
 
     public void CheckAnswers()
     {
+      if (_currentQuestion.HasOneAnswer)
+      {
+        _view.VisibleAnswer1 = true;
+      }
+
       SetAnswersColor();
       if (_currentQuestion.IsAnsweredCorrectly(_view))
       {
