@@ -134,6 +134,7 @@ namespace QuizManager.Presenter
       _view.Answer3 = SetAnswerName(_currentQuestion.Answers[2].Name);
       _view.Answer4 = SetAnswerName(_currentQuestion.Answers[3].Name);
       _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);
+      _view.VisibleAnswer1 = true;
       _view.VisibleAnswer2 = true;
       _view.VisibleAnswer3 = true;
       _view.VisibleAnswer4 = true;
