@@ -399,7 +399,7 @@ D. 100% wydzielania ¿o³¹dkowego
 E. 
 
 1. Funkcja fizjologiczna gastryny nie polega na:
-ODP:C
+ODP:B 
 A. Wzmaganiu motoryki przewodu pokarmowego
 B. pobudzaniu czynnoœci wydzielniczej trzustki
 C. wzgaganiu napiêcia zwieracza odŸwiernika
@@ -839,15 +839,15 @@ D. wszystkie odpowiedzi s¹ poprawne
 E. 
 
 26. Pobudzenie czêœci wspó³czulnej uk³adu autonomicznego unerwiaj¹cej œli...??
-ODP:A,B
-A. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartosci¹ jonów...
-B. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartoœci¹ jonów...
-C. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zaw...
-D. ubogiego wydzielania obfuj¹ce w bia³ko œliny ze zwiêkszon¹ zaw...
+ODP:D
+A. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartosci¹ jonów... H+
+B. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartoœci¹ jonów... Na+
+C. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zaw... C
+D. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zaw... K, HCO3
 E. 
 
 27. Tworzenie kwasu solnego w ¿o³¹dku jest wynikiem
-ODP:B
+ODP:D
 A. transportu biernego jonów H+ i Cl-
 B. transportu aktywnego jonów H+ i Cl-
 C. transportu biernego jonów H+ i aktywnego Cl-
@@ -855,7 +855,7 @@ D. transoprtu aktywnego jonów H+ i biernego Cl-
 E. 
 
 28. Do zwiêkszania aktywnoœci lipolitycznej lipazy trzustkowej nie...
-ODP:0
+ODP:A
 A. kolipaza i sole ¿ó³ciowe
 B. enterokinaza i sole ¿ó³ciowe
 C. trypsyna i sole ¿ó³ciowe
@@ -1085,3 +1085,27 @@ B. przewdodzie Wiraunga
 C. komórkach trzustki
 D. przewodu wyprowadzaj¹cych??? trzustki
 E. wszystkie opdowiedzi s¹ poprawne
+
+28. Bariera œluzówkowa w ¿o³¹dku:
+ODP:1
+A. zapobiega przechodzeniu H z zoladka a Na do zol¹dka
+B. 
+C. 
+D. 
+E. 
+
+29. Dzienne wydzielanie soków trawiennych
+ODP:1
+A. 7litrow(bo 2litry z pokarmem i to razem 9)
+B. 
+C. 
+D. 
+E. 
+
+30. Zmniejszone wydzielanie sliny:
+ODP:A,B
+A. stres 
+B. wysilek 
+C. hamowanie hydrolizy Ach,
+D. Wszystkie 
+E. 
