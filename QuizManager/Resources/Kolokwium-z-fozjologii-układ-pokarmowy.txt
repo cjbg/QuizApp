@@ -463,7 +463,7 @@ D. odpowiedzi B i C
 E. 
 
 13. Zaznacz poprawn¹ odpowiedŸ:
-ODP:B
+ODP:B	
 A. Komórki G uwalniaj¹ somotostatynê
 B. Komórki ok³adzinowe wytwarzaj¹ wewn¹trzpochodny czynnik krwiotwórczy
 C. Komórki g³ówne wytwarzaj¹ gastrynê
@@ -598,7 +598,7 @@ C. Zwiêkszanie napiêcia powierzchniowego
 D. Wp³yw na wydzielanie ¿ó³ci
 E. 
 
-192. Aktywacja nieczynnych czynników taki???... odbywa siê w:
+192. Aktywacja nieczynnych enzymów soku trzustkowego odbywa siê w:
 ODP:D
 A. Przewodach wyprowadzaj¹cy trze...???
 B. Komórkach trzustki
@@ -622,7 +622,7 @@ C. Poza¿o³¹dkowa?
 D. Odpowiedzi A i C s¹ poprawne
 E. 
 
-195 Dzia³anie poduszeczki??? polega na:
+195 Dzia³anie podpuszczki polega na:
 ODP:C
 A. Ochronie b³onie œluzowej ¿o³¹dka przez nietrawienie?
 B. Wch³anianiu bia³ek
@@ -632,7 +632,7 @@ E.
 
 96. Dzia³anie unerwienia? wspó³czulnego? cholinergicznego? na naczynia? krwionoœne miêœni szkieletowych nie jest zwi¹zane z:
 ODP:D
-A. Rozszerzenie naczyæ?
+A. Rozszerzenie naczyñ?
 B. Zwê¿enie? przep³ywu krwi przez miêœnie
 C. Urabianie? acytylechyniny? i zwiêkszenie reaktywnoœci
 D. Wp³ywa a¿erolitycznym???
@@ -641,7 +641,7 @@ E.
 97. Podczas wysi³ku fizycznego nie zwiêksza? siê przep³yw krwi
 ODP:B
 A. wieñcowy
-B. rózgowy???
+B. mózgowy???
 C. ???(odp. uciêta)
 D. ???(odp. uciêta)
 E. 
@@ -1071,48 +1071,17 @@ D. ??????
 E. rozk³adaniu peptydów na aminokwasy
 
 26. Nerwowa? regulacja ????? soku ¿o³¹dkowego odbywa siê za poœrednictwem:
+ODP:C
+A. w³ókien nerwów b³êdnych 
+B. w³ókien nerwów wspó³czólnych
+C. komórek zwojowych warstwy nab³onkowej ¿o³¹dka
+D. komórek zwojowych warstwy miêœniowej ¿o³¹dka
+E. komórek zwojowych warstwy podœluzówkowej ¿o³¹dka
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+27. Aktywacja nieczynnych enzymów soku trzustkowego odbywa siê w:
+ODP:A
+A. Œwietle dwuastnicy
+B. przewdodzie Wiraunga
+C. komórkach trzustki
+D. przewodu wyprowadzaj¹cych??? trzustki
+E. wszystkie opdowiedzi s¹ poprawne
