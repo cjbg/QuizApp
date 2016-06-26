@@ -16,7 +16,7 @@ E.
 
 3. W¹troba nie syntetyzuje (chyba bo nie widac wyraznie) 
 ODP:C
-A. P... yny 
+A. Puryny 
 B. Albuminy 
 C. Insuliny 
 D. Ceruloplazminy 
@@ -56,7 +56,7 @@ E.
 
 12. W postaci nieczynnego proenzymu w soku trzustkowym nie s¹ wydzielane:
 ODP:B
-A. Trypsyna (trypsynogen) ? 
+A. Trypsyna
 B. Enterokinaza 
 C. Chymotrypsyna 
 D. Lipaza trzustkowa 
@@ -97,7 +97,7 @@ E.
 17. Wzmo¿one wydzielanie œliny obserwujemy: 
 ODP:D
 A. Po podaniu atropiny 
-B. Po podaniu œrodków blokuj¹cych receptory (cholinergiczne?) 
+B. Po podaniu œrodków blokuj¹cych receptory cholinergiczne
 C. Po intensywnym wysi³ku 
 D. Po podaniu œrodków hamuj¹cych hydrolizê Ach 
 E.
@@ -207,14 +207,14 @@ D. Wszystkie w/w odpowiedzi sa prawdziwe
 E.
 
 17. Funkcja bariery œluzówkowej ¿o³¹dka polega na:
-ODP:C
+ODP:D
 A. zapobieganiu przenikania jonów sodowych z ¿o³¹dka do krwi
 B. zapobieganiu przenikania jonów wodorowych z krwi do ¿o³¹dka
 C. zapobieganiu przenikania jonów wodorowych z ¿o³¹dka do krwi
 D. odpowiedzi a i c s¹ poprawne
 E. 
 
-19. Udzia³ w¹troby w metabolizowaniu leków realizowany jest za poœrednictwem...
+19. Udzia³ w¹troby w metabolizowaniu leków realizowany jest za poœrednictwem:
 ODP:B
 A. cytochromu C
 B. cytochromu P-450
@@ -338,7 +338,7 @@ E. odpowiedzi C i D s¹ poprawne
 ODP:B
 A. rdzeniu krêgowym
 B. rdzeniu przed³u¿onym
-C. ???
+C. mó¿d¿ku
 D. podwzgórzu
 E. wzgórzu
 
@@ -362,7 +362,7 @@ E. komórki nab³onkowe
 ODP: A
 A. Str¹ceniu bia³ek i rozk³adaniu kazeiny
 B. wch³anianiu bia³ek
-C. ochromnie b³ony œluzowej ...
+C. ochromnie b³ony œluzowej ¿o³¹dka
 D. rozk³adaniu t³uszczów
 E. nadtrawianiu skrobi
 
@@ -422,7 +422,7 @@ C. wzrost wydzielania ¿ó³ci
 D. wzrost stê¿enia soli i kwasów ¿ó³ciowych
 E. 
 
-5. Entropia glutenowa polega na:
+5. Enteropatia glutenowa polega na:
 ODP:A
 A. Zanikaniu aktywnoœci peptydaz i oligosacharydaz
 B. zanikaniu aktywnoœci lipazy A i B oraz endopeptydaz
@@ -431,7 +431,7 @@ D. Wszystkie odpowiedzi s¹ prawid³owe
 E. 
 
 6. Ostatnim etapem trawienia t³uszczów jest:
-ODP:C
+ODP:B
 A. Wytwarzanie micelli w dwuastnicy pod wp³ywem kwasów ¿ó³ciowych
 B. enzymatyczna hydroliza monoglicerydów w enterocycie
 C. enzymatyczny rozk³ad katalizowany przez lipazê trzustkow¹
@@ -519,7 +519,7 @@ D. OdŸwiernika
 E. 
 
 20. Który rodzaj motoryki jest odpowiedzialny w najwiêkszym stopniu za propulsywne przesuwanie pokarmu wzd³u¿ jelita cienkiego:
-ODP: B
+ODP:B
 A. Miêdzytrawienny kompleks bioelektryczny (MMC)
 B. Fala perystaltyczna
 C. Skurcze miogenne
@@ -600,9 +600,9 @@ E.
 
 192. Aktywacja nieczynnych enzymów soku trzustkowego odbywa siê w:
 ODP:D
-A. Przewodach wyprowadzaj¹cy trze...???
+A. Przewodach wyprowadzaj¹cy trzustki
 B. Komórkach trzustki
-C. Przewodzie Wirsunga
+C. Przewodzie Wirstunga
 D. Œwietle dwunastnicy
 E. 
 
@@ -618,32 +618,32 @@ E.
 ODP:D
 A. Przed¿o³¹dkowa
 B. ¯o³¹dkowa
-C. Poza¿o³¹dkowa?
+C. Poza¿o³¹dkowa
 D. Odpowiedzi A i C s¹ poprawne
 E. 
 
 195 Dzia³anie podpuszczki polega na:
 ODP:C
-A. Ochronie b³onie œluzowej ¿o³¹dka przez nietrawienie?
+A. Ochronie b³onie œluzowej ¿o³¹dka przez nadtrawienie
 B. Wch³anianiu bia³ek
-C. Str¹caniu bia³ek i rozk³adaniu amelazy?
+C. Str¹caniu bia³ek i rozk³adaniu kazeiny
 D. Rozk³adaniu t³uszczów
 E. 
 
-96. Dzia³anie unerwienia? wspó³czulnego? cholinergicznego? na naczynia? krwionoœne miêœni szkieletowych nie jest zwi¹zane z:
+96. Dzia³anie unerwienia wspó³czulnego cholinergicznego na naczynia krwionoœne miêœni szkieletowych nie jest zwi¹zane z:
 ODP:D
-A. Rozszerzenie naczyñ?
-B. Zwê¿enie? przep³ywu krwi przez miêœnie
-C. Urabianie? acytylechyniny? i zwiêkszenie reaktywnoœci
-D. Wp³ywa a¿erolitycznym???
+A. Rozszerzenie naczyñ
+B. Zmniejszenie przep³ywu krwi przez miêœnie
+C. Uwalnianu acetylocholiny i zwiêkszenie reaktywnoœci reaktywnoœci naczyñ na jej dzia³anie
+D. Wp³yw adrenolityczny
 E. 
 
-97. Podczas wysi³ku fizycznego nie zwiêksza? siê przep³yw krwi
+97. Podczas wysi³ku fizycznego nie zmienia siê przep³yw krwi
 ODP:B
 A. wieñcowy
-B. mózgowy???
-C. ???(odp. uciêta)
-D. ???(odp. uciêta)
+B. mózgowy
+C. nerkowy
+D. w¹trobowy
 E. 
 
 75. Hormonem bezpoœrednio pobudzaj¹cym wydzielanie jelitowe nie jest:
@@ -654,23 +654,23 @@ C. VIP
 D. somatostatyna
 E. 
 
-76. Do enzymów wystêpuj¹cych w postaci zymogenów? nale¿¹:
+76. Do enzymów wystêpuj¹cych w postaci zymogenów nale¿¹:
 ODP:B
-A. Tryperyna i gnatryna?
-B. peperyna? i ekymotrypezyna?
-C. karboksypeptydazy A i B?
+A. Trypsyna i gastryna
+B. pepsyna i chymotrypsyna
+C. karboksypeptydazy A i B
 D. Odpowuedzu A i B s¹ prawid³owe
 E. 
 
 77. Dzia³anie podpuszczki polega na 
 ODP:B
 A. Nadtrawianiu skrobii
-B. przeprowadzaniu? kareinogenu? w kszeinê?
+B. przeprowadzaniu kazeinogenu w kazeinê
 C. wch³anianiu bia³ek
 D. wch³anianiu witaminy B12
 E. 
 
-78. Tryperyna? atakuje wewnêtrzne wi¹zania peptydowe? utworzone przez
+78. Trypsyna atakuje wewnêtrzne wi¹zania peptydowe utworzone przez
 ODP:B
 A. aminokwasy aromatyczne
 B. aminokwasy zasadowe
@@ -678,11 +678,11 @@ C. aminokwasy rozga³êzione
 D. odpowiedzi A i C s¹ prawdziwe
 E. 
 
-79. Proces trawuenia t³uszczów rozpoczyna? siê
+79. Proces trawienia t³uszczów rozpoczyna siê
 ODP:D
-A. W jamie ustnej pod wp³ywem lipazy œlinowej?
+A. W jamie ustnej pod wp³ywem lipazy œlinowej
 B. w dwunastnicy 
-C. w ¿o³¹dki przy pH poni¿ej 6,0?
+C. w ¿o³¹dki przy pH poni¿ej 6,0
 D. Odpowiedzi B i C s¹ prawdziwe
 E. 
 
@@ -696,24 +696,24 @@ E.
 
 69 Odruch w³asny miêœni tzw miotatyczny nale¿y do odruchów:
 ODP:C
-A. Ekstereraceptywnych?
+A. Eksteroceptywnych
 B. intereceptywnych
-C. proprieceptywnych?
+C. proprieceptywnych
 D. teleceptywnych
 E. 
 
-70. Trawienie ?????? oznacza
+70. Termin afazja ruchowa oznacza
 ODP:B
 A. Brak zdolnoœci czytania i pisania
 B. niemo¿noœæ wyra¿ania myœli s³owami
 C. brak rozpoznawania kszta³tu przedmiotów za pomoc¹ r¹k
-D. niezdolnoœæ rozpoznania? mowy
+D. niezdolnoœæ rozpoznania mowy
 E. 
 
 71 Oœrodek rozrodczy znajduje siê w:
 ODP:D
-A. Korze mózgu / pole 36 wg Brodnanna/?
-B. wêchomózgowiu?
+A. Korze mózgu
+B. wêchomózgowiu
 C. wzgórzu
 D. podwzgórzu
 E. 
@@ -722,14 +722,14 @@ E.
 ODP:C
 A. VIII, II, I
 B. VII, II, III
-C. (I)?, (II)?, (I)
+C. VII, IX, X
 D. VI, II, I
 E. 
 
 3. Rola b³ony œluzowej ¿o³¹dka w czynnoœci krwiotwórczej natroju polega na wytwarzaniu:
 ODP:C
-A. tronboplastyny? tkankowej
-B. erytropeptyny?
+A. tronboplastyny tkankowej
+B. erytropoetyny
 C. czynnika wewnêtrznego Castle'a
 D. kwasu foliowego
 E. 
@@ -738,11 +738,11 @@ E.
 ODP:B
 A. Wystêpuje w 3 formach /mini ma³a du¿a/
 B. Pobudza wydzielanie H2o i elektrolitów w trzustce, w¹trobie i jelicie cienkim
-C. hamuje polerzykê? ¿o³¹dka
+C. hamuje perystaltykê ¿o³¹dka
 D. pobudza wydzielanie HCL
 E. 
 
-28. Który z wymienionych enzymów trawiennych rozk³adaj¹cych wêglowodory ...???
+28. Który z wymienionych enzymów trawiennych rozk³adaj¹cych wêglowodany nie jest sk³adnikiem soku jelitowego
 ODP:A
 A. amylaza
 B. maltaza
@@ -758,7 +758,7 @@ C. noradrenaliny
 D. acetylocholiny
 E. wszystkie odpowiedzi s¹ poprawne
 
-30. Jak¹ rolê odgrywa lizazym? zawarty w œluzie:
+30. Jak¹ rolê odgrywa lizozym zawarty w œluzie:
 ODP:A
 A. Dzia³a bakteriobójczo
 B. uczestniczy w formowaniu kêsów pokarmowych
@@ -774,20 +774,12 @@ C. 10 cm/sek
 D. 20 cm/sek
 E. 30 cm/sek
 
-8. Wulikinina? dzia³a pobudzaj¹co na:
-ODP:E
-A. wydzienie soku trzustkowego
-B. wydzielanie soku ¿o³¹dkowego
-C. wydzielanie insuliny?
-D. okurono? pêcherzyka ¿ó³ciowego
-E. ruchy komórkowe lolibowych?
-
 9. Wydzielanie soku ¿o³¹dkowego hamowane jest przez
 ODP:D
 A. gastrynê
-B. enterogastrynê?
-C. enterogastron?
-D. sekretynê?
+B. enterogastrynê
+C. enterogastron
+D. sekretynê
 E. Odpowiedzi C i D s¹ poprawnê
 
 10. Œlinianki nie s¹ unerwione przez w³ókna nerwu:
@@ -820,30 +812,22 @@ A. Wytwarzaniu enzymu rozk³adaj¹cego b³onnik pokarmów roœlinnych
 B. Wytwarzaniu niektórych witamin dziêki w³asnej florze bakteryjnej
 C. Wytwarzaniu enzymów rozk³adaj¹cych nie strawione dot¹d sk³adniki pokarmowe
 D. Wch³anianiu wodi i formowaniu ka³u
-E. Odpowiedzi B i D? s¹ poprawne
+E. Odpowiedzi B i D s¹ poprawne
 
 14. Automotyzm ruchów jelitowych uwarunkowany jest czynnoœci¹:
 ODP:E
 A. Splotu trzewnego 
 B. Oœrodków rdzenia krêgowego
-C. zwoju podœluzówkowego Moianera?
-D. zwoju œródmiorówkowego? Au????
-E. odpowiedzi C? i D s¹ poprawne
+C. zwoju podœluzówkowego Maisnera
+D. zwoju œródkomórkowego Auerbacha
+E. odpowiedzi C i D s¹ poprawne
 
-25. Enteropatia glutenowa polega na:
-ODP:0
-A. zanikaniu aktywnoœci peptydaz i odi...???
-B. zanikaniu aktywnoœci lipazy oraz endopeptydaz?
-C. upoœledzeniu wch³aniania lizyny i ormininy?
-D. wszystkie odpowiedzi s¹ poprawne
-E. 
-
-26. Pobudzenie czêœci wspó³czulnej uk³adu autonomicznego unerwiaj¹cej œli...??
+26. Pobudzenie czêœci wspó³czulnej uk³adu autonomicznego unerwiaj¹cej œlinianki do:
 ODP:D
 A. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartosci¹ jonów... H+
 B. obfitego wydzielania wodnistej œliny ze zwiêkszon¹ zawartoœci¹ jonów... Na+
-C. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zaw... C
-D. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zaw... K, HCO3
+C. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zawartoœci¹ C
+D. ubogiego wydzielania obfituj¹cej w bia³ko œliny ze zwiêkszon¹ zawartoœci¹ K, HCO3
 E. 
 
 27. Tworzenie kwasu solnego w ¿o³¹dku jest wynikiem
@@ -854,7 +838,7 @@ C. transportu biernego jonów H+ i aktywnego Cl-
 D. transoprtu aktywnego jonów H+ i biernego Cl-
 E. 
 
-28. Do zwiêkszania aktywnoœci lipolitycznej lipazy trzustkowej nie...
+28. Do zwiêkszania aktywnoœci lipolitycznej lipazy trzustkowej nie prowadzi:
 ODP:A
 A. kolipaza i sole ¿ó³ciowe
 B. enterokinaza i sole ¿ó³ciowe
@@ -865,14 +849,14 @@ E.
 29. Prawd¹ jest ¿e komórki g³ówne ¿o³¹dka
 ODP:A
 A. wydzielaj¹ pepsynogen a ok³adzinowe jony H+
-B. wytdzielaj¹ jony H+ a ok³adzinowe wydzielaj¹ gast...
+B. wytdzielaj¹ jony H+ a ok³adzinowe wydzielaj¹ gastrynê
 C. wydzielaj¹ pepsynogen a ok³adzinowe œluz
 D. wydzielaj¹ œluz a ok³adzinowe pepsynogen
 E. 
 
-30. Witamina C u³atwia wch³anianie ¿elaza przez entero....
+30. Witamina C u³atwia wch³anianie ¿elaza przez enterocyty
 ODP:A
-A. redukuje jony Fe3+ do jonów Fe2+ co znacznie u³....
+A. redukuje jony Fe3+ do jonów Fe2+ co znacznie u³atwia...
 B. u³atwia przyswajanie ¿elaza zwi¹zanego z grup¹... warunkach nie jest wch³aniane
 C. zwiêksza syntezê bia³ka transortuj¹cego jony
 D. stymuluje syntezê czynnika IF w ¿o³¹dku, któ....
@@ -928,7 +912,7 @@ E. Histamina
 
 7. Wydzielanie ¿o³¹dkowe wzrasta po przedostaniu siê pokarmu do ¿o³¹dka, poniewa¿:
 ODP:C
-A. Produkty trawienia bia³ek bezpoœrednio pobudzaj¹ komórki o³adzinowe do wydzielania H....
+A. Produkty trawienia bia³ek bezpoœrednio pobudzaj¹ komórki o³adzinowe do wydzielania HCL
 B. Pokarm zwiêksza pH ¿o³¹dka, co powoduje wydzielenie wiêkszej iloœci kwasu
 C. Oba prawdziwe
 D. ¯adne z wymienionych
@@ -958,7 +942,7 @@ C. Cholesterolu
 D. Alkoholu
 E. Witamin z grupy B
 
-11 pdczas produkcji HCL w ¿o³¹dku komórki ok³adzinowe potrzebuj¹ du¿ych ilo....
+11 pdczas produkcji HCL w ¿o³¹dku komórki ok³adzinowe potrzebuj¹ du¿ych iloœci
 ODP:D
 A. ADP
 B. CAMP
@@ -1044,9 +1028,9 @@ A. Zwiêkszone wydzielanie kwasu solnego
 B. Zwiêkszone wydzielanie pepsyny
 C. zwiêkszone wydzielanie œluzu ¿o³¹dkowego
 D. zachamowanie wydzielania kwasu solnego
-E. ??? ruchów robaczkowych ¿o³¹dka
+E. ruchów robaczkowych ¿o³¹dka
 
-23. Który z wymienionych odruchów wywo³any nadmiernym rozci¹gniom..??? jelita, powoduje zachamowanie czynnoœci ruchowej jelita: 
+23. Który z wymienionych odruchów wywo³any nadmiernym rozci¹gniem jelita, powoduje zachamowanie czynnoœci ruchowej jelita: 
 ODP:C
 A. Odruch ¿o³¹dkowo-krêtniczy
 B. odruch ¿o³¹dkowo-jelitowy
@@ -1062,15 +1046,7 @@ C. Wzrost ³aknienia
 D. wzrost temperatury cia³a
 E. 
 
-25. Czynnoœæ europazmy? ??libowej polega na:
-ODP:0
-A. aktywacji jonych?? enzymów
-B. Zwiêkszaniu czynnoœci wydzielniczej jelit
-C. ???? regeneracji w zu¿ytego??? nab³onka jelitowego
-D. ??????
-E. rozk³adaniu peptydów na aminokwasy
-
-26. Nerwowa? regulacja ????? soku ¿o³¹dkowego odbywa siê za poœrednictwem:
+26. Nerwowa regulacja wydzielania soku ¿o³¹dkowego odbywa siê za poœrednictwem:
 ODP:C
 A. w³ókien nerwów b³êdnych 
 B. w³ókien nerwów wspó³czólnych
@@ -1083,7 +1059,7 @@ ODP:A
 A. Œwietle dwuastnicy
 B. przewdodzie Wiraunga
 C. komórkach trzustki
-D. przewodu wyprowadzaj¹cych??? trzustki
+D. przewodu wyprowadzaj¹cych trzustki
 E. wszystkie opdowiedzi s¹ poprawne
 
 28. Bariera œluzówkowa w ¿o³¹dku:
