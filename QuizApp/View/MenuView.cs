@@ -43,5 +43,11 @@ namespace QuizApp.View
       QuizView view = CreateQuizView(QuizSet.Questions_W1W2W3W4);
       view.ShowDialog();
     }
+
+    private void buttonStartQuestionsFromPictures_Click(object sender, System.EventArgs e)
+    {
+      QuizView view = CreateQuizView(QuizSet.QuestionsFromPictures);
+      view.ShowDialog();
+    }
   }
 }

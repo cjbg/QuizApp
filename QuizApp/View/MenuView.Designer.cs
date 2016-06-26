@@ -35,6 +35,7 @@
       this.labelRepetitionNumber = new System.Windows.Forms.Label();
       this.buttonStart_Questions_115_294 = new System.Windows.Forms.Button();
       this.buttonStartW1 = new System.Windows.Forms.Button();
+      this.buttonStartQuestionsFromPictures = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
       // buttonStart_Questions_1_114
@@ -110,11 +111,23 @@
       this.buttonStartW1.UseVisualStyleBackColor = true;
       this.buttonStartW1.Click += new System.EventHandler(this.buttonStartW1_Click);
       // 
+      // buttonStartQuestionsFromPictures
+      // 
+      this.buttonStartQuestionsFromPictures.Location = new System.Drawing.Point(84, 462);
+      this.buttonStartQuestionsFromPictures.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.buttonStartQuestionsFromPictures.Name = "buttonStartQuestionsFromPictures";
+      this.buttonStartQuestionsFromPictures.Size = new System.Drawing.Size(220, 74);
+      this.buttonStartQuestionsFromPictures.TabIndex = 7;
+      this.buttonStartQuestionsFromPictures.Text = "Start - Kolokwium-z-fozjologii-układ-pokarmowy";
+      this.buttonStartQuestionsFromPictures.UseVisualStyleBackColor = true;
+      this.buttonStartQuestionsFromPictures.Click += new System.EventHandler(this.buttonStartQuestionsFromPictures_Click);
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(414, 479);
+      this.ClientSize = new System.Drawing.Size(414, 584);
+      this.Controls.Add(this.buttonStartQuestionsFromPictures);
       this.Controls.Add(this.buttonStartW1);
       this.Controls.Add(this.buttonStart_Questions_115_294);
       this.Controls.Add(this.labelRepetitionNumber);
@@ -139,6 +152,7 @@
     private System.Windows.Forms.Label labelRepetitionNumber;
     private System.Windows.Forms.Button buttonStart_Questions_115_294;
     private System.Windows.Forms.Button buttonStartW1;
+    private System.Windows.Forms.Button buttonStartQuestionsFromPictures;
   }
 }
 

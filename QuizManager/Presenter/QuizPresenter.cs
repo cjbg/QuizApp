@@ -51,6 +51,8 @@ namespace QuizManager.Presenter
           return Resources.Fizjologia_Pytania_115_294;
         case QuizSet.Questions_W1W2W3W4:
           return Resources.W1W2W3W4;
+        case QuizSet.QuestionsFromPictures:
+          return Resources.Kolokwium_z_fozjologii_układ_pokarmowy;
         default:
           return string.Empty;
       }
