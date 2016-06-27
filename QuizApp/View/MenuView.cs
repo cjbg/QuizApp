@@ -49,5 +49,10 @@ namespace QuizApp.View
       QuizView view = CreateQuizView(QuizSet.QuestionsFromPictures);
       view.ShowDialog();
     }
+
+    private void buttonStartFromTxt_Click(object sender, System.EventArgs e)
+    {
+
+    }
   }
 }

@@ -36,11 +36,12 @@
       this.buttonStart_Questions_115_294 = new System.Windows.Forms.Button();
       this.buttonStartW1 = new System.Windows.Forms.Button();
       this.buttonStartQuestionsFromPictures = new System.Windows.Forms.Button();
+      this.buttonStartFromTxt = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
       // buttonStart_Questions_1_114
       // 
-      this.buttonStart_Questions_1_114.Location = new System.Drawing.Point(86, 210);
+      this.buttonStart_Questions_1_114.Location = new System.Drawing.Point(86, 278);
       this.buttonStart_Questions_1_114.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStart_Questions_1_114.Name = "buttonStart_Questions_1_114";
       this.buttonStart_Questions_1_114.Size = new System.Drawing.Size(220, 74);
@@ -55,7 +56,7 @@
       this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(86, 117);
       this.checkBoxShuffleAnswers.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.checkBoxShuffleAnswers.Name = "checkBoxShuffleAnswers";
-      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(236, 24);
+      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(243, 24);
       this.checkBoxShuffleAnswers.TabIndex = 1;
       this.checkBoxShuffleAnswers.Text = "Losowa kolejność odpowiedzi";
       this.checkBoxShuffleAnswers.UseVisualStyleBackColor = true;
@@ -66,7 +67,7 @@
       this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(86, 152);
       this.checkBoxHideAnswerNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.checkBoxHideAnswerNumber.Name = "checkBoxHideAnswerNumber";
-      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(241, 24);
+      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(248, 24);
       this.checkBoxHideAnswerNumber.TabIndex = 2;
       this.checkBoxHideAnswerNumber.Text = "Ukryj litery przy odpowiedziach";
       this.checkBoxHideAnswerNumber.UseVisualStyleBackColor = true;
@@ -91,7 +92,7 @@
       // 
       // buttonStart_Questions_115_294
       // 
-      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(86, 294);
+      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(86, 362);
       this.buttonStart_Questions_115_294.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStart_Questions_115_294.Name = "buttonStart_Questions_115_294";
       this.buttonStart_Questions_115_294.Size = new System.Drawing.Size(220, 74);
@@ -102,7 +103,7 @@
       // 
       // buttonStartW1
       // 
-      this.buttonStartW1.Location = new System.Drawing.Point(86, 378);
+      this.buttonStartW1.Location = new System.Drawing.Point(86, 446);
       this.buttonStartW1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStartW1.Name = "buttonStartW1";
       this.buttonStartW1.Size = new System.Drawing.Size(220, 74);
@@ -113,7 +114,7 @@
       // 
       // buttonStartQuestionsFromPictures
       // 
-      this.buttonStartQuestionsFromPictures.Location = new System.Drawing.Point(84, 462);
+      this.buttonStartQuestionsFromPictures.Location = new System.Drawing.Point(84, 530);
       this.buttonStartQuestionsFromPictures.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.buttonStartQuestionsFromPictures.Name = "buttonStartQuestionsFromPictures";
       this.buttonStartQuestionsFromPictures.Size = new System.Drawing.Size(220, 74);
@@ -122,11 +123,24 @@
       this.buttonStartQuestionsFromPictures.UseVisualStyleBackColor = true;
       this.buttonStartQuestionsFromPictures.Click += new System.EventHandler(this.buttonStartQuestionsFromPictures_Click);
       // 
+      // buttonStartFromTxt
+      // 
+      this.buttonStartFromTxt.BackColor = System.Drawing.SystemColors.ActiveCaption;
+      this.buttonStartFromTxt.Location = new System.Drawing.Point(86, 194);
+      this.buttonStartFromTxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.buttonStartFromTxt.Name = "buttonStartFromTxt";
+      this.buttonStartFromTxt.Size = new System.Drawing.Size(220, 74);
+      this.buttonStartFromTxt.TabIndex = 8;
+      this.buttonStartFromTxt.Text = "Wczytaj quiz z pliku txt";
+      this.buttonStartFromTxt.UseVisualStyleBackColor = false;
+      this.buttonStartFromTxt.Click += new System.EventHandler(this.buttonStartFromTxt_Click);
+      // 
       // MenuView
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(414, 584);
+      this.ClientSize = new System.Drawing.Size(414, 627);
+      this.Controls.Add(this.buttonStartFromTxt);
       this.Controls.Add(this.buttonStartQuestionsFromPictures);
       this.Controls.Add(this.buttonStartW1);
       this.Controls.Add(this.buttonStart_Questions_115_294);
@@ -153,6 +167,7 @@
     private System.Windows.Forms.Button buttonStart_Questions_115_294;
     private System.Windows.Forms.Button buttonStartW1;
     private System.Windows.Forms.Button buttonStartQuestionsFromPictures;
+    private System.Windows.Forms.Button buttonStartFromTxt;
   }
 }
 
