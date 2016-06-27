@@ -5,9 +5,7 @@ using QuizManager.View.Interface;
 namespace QuizManager.Model
 {
   public class Question
-  {
-    public int Number { get; set; }
-
+  {    
     public int RepetitionNumber { get; set; }
 
     public string Name { get; set; }

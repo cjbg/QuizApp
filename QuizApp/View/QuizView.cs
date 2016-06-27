@@ -2,7 +2,6 @@
 using System.Windows.Forms;
 using QuizManager.Model;
 using QuizManager.Presenter;
-using QuizManager.Service;
 using QuizManager.View.Interface;
 
 namespace QuizApp.View
@@ -13,9 +12,15 @@ namespace QuizApp.View
     private readonly bool _shuffleAnswers;
     private readonly bool _hideAnswerLetter;
     private readonly string _repetitionNumberText;
+    private readonly string _filePath;
     private readonly QuizSet _quizSet;
 
-    public QuizView(bool shuffleAnswers, bool hideAnswerLetter, string repetitionNumberText, QuizSet quizSet)
+    public QuizView(
+      bool shuffleAnswers, 
+      bool hideAnswerLetter, 
+      string repetitionNumberText, 
+      QuizSet quizSet, 
+      string filePath)
     {
       InitializeComponent();
 
@@ -23,6 +28,7 @@ namespace QuizApp.View
       _hideAnswerLetter = hideAnswerLetter;
       _repetitionNumberText = repetitionNumberText;
       _quizSet = quizSet;
+      _filePath = filePath;
     }
 
     public string Question
@@ -194,6 +200,7 @@ namespace QuizApp.View
         _hideAnswerLetter,
         _repetitionNumberText,
         _quizSet,
+        _filePath,
         this);
     }
 

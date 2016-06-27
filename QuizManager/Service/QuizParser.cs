@@ -95,10 +95,7 @@ namespace QuizManager.Service
 
     private Question SetQuestion(string line, int repetitionNumber)
     {
-      Question question = new Question();
-      question.Number = Convert.ToInt32(
-        line.Split(' ')[0]
-        .Split('.')[0]);
+      Question question = new Question();      
 
       question.Name = line;
       question.RepetitionNumber = repetitionNumber;

@@ -1,8 +1,9 @@
 ﻿namespace QuizManager.Model
 {
-  public enum QuizSet
+  public class QuizSet
   {
-    Questions_1_114,
-    Questions_115_294
+    public string Name { get; set; }
+
+    public string Value { get; set; }
   }
 }

@@ -8,14 +8,8 @@ namespace QuizManager.Model.Interface
 
     bool HideAnswerLetter { get; set; }
 
-    int RepetitionNumber { get; set; }
-
-    string TextFromResource { get; set; }
-
     List<Question> Questions { get; set; }
 
-    bool IsAllAnswered();
-
-    int ConvertRepetitionNumberText(string repetitionNumberText);
+    bool IsAllAnswered();    
   }
 }

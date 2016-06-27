@@ -11,18 +11,16 @@ namespace QuizManager.Model
     private bool _shuffleAnswers;
     private bool _hideAnswerLetter;
     private int _repetitionNumber;
-    private string _textFromResource;
+    private List<Question> _questions;
 
     public QuizModel(
       bool shuffleAnswers, 
-      bool hideAnswerLetter, 
-      string repetitionNumberText, 
-      string textFromResource)
+      bool hideAnswerLetter,            
+      List<Question> questions)
     {
       _shuffleAnswers = shuffleAnswers;
-      _hideAnswerLetter = hideAnswerLetter;
-      _repetitionNumber = ConvertRepetitionNumberText(repetitionNumberText);
-      _textFromResource = textFromResource;     
+      _hideAnswerLetter = hideAnswerLetter;      
+      _questions = questions;
     }
 
     public bool ShuffleAnswers
@@ -37,20 +35,11 @@ namespace QuizManager.Model
       set { _hideAnswerLetter = value; }
     }
 
-    public int RepetitionNumber
+    public List<Question> Questions
     {
-      get { return _repetitionNumber; }
-      set { _repetitionNumber = value; }
+      get { return _questions; }
+      set { _questions = value; }
     }
-
-    public string TextFromResource
-    {
-      get { return _textFromResource; }
-      set { _textFromResource = value; }
-    }
-
-
-    public List<Question> Questions { get; set; }
 
     public bool IsAllAnswered()
     {

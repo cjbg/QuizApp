@@ -623,9 +623,9 @@ C.
 D.
 E.
 
-193 - „Receptory w płucach, które powodują przyśpieszenie i zwolnienie oddechu” Receptory J – Traczyk 690-692
+193 - „Receptory w płucach, które powodują przyśpieszenie i zwolnienie oddechu”  – Traczyk 690-692
 ODP:1
-A. Rec. J – receptory trzewnoczuciowe nerwu błędnego, pobudzane przez bodziec mechaniczny działający w tkance płucnej podczas intensywnego wysiłku fizycznego, kiedy zwiększa się ciśnienie w t. płucnej i filtracja w nacz. Włosowatych płuc. Dochodzi do odruchu przyśpieszenia rytmu oddechowego. Jeżeli wysiłek jest jednak nadmierny i ciśnienie t. płucnej powoduje filtrację rozszerzającą przestrzeń zewnątrzkom., wówczas pobudzenie rec. J wyzwala hamujący odruch trzewno-somatyczny.
+A. Receptory J – receptory trzewnoczuciowe nerwu błędnego, pobudzane przez bodziec mechaniczny działający w tkance płucnej podczas intensywnego wysiłku fizycznego, kiedy zwiększa się ciśnienie w t. płucnej i filtracja w nacz. Włosowatych płuc. Dochodzi do odruchu przyśpieszenia rytmu oddechowego. Jeżeli wysiłek jest jednak nadmierny i ciśnienie t. płucnej powoduje filtrację rozszerzającą przestrzeń zewnątrzkom., wówczas pobudzenie rec. J wyzwala hamujący odruch trzewno-somatyczny.
 B.
 C.
 D.
@@ -1440,3 +1440,10 @@ C.
 D.
 E.
 
+295. - Unerwienie synaps w mięśniach oddechowych?
+ODP:1
+A. a) adrenergiczne b)cholinergiczne c)glutaminergiczne - Tracz str. 624 “Z opuszkowo-rdzeniowych neuronow wdechowych pobudzenie przekazywane jest do motoneuronow przeponowych na drodze transmisji glutaminergicznej (…) Motoneurony miesni wdechowych miedzyzebrowych zewnetrznych I wydechowych  (wewnetrznych) znajduja sie w slupach brzusznych istoty szarej rdzenia piersiowego.  Rowniez do nich pobudzenie z nauronow oddechowych rdzenia przedluzonego dociera przez synapsy glutaminergiczne” 
+B. 
+C. 
+D. 
+E.

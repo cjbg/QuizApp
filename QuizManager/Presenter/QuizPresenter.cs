@@ -12,6 +12,7 @@ namespace QuizManager.Presenter
 {
   public class QuizPresenter
   {
+    private const int DefaultRepetitionNumber = 1;
     private const int MaxHeight = 425;
     private const int DefaultHeight = 65;
 
@@ -26,26 +27,24 @@ namespace QuizManager.Presenter
       bool hideAnswerLetter,
       string repetitionNumberText,
       QuizSet quizSet,
+      string filePath,
       IQuizView view)
     {
       _view = view;
       _reader = new QuizReader();
-      _model = new QuizModel(
-        shuffleAnswers,
-        hideAnswerLetter,
-        repetitionNumberText,
-        _reader.GetTextFromQuizSet(quizSet));
+
+            
+      //TODO: Refactor      
+      int repetitionNumber = ConvertRepetitionNumber(repetitionNumberText);
+      string textFromResource = _reader.GetQuizSetText(quizSet, filePath);
+      List<Question> questions = _reader.ReadQuizFromResource(repetitionNumber, textFromResource);
+
+      _model = new QuizModel(shuffleAnswers, hideAnswerLetter, questions);
       PrepareView();
     }
 
-    
-
     private void PrepareView()
     {
-      _model.Questions = _reader.ReadQuestionsFromResources(
-        _model.RepetitionNumber,
-        _model.TextFromResource);
-
       _currentQuestion = GetQuestion();
       SetViewData();
     }
@@ -65,7 +64,18 @@ namespace QuizManager.Presenter
 
       SetCheckedAnswers();
       SetAnswersColors();
-    }    
+    }
+
+    public int ConvertRepetitionNumber(string repetitionNumberText)
+    {
+      int repetitionNumber = DefaultRepetitionNumber;
+      if (!string.IsNullOrWhiteSpace(repetitionNumberText))
+      {
+        repetitionNumber = Convert.ToInt32(repetitionNumberText);
+      }
+
+      return repetitionNumber;
+    }
 
     private void SetOneAnswer()
     {
@@ -74,6 +84,7 @@ namespace QuizManager.Presenter
       _view.Answer3 = string.Empty;
       _view.Answer4 = string.Empty;
       _view.Answer5 = string.Empty;
+      _view.VisibleAnswer1 = false;
       _view.VisibleAnswer2 = false;
       _view.VisibleAnswer3 = false;
       _view.VisibleAnswer4 = false;
@@ -106,6 +117,7 @@ namespace QuizManager.Presenter
       _view.Answer3 = SetAnswerName(_currentQuestion.Answers[2].Name);
       _view.Answer4 = SetAnswerName(_currentQuestion.Answers[3].Name);
       _view.Answer5 = SetAnswerName(_currentQuestion.Answers[4].Name);
+      _view.VisibleAnswer1 = true;
       _view.VisibleAnswer2 = true;
       _view.VisibleAnswer3 = true;
       _view.VisibleAnswer4 = true;
@@ -157,6 +169,11 @@ namespace QuizManager.Presenter
 
     public void CheckAnswers()
     {
+      if (_currentQuestion.HasOneAnswer)
+      {
+        _view.VisibleAnswer1 = true;
+      }
+
       SetAnswersColor();
       if (_currentQuestion.IsAnsweredCorrectly(_view))
       {

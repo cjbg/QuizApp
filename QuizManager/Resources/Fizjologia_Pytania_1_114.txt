@@ -70,7 +70,7 @@ C. Baroreceptorów łuku aorty i zatoki szyjnej
 D. Zakończeń pierścieniowo -spiralnych we wrzecionku mięśniowym 
 E. Ciałek buławkowatych 
 
-10 – Częstość skurczów rytmicznych w żołądku wynosi (730 TRACZ) 
+10 – Częstość skurczów rytmicznych w żołądku wynosi? (730 TRACZ) 
 ODP:E
 A. 2/min
 B. 5/min
@@ -80,7 +80,7 @@ E. 3/min
 
 11 – W reakcji ortostatycznej układu krążenia krwi nie obserwujemy: (574 TRACZ) 
 ODP:E
-A. Zwiększenia częstości skurczów serca <źle> 
+A. Zwiększenia częstości skurczów serca
 B. Zwiększenia kurczliwości mięśnia sercowego 
 C. Zwiększenia ciśnienia tętniczego, zwłaszcza rozkurczowego 
 D. Zwiększenia całkowitego naczyniowego oporu obwodowego (TPR)
@@ -134,13 +134,13 @@ C. Wzrost pracy oddechowej
 D. Wzrost sił refrakcji płuc 
 E. Zmniejszenie sił kohezji między cząsteczkami powietrza pęcherzykowego 
 
-18 – Najwyższa spoczynkowa różnica tętniczo-żylna wysycenia krwi tlenem występuje w: (podobno może być też serce) 
+18 – Najwyższa spoczynkowa różnica tętniczo-żylna wysycenia krwi tlenem występuje w:
 ODP:C
-A. Płucach <źle> 
-B. Nerce <źle>
-C. Sercu <chyba serce>
+A. Płucach 
+B. Nerce 
+C. Sercu 
 D. Wątrobie
-E. Mięśniach szkieletowych <źle> 
+E. Mięśniach szkieletowych
 
 19 – Zużycie tlenu przez komórki mięśnia sercowego determinowane jest przez (485 TRACZ) 
 ODP:C
@@ -186,7 +186,7 @@ E. Endotelina 1
 ODP:B
 A. Mają dużą przepuszczalność dla jonów sodu 
 B. Są pobudzane przez acetylocholinę 
-C. Otwierają się podczas depolaryzacji błony komórkowej <źle> 
+C. Otwierają się podczas depolaryzacji błony komórkowej 
 D. Są hamowane przez atropinę 
 E. Odpowiadają za okres refrakcji względnej 
 
@@ -206,7 +206,7 @@ C. Limfocyty Th
 D. Limfocyty NK 
 E. Eozynofile 
 
-27 – Prawdą jest że substancje światłoczułe zawarte w czopkach (INTERNET: W dyskach obecny jest barwnik wzrokowy) 
+27 – Prawdą jest że substancje światłoczułe zawarte w czopkach
 ODP:D
 A. Umożliwiają widzenie skotopowe 
 B. Zawierają w swoim składzie kwasową pochodną witaminy A 
@@ -310,14 +310,6 @@ C. Działanie angiotensyny II
 D. Wzrost ciśnienia osmotycznego krwi o 1-2% ponad wartość prawidłową 
 E. Działanie nikotyny 
 
-40 -Badany jest w stanie utrzymać dynamometr z siłą równą 2/3 wartości siły maksymalnejprzy: 
-ODP:1
-A. CZAS WYTRZYMAŁOŚCI MIĘŚNIOWEJ (50 SKRYPT) 
-B. 
-C. 
-D. 
-E. 
-
 41 -Głównym bodźcem pobudzającym wydzielanie kwasu solnego podczas fazy głowowejjest: (29 STAŚ POKARMOWY) 
 ODP:B
 A. histamina 
@@ -409,8 +401,7 @@ C. przestawia na wyższy poziom regulacji i zwiększa reaktywność odruchu z ch
 D. zwiększa wydzielanie aldosteronu, a także sama nasila wchłanianie sodu w kanalikach nerkowych, zatrzymując sód wraz z wodą 
 E. podnosi ciśnienie osmotyczne krwi, zwiększając resorpcję jonów potasowych ichlorkowych 
 
-52 -Kanały synaptyczne w końcowej drodze wspólnej: NIE ZNALAZŁEM ODP., ALE O 
-DRODZE WSPÓLNEJ JEST NA 182 TRACZ 
+52 -Kanały synaptyczne w końcowej drodze wspólnej:
 ODP:A
 A. są pobudzane przez acetylocholinę 
 B. mają dużą przepuszczalność dla jonów sodu 
@@ -418,7 +409,7 @@ C. odpowiadają za okres refrakcji względnej
 D. otwierają się podczas depolaryzacji błony komórkowej
 E. są hamowane przez atropinę 
 
-53 -Przechodzenie dźwięku ze środowiska gazowego do ciekłego: NIE ZNALAZŁEM ODP., ALE OPRZEWODZENIU DŹWIĘKU JEST NA 125 -7.1.2.4 TRACZ 
+53 -Przechodzenie dźwięku ze środowiska gazowego do ciekłego:
 ODP:E
 A. podnosi częstotliwość fal dźwiękowych 
 B. obniża częstotliwość fali dźwiękowej
@@ -429,7 +420,7 @@ E. zmniejsza natężenie dźwięku o około 30 dB
 54 -Białkiem uwalnianym w zakończeniach synaptycznych, a uczestniczących w formowaniusynaps poprzez wbudowywanie (?) w regionie płytki ruchowej receptorów acetylocholinowych jest: (51 TRACZ) 
 ODP:D
 A. neurotrofina 3 (NT-3)
-B. cząsteczka adhezyjna N-CAM <źle> 
+B. cząsteczka adhezyjna N-CAM   
 C. zasadochłonny czynnik wzrostu fibroblastów 
 D. agryna
 E. błonowe białko G 
@@ -493,11 +484,11 @@ E. zwężenie tętniczki doprowadzającej kłębuszków nerkowych
 
 62 -Podczas czytania zachodzi zwiększenie napięcia akomodacyjnego podczas, którego obserwuje się: (104 TRACZ DZIAŁ 6.2.2) 
 ODP:B
-A. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki (?)
-B. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki i (PRAWDOPODOBNIE: zwiększenie współczynnika załamania/rozkurcz mięśnia rzęskowego)
-C. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki (?)
-D. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki (?)
-E. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki (?)
+A. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki 
+B. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki i
+C. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący spłaszczenie soczewki 
+D. skurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki 
+E. rozkurcz włókien okrężnych zwalniających naciąg obwódki rzęskowej powodujący grubienie soczewki 
 
 63 -Nerw wzrokowy utworzony jest z: (109 TRACZ, 77 STAŚ NEURO) 
 ODP:A
@@ -521,7 +512,7 @@ A. ciśnienie transpulmonarne pokonujące siły retrakcji
 B. sprężystość klatki piersiowej rozciągającej jej ściany na zewnątrz 
 C. ciśnienie niezbędne do pokonania oporu dróg oddechowych 
 D. napięcie powierzchniowe, które odpowiednio ustawia włókna sprężyste
-E. wzajemna równowaga sił retrakcji i podatności płuc <źle> 
+E. wzajemna równowaga sił retrakcji i podatności płuc   
 
 66 -Siła refrakcji rogówki jest (104 TRACZ) 
 ODP:A
@@ -547,7 +538,7 @@ C. kość
 D. nefron 
 E. wątroba 
 
-69 -Zaznacz prawidłowe (?) Podatność całkowita płuc i klatki piersiowej ukłądu oddechowego jako całości jest większa od podatności samych tylko płuc. 
+69 -Zaznacz prawidłowe (?) Podatność całkowita płuc i klatki piersiowej ukłądu oddechowego jako całości jest: 
 ODP:A
 A. jest większe do podatności płuc 
 B. jest większa od podatności ścian klatki piersiowej
@@ -555,10 +546,10 @@ C. jest równa podatności ścian klatki piersiowej
 D. jest mniejsza od podatności ścian klatki piersiowej
 E. jest równa podatności płuc 
 
-70 -Jeśli ciśnienie tętnicze wynosi 120/75 mmHg to ciśnienie średnie (MAP) wynosi: WIKIPEDIA: MAP= DP+ 1/3(SP-DP), gdzie DP-rozkurczowe, SP-skurczowe, (509 i 527 TRACZ) 
+70 -Jeśli ciśnienie tętnicze wynosi 120/75 mmHg to ciśnienie średnie (MAP) wynosi:
 ODP:E
 A. 110 mmHg
-B. z jednego pomiaru nie można wyliczyć ciśnienia średniego <źle> 
+B. z jednego pomiaru nie można wyliczyć ciśnienia średniego   
 C. 70 mmHg
 D. 45 mmHg
 E. 90 mmHg
@@ -581,9 +572,9 @@ E. obniżenie stężenia insuliny w surowicy krwi
 
 73 -Szybko adaptujące receptory dróg oddechowych (RAR) (689 TRACZ) 
 ODP:A
-A. przeciwdziałają zmniejszaniu pojemności płuc, przezwyciężając (?)(przeciwdziałają zmniejszaniu pojemności płuc i gorszemu napowietrznienu pęcherzyków płucnych (…), przezwyciężąją wysoki opór sprężysty płuc)
-B. są mało wrażliwe na bodźce mechaniczne a pobudzane są przez (?)
-C. zwiększają swoją aktywność pod wpływem czynników kurczących (?)
+A. przeciwdziałają zmniejszaniu pojemności płuc, przezwyciężając 
+B. są mało wrażliwe na bodźce mechaniczne a pobudzane są przez 
+C. zwiększają swoją aktywność pod wpływem czynników kurczących 
 D. bodźcem do ich pobudzenia jest obrzęk płuc i zmniejszenie pracy oddechowej
 E. zwiększają amplitudę wdechu i wydłużają fazę wydechu 
 
@@ -599,7 +590,7 @@ E. działanie w spoczynku poprzez zakrycie miejsc, w których aktyna łączy si�
 ODP:0
 A. tlenek azotu
 B. acetylocholina 
-C. kwas glutaminowy (źle)
+C. kwas glutaminowy
 D. adrenalina 
 E. kwas gamma-aminomasłowy 
 
@@ -609,13 +600,13 @@ A. glukoneogeneza wątrobowa
 B. katabolizm białek w mięśniach 
 C. lipogeneza wątrobowa
 D. anabolizm białek w wątrobie
-E. glikogeneza wątrobowa <źle> 
+E. glikogeneza wątrobowa   
 
 77 -Wskaźnikiem pobudliwości hamującego odruchu Heringa-Breuera jest: 
 ODP:B
 A. czas narastania napędu wdechowego do częstotliwości oddechów w cykluoddechowym
 B. współczynnik długości cyklu oddechowego do czasu trwania wdechu 
-C. stopień rozciągnięcia płuc do czasu trwania wdechu <źle> 
+C. stopień rozciągnięcia płuc do czasu trwania wdechu   
 D. czas trwania wydechu do objętości wydechowej
 E. wielkość objętości wdechowej do oporu dróg oddechowych 
 
@@ -623,7 +614,7 @@ E. wielkość objętości wdechowej do oporu dróg oddechowych
 ODP:A
 A. zmniejszenie ujemności potencjału błonowego 
 B. zwiększenie transportu jonów sodowych na zewnątrz komórki przez (?)
-C. zmniejszenie ujemności potencjału równowagi dla jonów potasu <źle> 
+C. zmniejszenie ujemności potencjału równowagi dla jonów potasu   
 D. zwiększenie przewodności błony komórkowej dla jonów potasu 
 E. zwiększenie siły napędowej dla jonów sodowych 
 
@@ -633,7 +624,7 @@ A. acetylocholina zwalnia lub całkowicie zahomowuje rytm zatokowy
 B. acetylocholina może powodować występowanie odwracalnych bloków w (?)
 C. acetylocholina zmniejsza szybkość przewodzenia i amplitudę potencjałów w (?)
 D. acetylocholina wywiera wpływ na automatyzm komórek przewodzących (?)
-E. acetylocholina zwiększa przewodność sarkolemmy dla jonów potasowych <źle> 
+E. acetylocholina zwiększa przewodność sarkolemmy dla jonów potasowych   
 
 80 -Do receptorów tonicznych nie zaliczamy 
 ODP:D
@@ -641,37 +632,37 @@ A. większości nocyceptorów
 B. zakończeń pierścieniowo-spiralnych we wrzecionku mięśniowym 
 C. baroreceptorów łuku aorty i zatoki szyjnej
 D. receptorów dotyku i ucisku 
-E. ciałek buławkowatych <źle> 
+E. ciałek buławkowatych   
 
 81 -Wskaż odpowiedź poprawną dotyczącą organizacji i funkcji (?) (83 TRACZ) 
 ODP:E
 A. miocyty wchodzące w skład jednostki motorycznej zebrane są w (?)
 B. sposób dyslokacji miocytów jednostki motorycznej nie wpływa na (?)
-C. aktywacja zmiennej ilości jednostek motorycznych jest jednym (?) <źle> 
+C. aktywacja zmiennej ilości jednostek motorycznych jest jednym (?)   
 D. jednostka motoryczna obejmuje nerw obwodowy i wszystkie mięśnie (?)
 E. miocyty wchodzące w skład jednostki motorycznej rozmieszczone są (?)jednostek 
 
 82 -Najwyższa spoczynkowa różnica tętniczo-żylna wysycenia (?) 
 ODP:H
-A. Płucach <źle> 
-B. Nerce <źle>
+A. Płucach   
+B. Nerce  
 C. Sercu <chyba serce>
 D. Wątrobie
-E. Mięśniach szkieletowych <źle> 
+E. Mięśniach szkieletowych   
 
 83 -Komórkami odpowiedzialnymi za neutralizację mediatorów (?) 
 ODP:A
 A. eozynofile
 B. bazofile
 C. limfocyty NK 
-D. limfocyty Th <źle> 
+D. limfocyty Th   
 E. limfocyty Tc 
 
 84 -Zużycie tlenu przez komórki mięśnia sercowego determinują (?)(485 TRACZ) 
 ODP:A
 A. kurczliwość mięśnia sercowego w fazie skurczu izowolumetrycznego 
 B. szybkość powrotu żylnego do prawej komory serca 
-C. czas trwania fazy rozkurczu izowolumetrycznego <źle> 
+C. czas trwania fazy rozkurczu izowolumetrycznego   
 D. napięcie mięsni roboczych przedsionków w czasie ich skurczu 
 E. wartość ciśnienia komorowego w fazie maksymalnego wyrzutu 
 
@@ -692,12 +683,12 @@ D. Wydzielanie śluzu i rozszerzenie naczyń krwionośnych oskrzeli
 E. Zwiększenie przestrzeni nieużytecznej dróg oddechowych 
 
 87. Kilkakrotne zwiększenie zawartości potasu w diecie nie spowoduje wzrostu stężeniatego jonu we krwi w wyniku działania mechanizmu: (838 TRACZ) 
-ODP:A
+ODP:D
 A. Zwiększenia przepuszczalności kanalików dalszych nerki dla potasu 
 B. Wydalania potasu pod wpływem aldosteronu z wymiana na jon sodowy 
 C. Zwiększenia transportu potasu do komórek głównie mięśni szkieletowych 
 D. Zniesienia ujemnego sprzężenia zwrotnego między stężeniem potasu w przestrzeni zewnątrzkomórkowej a sekrecja aldosteronu 
-E. Pobudzenia osi renina-angiotensyna-aldosteron <źle> 
+E. Pobudzenia osi renina-angiotensyna-aldosteron   
 
 88. W stymulacji eozynofilów i bazofilów uczestniczą przede wszystkim przeciwciałaklasy: 
 ODP:A
@@ -749,13 +740,13 @@ C. Pobudzenie kory nadnerczy przez przedzwojowe współczulne włókna cholinerg
 D. Pobudzenia rdzenia nadnerczy przez zazwojowe współczulne włókna adrenergiczne 
 E. Pobudzenia kory i rdzenia nadnerczy przez włókna zazwojowe adrenergiczne 
 
-94. Pod wpływem papainy cząsteczka przeciwciała z klasy IgG rozpada się na: (2 FAB i 1FC) 
+94. Pod wpływem papainy cząsteczka przeciwciała z klasy IgG rozpada się na:
 ODP:E
 A. Fragment Fab warunkujący swoistość immunologiczną przeciwciała i jeden fragment Fc mający powinowactwo do składowych dopełniacza 
 B. Fragmenty Fab mające powinowactwo do składowych dopełniacza i dwa fragmenty Fc warunkujące swoistość immunologiczną przeciwciała 
 C. Fragment Fab mający powinowactwo do składowych dopełniacza i jeden fragment Fc warunkujący swoistość immunologiczną przeciwciała
 D. Fragmenty Fab warunkujące swoistość immunologiczną przeciwciała i dwa fragmenty Fc mające powinowactwo do składowych dopełniacza 
-E. Fragmenty Fab warunkujące swoistość immunologiczną przeciwciała ijeden fragment Fc mający powinowactwo do składowych dopełniacza 95. Unerwienie eferentne nerki pochodzi ze zwojów pnia współczulnego na poziomie: 
+E. Fragmenty Fab warunkujące swoistość immunologiczną przeciwciała ijeden fragment Fc mający powinowactwo do składowych dopełniacza 
 
 95. Unerwienie eferentne nerki pochodzi ze zwojów pnia współczulnego na poziomie: 
 ODP:E
@@ -838,10 +829,10 @@ D. Współczynnikiem wytrzymałości mięśniowej
 E. Czasem wytrzymałości mięśniowej
 
 105 – Okluzja: 
-ODP: B
+ODP:B
 A. Jest to wygasanie impulsacji nerwowej w ośrodkach nerwowych 
 B. Jest miarą zachodzenia na siebie dróg dośrodkowych i wygasania impulsacji nerwowej
-C. Jest miarą zachodzenia na siebie dróg odśrodkowych i wygasania impulsacji nerwowej<źle> 
+C. Jest miarą zachodzenia na siebie dróg odśrodkowych i wygasania impulsacji nerwowej  
 D. Polega na zwiększeniu reakcji odruchowej i jest miarą wielkości strefy zwiększonejpodprogowo pobudliwości
 E. Jest to wzmaganie się impulsacji nerwowej w ośrodkach nerwowych 
 
@@ -855,9 +846,9 @@ E. Pepsynogen
 
 107 – Przy powstaniu stanu czynnego w pręcikach pod wpływem światła nie zachodzi (108 TRACZ) 
 ODP:C
-A. Aktywizacja transducyny <źle> 
-B. Przekształcenie izomeru 11-cis w izomer all-trans retinalu <źle> 
-C. Otwieranie kanałów sodowych powodujących depolaryzację błony Traczyk str.108 (zamykają się)
+A. Aktywizacja transducyny   
+B. Przekształcenie izomeru 11-cis w izomer all-trans retinalu   
+C. Otwieranie kanałów sodowych powodujących depolaryzację błony
 D. Zmniejszenie stężenia cGMP w cytoplazmie fotoreceptorów 
 E. Tworzenie metarodopsyny II 
 
@@ -866,7 +857,7 @@ ODP:D
 A. Witamina B2 
 B. Witamina B6 
 C. Witamina A 
-D. Witamina B1 Traczyk str. 789 podobnie jak witamina PP oraz C 
+D. Witamina B1 
 E. Witamina D 
 
 109 – Wchłanianie żelaza zachodzi głównie w (788 TRACZ) 
@@ -887,15 +878,15 @@ E. Pojedynczy rząd komórek wewnętrznych i pięć rzędów komórek zewnętrzn
 
 111 – Odruch zginania (186 TRACZ) 
 ODP:D
-A. Jest odruchem z receptorów pierścienno-spiralnych <źle> 
-B. Nie wykazuje cech wyładowania następczego <źle> wykazuje patrz Traczyk str. 186 
-C. Pojawia się po bardzo krótkim okresie latencji <źle> bo po dłuższym 
+A. Jest odruchem z receptorów pierścienno-spiralnych   
+B. Nie wykazuje cech wyładowania następczego 
+C. Pojawia się po bardzo krótkim okresie latencji   bo po dłuższym 
 D. Jest odruchem polisynaptycznym wywołanym bodźcami nocyceptywnymi
 E. Jest odruchem monosynaptycznym 
 
 112 – Najważniejszym mechanizmem zamykającym wpust jest (727 TRACZ) 
 ODP:C
-A. Bierny ucisk ciśnienia śródbrzusznego na dolny podprzeponowy odcinek przełyku <źle>
+A. Bierny ucisk ciśnienia śródbrzusznego na dolny podprzeponowy odcinek przełyku  
 B. Mechanizm zastawkowy pomiędzy przełykiem a żołądkiem (kąt Hisa)
 C. Toniczny skurcz dolnego zwieracza przełyku 
 D. Rytmiczne skurcze przełyku 
@@ -904,14 +895,14 @@ E. Ucisk przełyku przez odnogi mięśnia przepony
 113 – Jednostką motoryczną nazywamy: 
 ODP:E
 A. Pojedynczą komórkę mięśniową unerwioną przez dany akson 
-B. Nerw obwodowy i unerwione przez niego mięśnie <źle> 
+B. Nerw obwodowy i unerwione przez niego mięśnie   
 C. Korzeń przedni rdzenia kręgowego i unerwiane przez niego komórki mięśniowe 
 D. Wszystkie komórki ruchowe rogów przednich rdzenia kręgowego i unerwiane przez nią komórki mięśniowe
 E. Motoneuron wraz z aksonem i unerwianymi przez niego komórkami mięśniowymi 
 
 114 – Z prawa Poiseuille’a wynika, że wielkość oporu naczyniowego zależy głównie od: (515 TRACZ) 
 ODP:D
-A. Różnicy ciśnień pomiędzy początkiem a końcem naczynia <źle> 
+A. Różnicy ciśnień pomiędzy początkiem a końcem naczynia   
 B. Długości naczynia krwionośnego 
 C. Całkowitej energii przepływu w danym odcinku układu naczyniowego 
 D. Promienia wewnętrznego naczynia krwionośnego 
