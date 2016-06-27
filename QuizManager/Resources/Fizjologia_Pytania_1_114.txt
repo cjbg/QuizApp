@@ -829,7 +829,7 @@ D. Współczynnikiem wytrzymałości mięśniowej
 E. Czasem wytrzymałości mięśniowej
 
 105 – Okluzja: 
-ODP: B
+ODP:B
 A. Jest to wygasanie impulsacji nerwowej w ośrodkach nerwowych 
 B. Jest miarą zachodzenia na siebie dróg dośrodkowych i wygasania impulsacji nerwowej
 C. Jest miarą zachodzenia na siebie dróg odśrodkowych i wygasania impulsacji nerwowej  

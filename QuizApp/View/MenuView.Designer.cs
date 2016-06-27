@@ -28,35 +28,21 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.buttonStart_Questions_1_114 = new System.Windows.Forms.Button();
       this.checkBoxShuffleAnswers = new System.Windows.Forms.CheckBox();
       this.checkBoxHideAnswerNumber = new System.Windows.Forms.CheckBox();
       this.textBoxRepetitionNumber = new System.Windows.Forms.TextBox();
       this.labelRepetitionNumber = new System.Windows.Forms.Label();
-      this.buttonStart_Questions_115_294 = new System.Windows.Forms.Button();
-      this.buttonStartW1 = new System.Windows.Forms.Button();
-      this.buttonStartQuestionsFromPictures = new System.Windows.Forms.Button();
-      this.buttonStartFromTxt = new System.Windows.Forms.Button();
+      this.buttonStart = new System.Windows.Forms.Button();
+      this._comboBoxQuiz = new System.Windows.Forms.ComboBox();
+      this.label1 = new System.Windows.Forms.Label();
       this.SuspendLayout();
-      // 
-      // buttonStart_Questions_1_114
-      // 
-      this.buttonStart_Questions_1_114.Location = new System.Drawing.Point(86, 278);
-      this.buttonStart_Questions_1_114.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStart_Questions_1_114.Name = "buttonStart_Questions_1_114";
-      this.buttonStart_Questions_1_114.Size = new System.Drawing.Size(220, 74);
-      this.buttonStart_Questions_1_114.TabIndex = 0;
-      this.buttonStart_Questions_1_114.Text = "Start - Fizjologia 1-114";
-      this.buttonStart_Questions_1_114.UseVisualStyleBackColor = true;
-      this.buttonStart_Questions_1_114.Click += new System.EventHandler(this.buttonStart_Click);
       // 
       // checkBoxShuffleAnswers
       // 
       this.checkBoxShuffleAnswers.AutoSize = true;
-      this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(86, 117);
-      this.checkBoxShuffleAnswers.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.checkBoxShuffleAnswers.Location = new System.Drawing.Point(57, 97);
       this.checkBoxShuffleAnswers.Name = "checkBoxShuffleAnswers";
-      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(243, 24);
+      this.checkBoxShuffleAnswers.Size = new System.Drawing.Size(167, 17);
       this.checkBoxShuffleAnswers.TabIndex = 1;
       this.checkBoxShuffleAnswers.Text = "Losowa kolejność odpowiedzi";
       this.checkBoxShuffleAnswers.UseVisualStyleBackColor = true;
@@ -64,110 +50,85 @@
       // checkBoxHideAnswerNumber
       // 
       this.checkBoxHideAnswerNumber.AutoSize = true;
-      this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(86, 152);
-      this.checkBoxHideAnswerNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.checkBoxHideAnswerNumber.Location = new System.Drawing.Point(57, 120);
       this.checkBoxHideAnswerNumber.Name = "checkBoxHideAnswerNumber";
-      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(248, 24);
+      this.checkBoxHideAnswerNumber.Size = new System.Drawing.Size(170, 17);
       this.checkBoxHideAnswerNumber.TabIndex = 2;
       this.checkBoxHideAnswerNumber.Text = "Ukryj litery przy odpowiedziach";
       this.checkBoxHideAnswerNumber.UseVisualStyleBackColor = true;
       // 
       // textBoxRepetitionNumber
       // 
-      this.textBoxRepetitionNumber.Location = new System.Drawing.Point(86, 77);
-      this.textBoxRepetitionNumber.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+      this.textBoxRepetitionNumber.Location = new System.Drawing.Point(187, 140);
       this.textBoxRepetitionNumber.Name = "textBoxRepetitionNumber";
-      this.textBoxRepetitionNumber.Size = new System.Drawing.Size(218, 26);
+      this.textBoxRepetitionNumber.Size = new System.Drawing.Size(35, 20);
       this.textBoxRepetitionNumber.TabIndex = 3;
       // 
       // labelRepetitionNumber
       // 
       this.labelRepetitionNumber.AutoSize = true;
-      this.labelRepetitionNumber.Location = new System.Drawing.Point(81, 52);
-      this.labelRepetitionNumber.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+      this.labelRepetitionNumber.Location = new System.Drawing.Point(54, 143);
       this.labelRepetitionNumber.Name = "labelRepetitionNumber";
-      this.labelRepetitionNumber.Size = new System.Drawing.Size(188, 20);
+      this.labelRepetitionNumber.Size = new System.Drawing.Size(127, 13);
       this.labelRepetitionNumber.TabIndex = 4;
       this.labelRepetitionNumber.Text = "Liczba powtórzeń pytania";
       // 
-      // buttonStart_Questions_115_294
+      // buttonStart
       // 
-      this.buttonStart_Questions_115_294.Location = new System.Drawing.Point(86, 362);
-      this.buttonStart_Questions_115_294.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStart_Questions_115_294.Name = "buttonStart_Questions_115_294";
-      this.buttonStart_Questions_115_294.Size = new System.Drawing.Size(220, 74);
-      this.buttonStart_Questions_115_294.TabIndex = 5;
-      this.buttonStart_Questions_115_294.Text = "Start - Fizjologia 115-294";
-      this.buttonStart_Questions_115_294.UseVisualStyleBackColor = true;
-      this.buttonStart_Questions_115_294.Click += new System.EventHandler(this.buttonStart_Questions_115_294_Click);
+      this.buttonStart.BackColor = System.Drawing.SystemColors.ActiveCaption;
+      this.buttonStart.Location = new System.Drawing.Point(57, 195);
+      this.buttonStart.Name = "buttonStart";
+      this.buttonStart.Size = new System.Drawing.Size(165, 48);
+      this.buttonStart.TabIndex = 8;
+      this.buttonStart.Text = "Start";
+      this.buttonStart.UseVisualStyleBackColor = false;
+      this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
       // 
-      // buttonStartW1
+      // _comboBoxQuiz
       // 
-      this.buttonStartW1.Location = new System.Drawing.Point(86, 446);
-      this.buttonStartW1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStartW1.Name = "buttonStartW1";
-      this.buttonStartW1.Size = new System.Drawing.Size(220, 74);
-      this.buttonStartW1.TabIndex = 6;
-      this.buttonStartW1.Text = "Start - W1W2W3W4";
-      this.buttonStartW1.UseVisualStyleBackColor = true;
-      this.buttonStartW1.Click += new System.EventHandler(this.buttonStartW1_Click);
+      this._comboBoxQuiz.FormattingEnabled = true;
+      this._comboBoxQuiz.Location = new System.Drawing.Point(57, 49);
+      this._comboBoxQuiz.Name = "_comboBoxQuiz";
+      this._comboBoxQuiz.Size = new System.Drawing.Size(165, 21);
+      this._comboBoxQuiz.TabIndex = 9;
       // 
-      // buttonStartQuestionsFromPictures
+      // label1
       // 
-      this.buttonStartQuestionsFromPictures.Location = new System.Drawing.Point(84, 530);
-      this.buttonStartQuestionsFromPictures.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStartQuestionsFromPictures.Name = "buttonStartQuestionsFromPictures";
-      this.buttonStartQuestionsFromPictures.Size = new System.Drawing.Size(220, 74);
-      this.buttonStartQuestionsFromPictures.TabIndex = 7;
-      this.buttonStartQuestionsFromPictures.Text = "Start - Kolokwium-z-fozjologii-układ-pokarmowy";
-      this.buttonStartQuestionsFromPictures.UseVisualStyleBackColor = true;
-      this.buttonStartQuestionsFromPictures.Click += new System.EventHandler(this.buttonStartQuestionsFromPictures_Click);
-      // 
-      // buttonStartFromTxt
-      // 
-      this.buttonStartFromTxt.BackColor = System.Drawing.SystemColors.ActiveCaption;
-      this.buttonStartFromTxt.Location = new System.Drawing.Point(86, 194);
-      this.buttonStartFromTxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-      this.buttonStartFromTxt.Name = "buttonStartFromTxt";
-      this.buttonStartFromTxt.Size = new System.Drawing.Size(220, 74);
-      this.buttonStartFromTxt.TabIndex = 8;
-      this.buttonStartFromTxt.Text = "Wczytaj quiz z pliku txt";
-      this.buttonStartFromTxt.UseVisualStyleBackColor = false;
-      this.buttonStartFromTxt.Click += new System.EventHandler(this.buttonStartFromTxt_Click);
+      this.label1.AutoSize = true;
+      this.label1.Location = new System.Drawing.Point(54, 33);
+      this.label1.Name = "label1";
+      this.label1.Size = new System.Drawing.Size(69, 13);
+      this.label1.TabIndex = 10;
+      this.label1.Text = "Wybierz Quiz";
       // 
       // MenuView
       // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+      this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(414, 627);
-      this.Controls.Add(this.buttonStartFromTxt);
-      this.Controls.Add(this.buttonStartQuestionsFromPictures);
-      this.Controls.Add(this.buttonStartW1);
-      this.Controls.Add(this.buttonStart_Questions_115_294);
+      this.ClientSize = new System.Drawing.Size(287, 284);
+      this.Controls.Add(this.label1);
+      this.Controls.Add(this._comboBoxQuiz);
+      this.Controls.Add(this.buttonStart);
       this.Controls.Add(this.labelRepetitionNumber);
       this.Controls.Add(this.textBoxRepetitionNumber);
       this.Controls.Add(this.checkBoxHideAnswerNumber);
       this.Controls.Add(this.checkBoxShuffleAnswers);
-      this.Controls.Add(this.buttonStart_Questions_1_114);
-      this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.Name = "MenuView";
       this.Text = "Menu";
+      this.Load += new System.EventHandler(this.MenuView_Load);
       this.ResumeLayout(false);
       this.PerformLayout();
 
     }
 
     #endregion
-
-    private System.Windows.Forms.Button buttonStart_Questions_1_114;
     private System.Windows.Forms.CheckBox checkBoxShuffleAnswers;
     private System.Windows.Forms.CheckBox checkBoxHideAnswerNumber;
     private System.Windows.Forms.TextBox textBoxRepetitionNumber;
     private System.Windows.Forms.Label labelRepetitionNumber;
-    private System.Windows.Forms.Button buttonStart_Questions_115_294;
-    private System.Windows.Forms.Button buttonStartW1;
-    private System.Windows.Forms.Button buttonStartQuestionsFromPictures;
-    private System.Windows.Forms.Button buttonStartFromTxt;
+    private System.Windows.Forms.Button buttonStart;
+    private System.Windows.Forms.ComboBox _comboBoxQuiz;
+    private System.Windows.Forms.Label label1;
   }
 }
 

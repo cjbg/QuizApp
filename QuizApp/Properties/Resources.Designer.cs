@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QuizManager.Properties {
+namespace QuizApp.Properties {
     using System;
     
     
@@ -57,6 +57,15 @@ namespace QuizManager.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nie udało się wczytywać pliku.
+        /// </summary>
+        internal static string CannotReadFile {
+            get {
+                return ResourceManager.GetString("CannotReadFile", resourceCulture);
             }
         }
     }

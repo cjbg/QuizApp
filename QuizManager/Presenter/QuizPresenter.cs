@@ -4,7 +4,6 @@ using System.Drawing;
 using System.Linq;
 using QuizManager.Model;
 using QuizManager.Model.Interface;
-using QuizManager.Properties;
 using QuizManager.Service;
 using QuizManager.Service.Interface;
 using QuizManager.View.Interface;
@@ -28,42 +27,25 @@ namespace QuizManager.Presenter
       bool hideAnswerLetter,
       string repetitionNumberText,
       QuizSet quizSet,
+      string filePath,
       IQuizView view)
     {
       _view = view;
       _reader = new QuizReader();
-      _model = new QuizModel(
-        shuffleAnswers,
-        hideAnswerLetter,
-        ConvertRepetitionNumber(repetitionNumberText),
-        GetQuizSetText(quizSet));
+            
+      //TODO: Refactor      
+      int repetitionNumber = ConvertRepetitionNumber(repetitionNumberText);
+      string textFromResource = _reader.GetQuizSetText(quizSet, filePath);
+      List<Question> questions = _reader.ReadQuizFromResource(repetitionNumber, textFromResource);
 
+      _model = new QuizModel(shuffleAnswers, hideAnswerLetter, questions);
       PrepareView();
     }
 
-    private string GetQuizSetText(QuizSet quizSet)
-    {
-      switch (quizSet)
-      {
-        case QuizSet.Questions_1_114:
-          return Resources.Fizjologia_Pytania_1_114;
-        case QuizSet.Questions_115_294:
-          return Resources.Fizjologia_Pytania_115_294;
-        case QuizSet.Questions_W1W2W3W4:
-          return Resources.W1W2W3W4;
-        case QuizSet.QuestionsFromPictures:
-          return Resources.Kolokwium_z_fozjologii_układ_pokarmowy;
-        default:
-          return string.Empty;
-      }
-    }
+
 
     private void PrepareView()
     {
-      _model.Questions = _reader.ReadQuestionsFromResources(
-        _model.RepetitionNumber,
-        _model.TextFromResource);
-
       _currentQuestion = GetQuestion();
       SetViewData();
     }

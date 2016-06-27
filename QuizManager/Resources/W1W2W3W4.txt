@@ -230,7 +230,7 @@ D. Hormon wzrostu GH
 E. 
 
 6. Adrenalina jest potencjalnym czynnikiem hiperglikemicznym poniewa¿ posiada zdolnoœæ do wywo³ywania wszystkich z nastêpuj¹cych efektów Z WYJ¥TKIEM: 
-ODP: E
+ODP:E
 A.  pobudzania wydzielania glukagonu 
 B.  pobudzania wydzielania hormonu adrenokortykotropowego (ACTH) 
 C.  stymulowania glikogenolizy w w¹trobie i miêœniach 

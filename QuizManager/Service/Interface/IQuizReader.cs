@@ -5,6 +5,10 @@ namespace QuizManager.Service.Interface
 {
   public interface IQuizReader
   {
-    List<Question> ReadQuestionsFromResources(int repetitionNumber, string textFromResource);
+    List<Question> ReadQuizFromResource(int repetitionNumber, string textFromResource);
+
+    string ReadQuizFromTextFile(string filePath);
+
+    string GetQuizSetText(QuizSet quizSet, string filePath);
   }
 }

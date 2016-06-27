@@ -1,4 +1,6 @@
-﻿namespace QuizManager.View.Interface
+﻿using System.Windows.Forms;
+
+namespace QuizManager.View.Interface
 {
   public interface IMenuView
   {
@@ -7,5 +9,7 @@
     bool HideAnswerLetter { get; }
 
     string RepetitionNumberText { get; }
+
+    ComboBox QuizComboBox { get; set; }
   }
 }

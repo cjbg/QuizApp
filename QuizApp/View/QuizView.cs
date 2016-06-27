@@ -15,10 +15,12 @@ namespace QuizApp.View
     private readonly string _filePath;
     private readonly QuizSet _quizSet;
 
-    public QuizView(bool shuffleAnswers, 
+    public QuizView(
+      bool shuffleAnswers, 
       bool hideAnswerLetter, 
       string repetitionNumberText, 
-      QuizSet quizSet)
+      QuizSet quizSet, 
+      string filePath)
     {
       InitializeComponent();
 
@@ -26,6 +28,7 @@ namespace QuizApp.View
       _hideAnswerLetter = hideAnswerLetter;
       _repetitionNumberText = repetitionNumberText;
       _quizSet = quizSet;
+      _filePath = filePath;
     }
 
     public string Question
@@ -197,6 +200,7 @@ namespace QuizApp.View
         _hideAnswerLetter,
         _repetitionNumberText,
         _quizSet,
+        _filePath,
         this);
     }
 

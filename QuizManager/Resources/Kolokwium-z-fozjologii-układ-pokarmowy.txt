@@ -7,7 +7,7 @@ D. Histamina obniza ciœnienie krwi i zwiêksza przep³yw w¹trobowy
 E. 
 
 2. Amylaza œlinowa hydrolizuje wi¹zanie: 
-ODP: A
+ODP:A
 A. 1,4 glikozydowe wewn¹trz ³añcucha glikozydowego skrobii 
 B. 1,4 glikozydowe na zewnêtrznych koñcach ³añcucha skrobii 
 C. 1,6 glikozydowe wewn¹trz ³añcucha glikozydowego skrobii 
@@ -359,7 +359,7 @@ D. komórki dodatkowe
 E. komórki nab³onkowe
 
 6. Dzia³anie chymozynypolega na:
-ODP: A
+ODP:A
 A. Str¹ceniu bia³ek i rozk³adaniu kazeiny
 B. wch³anianiu bia³ek
 C. ochromnie b³ony œluzowej ¿o³¹dka
