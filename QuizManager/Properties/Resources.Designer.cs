@@ -154,6 +154,49 @@ namespace QuizManager.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 1. Białko HFE w hemochromatozie co powoduje
+        ///ODP:
+        ///A. wzrost wchłaniania wchodzi? Tak wzrost wchłaniania
+        ///B. 
+        ///C. 
+        ///D. 
+        ///E. 
+        ///
+        ///2. Co NIE wpływa na złe wchłanianie Fe
+        ///ODP:B
+        ///A. wino 
+        ///B. dieta wysokobiałkowa
+        ///C. 
+        ///D. 
+        ///E. 
+        ///
+        ///3. Obrzęk płuc, zaznacz prawdziwe , a cos więcej?? jedna z odp. obustronne równomierne
+        ///ODP:0
+        ///A. obustronne równomierne
+        ///B. 
+        ///C. 
+        ///D. 
+        ///E. 
+        ///
+        ///4.policytemii gdzie nie ma
+        ///ODP:1
+        ///A. w bialaczce mieloidalnej
+        ///B. 
+        ///C. 
+        ///D. 
+        ///E. 
+        ///
+        ///5. Dojrzewanie płciowe
+        ///ODP:1
+        ///A. włosy na pipce po adr [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Patofizjologia_Tura_2_Godzina_10_10 {
+            get {
+                return ResourceManager.GetString("Patofizjologia_Tura_2_Godzina_10_10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 1.hormon pochodzenia aminokwasowego , ktory nie dziala po podaniu doustnym : 
         ///ODP:D
         ///A. t3 

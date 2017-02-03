@@ -130,6 +130,9 @@
   <data name="Patofizjologia_1_Termin_10_02_2015" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Patofizjologia_1_Termin_10_02_2015.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="Patofizjologia_Tura_2_Godzina_10_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Patofizjologia_Tura_2_Godzina_10_10.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="W1W2W3W4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\W1W2W3W4.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
