@@ -104,15 +104,52 @@ namespace QuizManager.Properties {
         ///E. 
         ///
         ///2. Amylaza ślinowa hydrolizuje wiązanie: 
-        ///ODP: A
+        ///ODP:A
         ///A. 1,4 glikozydowe wewnątrz łańcucha glikozydowego skrobii 
         ///B. 1,4 glikozydowe na zewnętrznych końcach łańcucha skrobii 
         ///C. 1,6 glikozydowe wewnątrz łańcucha glikozydowego skrobii 
-        ///D.  [rest of string was truncated]&quot;;.
+        ///D. 1 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Kolokwium_z_fozjologii_układ_pokarmowy {
             get {
                 return ResourceManager.GetString("Kolokwium_z_fozjologii_układ_pokarmowy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1. Jak organizm pozbywa się nadmiaru Fe?
+        ///ODP:D
+        ///A. przez chelatacje 
+        ///B. drogą pokarmową 
+        ///C. przez nerki
+        ///D. ze złuszczonymi nabłonkami
+        ///E. przez skórę z potem
+        ///
+        ///2. Anulocyty to: (to samo co leptocyty)
+        ///ODP:1
+        ///A. Z giełdy cienkio zwiększonym przejaśnieniu w środku
+        ///B.  
+        ///C.  
+        ///D.  
+        ///E. 
+        /// 
+        ///3. Najczęstsze występowanie zmian w RZS:
+        ///ODP: B
+        ///A. stawy kolanowe
+        ///B. drobne stawy dłoni i stóp
+        ///C. 
+        ///D. 
+        ///E. 
+        ///
+        ///4. Najczęstsza przyczyna OZT:
+        ///ODP:D
+        ///A. bakterie 
+        ///B. wirus Coxsackie
+        ///C. kamica żółciowa i operacja [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Patofizjologia_1_Termin_10_02_2015 {
+            get {
+                return ResourceManager.GetString("Patofizjologia_1_Termin_10_02_2015", resourceCulture);
             }
         }
         

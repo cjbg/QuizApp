@@ -12,3 +12,10 @@ C:\Users\cjbg\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.Propert
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.csproj.GenerateResource.Cache
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.dll
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizManager\obj\Debug\QuizManager.pdb
+D:\SourceTree\QuizApp\QuizManager\bin\Debug\QuizManager.dll
+D:\SourceTree\QuizApp\QuizManager\bin\Debug\QuizManager.pdb
+D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.csprojResolveAssemblyReference.cache
+D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.Properties.Resources.resources
+D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.csproj.GenerateResource.Cache
+D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.dll
+D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.pdb

@@ -55,6 +55,8 @@ namespace QuizManager.Service
           return Resources.W1W2W3W4;
         case QuizSets.QuestionsFromPictures:
           return Resources.Kolokwium_z_fozjologii_układ_pokarmowy;
+        case QuizSets.QuestionsPatology_2015_1:
+          return Resources.Patofizjologia_1_Termin_10_02_2015;
         case QuizSets.FromFile:
           return ReadQuizFromTextFile(filePath);
         default:

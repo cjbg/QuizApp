@@ -1,8 +1,6 @@
-﻿using System.IO;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 using QuizApp.Properties;
 using QuizManager.Model;
-using QuizManager.Model.ExtensionMethods;
 using QuizManager.Presenter;
 using QuizManager.View.Interface;
 

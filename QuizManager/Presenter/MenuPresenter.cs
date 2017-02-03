@@ -29,6 +29,7 @@ namespace QuizManager.Presenter
       quizSets.Add(new QuizSet { Name = "Questions_115_294", Value = "Questions_115_294" });
       quizSets.Add(new QuizSet { Name = "Pytania W1W2W3W4", Value = "Questions_W1W2W3W4" });
       quizSets.Add(new QuizSet { Name = "Pytania ze zdjęć", Value = "QuestionsFromPictures" });
+      quizSets.Add(new QuizSet { Name = "Patofizjologia 1 Termin_10_02_2015", Value = "Patofizjologia_1_Termin_10_02_2015" });
 
       _view.QuizComboBox.DataSource = quizSets;
       _view.QuizComboBox.DisplayMember = Name;

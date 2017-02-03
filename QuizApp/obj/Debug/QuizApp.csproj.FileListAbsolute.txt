@@ -21,3 +21,15 @@ C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.View.QuizView.r
 C:\Users\cjbg\Documents\GitHub\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.Cache
 C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizApp\bin\Debug\QuizManager.dll
 C:\Users\jakub.czabator\Documents\GitHub\QuizApp\QuizApp\bin\Debug\QuizManager.pdb
+D:\SourceTree\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+D:\SourceTree\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+D:\SourceTree\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+D:\SourceTree\QuizApp\QuizApp\bin\Debug\QuizManager.dll
+D:\SourceTree\QuizApp\QuizApp\bin\Debug\QuizManager.pdb
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.csprojResolveAssemblyReference.cache
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.View.MenuView.resources
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.View.QuizView.resources
+D:\SourceTree\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.Cache

@@ -9,5 +9,6 @@ namespace QuizManager.Model
     public const string Questions_115_294 = "Questions_115_294";
     public const string Questions_1_114 = "Questions_1_114";
     public const string QuestionsFromPictures = "QuestionsFromPictures";
+    public const string QuestionsPatology_2015_1 = "Patofizjologia_1_Termin_10_02_2015";
   }
 }
