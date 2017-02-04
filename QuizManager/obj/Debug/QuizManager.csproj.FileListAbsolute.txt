@@ -19,3 +19,10 @@ D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.Properties.Resources.res
 D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.csproj.GenerateResource.Cache
 D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.dll
 D:\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.pdb
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\bin\Debug\QuizManager.dll
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\bin\Debug\QuizManager.pdb
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.csprojResolveAssemblyReference.cache
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.Properties.Resources.resources
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.csproj.GenerateResource.Cache
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.dll
+C:\Users\cjbg\Documents\SourceTree\QuizApp\QuizManager\obj\Debug\QuizManager.pdb

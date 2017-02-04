@@ -1,5 +1,5 @@
 1. Białko HFE w hemochromatozie co powoduje
-ODP:
+ODP:1
 A. wzrost wchłaniania wchodzi? Tak wzrost wchłaniania
 B. 
 C. 
@@ -14,7 +14,7 @@ C.
 D. 
 E. 
 
-3. Obrzęk płuc, zaznacz prawdziwe , a cos więcej?? jedna z odp. obustronne równomierne
+3. Obrzęk płuc, zaznacz prawdziwe
 ODP:0
 A. obustronne równomierne
 B. 
@@ -47,11 +47,11 @@ C.
 D. 
 E. 
 
-7.eksplozwynajem dekompresji nie wchodzi: 1 dobre 2,3 nie dobre
-ODP:0
-A. 
-B. 
-C. 
+7.eksplozwynajem dekompresji
+ODP:B
+A. 1
+B. 2
+C. 3
 D. 
 E. 
 
@@ -73,7 +73,7 @@ E.
 
 10.kobieta w ciąży z rzs
 ODP:1
-A. w 1 trymestrze łagodzi się wchodzi
+A. w 1 trymestrze łagodzi się
 B. 
 C. 
 D. 
@@ -96,10 +96,10 @@ D.
 E. 
 
 13. Zolinger ellison
-ODP:1
-A. gastryna somatostatyna albo hal sprawdźcie
-B. 
-C. 
+ODP:A
+A. gastryna
+B. somatostatyna 
+C. hal
 D. 
 E. 
 
@@ -129,10 +129,10 @@ E.
 
 
 17. Co to duszność
-ODP:1
-A. nie wchodzi ze jest miarą wydolności oddechowej (bo jest miarą nie wydolności krążenia) pojawia się w prawokomorowej niewydolności serca fałsz, bo w LK powoduje obrzęk płuc nie powoduje
-B. 
-C. 
+ODP:0
+A. jest miarą wydolności oddechowej
+B. pojawia się w prawokomorowej niewydolności serca
+C. w LK powoduje obrzęk płuc nie powoduje
 D. 
 E. 
 
@@ -154,11 +154,19 @@ D.
 E. 
 
 20. Komora hiperbaryczna, do leczenia czego wykorzystujemy:
-ODP:1
-A. a. ch dekompresji b. zatrucie CO2 c. catrucie salicylanami hmm… tu chyba ktoś źle ogarnął i było zatrucie CO wtedy jak najbardziej ;)
-B. 
-C. 
+ODP:A
+A. ch dekompresji
+B. zatrucie CO2
+C. zatrucie salicylanami 
 D. 
+E. 
+
+20B. Komora hiperbaryczna, do leczenia czego wykorzystujemy:
+ODP:D
+A. ch dekompresji
+B. 
+C. zatrucie salicylanami 
+D. zatrucie CO
 E. 
 
 21. Kw. Waniliowy
@@ -250,9 +258,9 @@ C.
 D. 
 E. 
 
-30.RZS u kobiet w ciążydwie zostawały, zanika albo łagodnieje w 1 trymestrze ciąży wg prezencja LP : w ciąży i przełączeniu profilu cytokinowego na Th2, remisję RZS obserwuje się u ~50% kobiet
+30.RZS u kobiet w ciąży
 ODP:1
-A. ?
+A. zanika albo łagodnieje w 1 trymestrze ciąży
 B. 
 C. 
 D. 
@@ -266,7 +274,7 @@ C.
 D. 
 E. 
 
-32. Białkomocz czynnościowy to pytanie było odnośnie skąpomoczu czynnościowego (to inaczej przednerkowa ONN)
+32. Białkomocz czynnościowy 
 ODP:1
 A. ? rozległe oparzenia
 B. 
@@ -293,8 +301,7 @@ E.
 
 35. Diagnostyka laboratoryjna niedoczyności tarczycy
 ODP:1
-A. zwiększone TSH obniżone ft3 i
-4
+A. zwiększone TSH obniżone ft3 i 4
 B. 
 C. 
 D. 
@@ -302,36 +309,36 @@ E.
 
 
 36. Odruchem ochronnym układu oddechowego jest
-ODP:1
-A. kaszel i kichanie odrzucamy zostają 3, ruch rzęsek nie wchodzi, pozostałe to reakcja immunologiczna i nawilżanie powietrza
-B. 
-C. 
-D. 
+ODP:C
+A. kaszel i kichanie i nawilżanie powietrza
+B. ruch rzęsek
+C. reakcja immunologiczna
+D. nawilżanie powietrza
 E. 
 
 
-37. W której chorobie może być seronegatywne zapalenie stawów kręgosłupa były odp
-ODP:1
-A. grypa, leśniowski ,skrzywienie boczne kręgosłupa to nie wchodzi , dna moczanowa
-B. 
-C. 
-D. 
+37. W której chorobie może być seronegatywne zapalenie stawów kręgosłupa
+ODP:B
+A. grypa
+B. leśniowski
+C. skrzywienie boczne kręgosłupa 
+D. dna moczanowa
 E. 
 
 
 38. Osteoporoza wtórna 
-ODP:1
-A. dieta uboga w wapń NIE wchodzi, było odnośnie estrogenów, ( nie wiem jakie były odp. ale przyczyna moga byc:leki, zaburzenia hormonalne, resekcja zoladka, ch. nerek, reumatyczne, ukł oddechowego, szpiku) - HIPERKORTYZOLEMIA WCHODZI
-B. 
-C. 
+ODP:C
+A. dieta uboga w wapń
+B. było odnośnie estrogenów
+C. HIPERKORTYZOLEMIA 
 D. 
 E. 
 
 39.markery zapalenia
 ODP:0
-a. IL1
-b. IL6
-c. IL8chemotaktyczna
+a. IL-1
+b. IL-6
+c. IL-8-chemotaktyczna
 d.
 E.
 
@@ -361,26 +368,26 @@ D.
 E. 
 
 43. zidentyfikować chorobę: 
-ODP:1
-A. aptt (chyba było ze ok), krwawienia wydłużony, płytki ok, i coś jeszcze…… nie wchodzi vonWillebranda
-B. 
-C. 
-D. 
+ODP:A,C
+A. aptt
+B. krwawienia wydłużony
+C. płytki
+D. vonWillebranda
 E. 
 
 44. wybroczyny i krwawienia podskórne nawet po niewielkim urazie i chyba APTT i PT w normie
 ODP:D
-a. skaza naczyniowa NIE wchodzi
+a. skaza naczyniowa
 b. DIC
 c. hemofilia
-d. chyba małopłytkowość???
+d. małopłytkowość
 e.
 
 45. kiedy kwasica ketonowa: 
-ODP:1
-A. dieta beztłuszczowa, wysoka gorączka(prawdopodobnie bo w gorączce wzrost lipolizy), intensywny wysiłek fizyczny,
-B. 
-C. 
+ODP:B
+A. dieta beztłuszczowa 
+B. wysoka gorączka
+C. intensywny wysiłek fizyczny
 D. 
 E. 
 
@@ -393,10 +400,10 @@ D.
 E. 
 
 47. nietypowa zmiana w niedokrwistości w chorobie przewlekłej:
-ODP:1
+ODP:A
 A. spadek transferryny
-B. 
-C. 
+B. spadek ferrytyny,
+C. spada Fe,
 D. 
 E. 
 
@@ -409,10 +416,10 @@ D.
 E. 
 
 49. nurek nagłe wynurzenie:
-ODP:1
-A. 1)uszkodzenie narządów miąższowych, 2) nagła smierc sercowa z powodu spienienia krwi w dużych żyłach 3) hiperkapnia ( odpowiedzi typu I i II fałszywe a III prawdziwe itd) wszystkie fałszywe wszystkie prawdziwe I i II falsyzwe, III prawdziwe I i II prawdziwe, III fałszywe Hiperkapnia jest tu fałszywa a 2 pozostałe są prawidłowe ;)
-B. 
-C. 
+ODP:A,B
+A. uszkodzenie narządów miąższowych
+B. nagła smierc sercowa z powodu spienienia krwi w dużych żyłach
+C. hiperkapnia
 D. 
 E. 
 
@@ -425,18 +432,18 @@ d. jest efektem nadciśnienia nerkowopochodnego
 e. występuje w zespole nerczycowym
 
 51. Sinica w niewydolności serca
-ODP:0
+ODP:D
 a. jest indukowana przez niedokrwistość
 b. dotyczy całej powierzchni ciała
 c. jest odpowiedzialna za występowanie zjawiska ortopnoe
-d. jest następstwem zwolnionego przepływu krwi przez tkanki to?????
+d. jest następstwem zwolnionego przepływu krwi przez tkanki
 E.
 
 52. bruzda Harrisona:
 ODP:A
 a. krzywica
 b. osteoporoza dorosłych
-c. osteoporoza dzieci?
+c. osteoporoza dzieci
 d. tężyczka
 E.
 

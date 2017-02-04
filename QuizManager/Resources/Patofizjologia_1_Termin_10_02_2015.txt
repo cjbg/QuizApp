@@ -8,14 +8,14 @@ E. przez skórę z potem
 
 2. Anulocyty to: (to samo co leptocyty)
 ODP:1
-A. Z giełdy cienkio zwiększonym przejaśnieniu w środku
+A. Z giełdy cienki o zwiększonym przejaśnieniu w środku
 B.  
 C.  
 D.  
 E. 
  
 3. Najczęstsze występowanie zmian w RZS:
-ODP: B
+ODP:B
 A. stawy kolanowe
 B. drobne stawy dłoni i stóp
 C. 
@@ -27,7 +27,7 @@ ODP:D
 A. bakterie 
 B. wirus Coxsackie
 C. kamica żółciowa i operacja na brzuchu 
-D. Alkohol i kamica żółciowa wchodzi
+D. Alkohol i kamica żółciowa
 E.
 
 5. Patogeneza OZT to było 2x:
@@ -41,6 +41,10 @@ E.
 6. Niedobór czego powoduje zajady:
 ODP:1
 A. ryboflawiny.B2
+B.
+C.
+D.
+E.
 
 7. Co to cholestaza:
 ODP:B
@@ -52,9 +56,9 @@ E.
 
 8. Lotnik w nieszczelnej kabinie na wysokości 6000 mnp, co mu jest?
 ODP:A
-A. aeroembolizm nie weszło!
-B. Hipokapnia nie wchodzi
-C. hiperoksja (coś takiego?)
+A. aeroembolizm
+B. Hipokapnia
+C. hiperoksja
 D. 
 E.
 
@@ -92,9 +96,9 @@ E. w odwodnieniu hipertonicznym
 
 13. W jakim wieku pojawiają się objawy skazy krwotocznej w przebiegu hemofilii typuB?
 ODP:A
-A. 12 r.ż . giełda,nie wchodzi wg Szczeklika też to ? u mnie weszło
-B. W wieku szkolnym (nie wchodzi)
-C. u noworodka (prawdopodobnie to skoro nie A)
+A. 1-2 r.ż
+B. W wieku szkolnym
+C. u noworodka
 D. w wieku podeszłym
 E.
 
@@ -104,11 +108,11 @@ A. dna moczanowa
 B. skrzywienie boczne kręgoslupa
 C. zakażenie bakteryjne
 D. grypa
-E. LeśniowskiCrohn
+E. Leśniowski-Crohn
 
 15. Ten śmieszny 5indolooctowy w moczu
 ODP:1
-A. rakowiak wchodzi
+A. rakowiak
 B. 
 C. 
 D. 
@@ -139,45 +143,51 @@ D. niewydolności nerek
 E. zespołu nerczycowego
 
 19. 3 zdania I filariozy i nowotwory częstą przyczyną jednostronnych obrzęków II III obrzęki powstają na skutek zwiększonego ciśnienia hydrostatycznego w stosunku do onkotycznego
-ODP:1
-a. I i III dobrze, II źle weszło, wchodzi :D
-
+ODP:A,C
+A. I filariozy i nowotwory częstą przyczyną jednostronnych obrzęków
+B. II
+C. III obrzęki powstają na skutek zwiększonego ciśnienia hydrostatycznego w stosunku do onkotycznego
+D.
+E.
 
 20. W trakcie DIC będącego powikłaniem wstrząsu, nie stwierdzamy
 ODP:A
-a. skrócony czas kaolinowokefalinowy
-b. wydłużony INR
-c. wydłużony czas protrombinowy
-d. wzrost stężenia ddimerów
-e. zmniejszenia liczby płytek krwi
-
+A. skrócony czas kaolinowokefalinowy
+B. wydłużony INR
+C. wydłużony czas protrombinowy
+D. wzrost stężenia d-dimerów
+E. zmniejszenia liczby płytek krwi
 
 21. test opaskowy dodatni, czas krwawienia wydłużony
-ODP:A
-A. skaza naczyniowachyba weszło (może być też choroba von wilebranda lub małopłytkowość)
+ODP:A,B,C
+A. skaza naczyniowachyba
 B. Choroba von Wiellebranda
-C.
+C. małopłytkowość
 D.
 E.
 
 22.Nocna napadowa hemoglobinuria
-ODP:1
-odpowiedź z pH obniżone i układem dopełniacza ( są dwie takie odpowiedzi: w jednej erytrocyty są wrażliwe a w drugiej oporne na układ dopełniacza po obniżeniu phktóra odp?) D) przeciwciała zimne nie wchodzi
+ODP:A
+A. pH obniżone i układem dopełniacza 
+B. 
+C.
+D. przeciwciała zimne
+E.
 
 23. Na zmiany w przestrzeniach wodnych organizmu u cukrzyków, wpływ ma:
 ODP:C
-a. glukoza
-b. sód
-c. glukoza i sód
+A. glukoza
+B. sód
+C. glukoza i sód
 D.
 E.
 
 24. Choroba LeśniowskiegoCrohna
 ODP:A
-a. nieswoista
-b. swoista
-c. wirusowa
-d. bakteryjna
+A. nieswoista
+B. swoista
+C. wirusowa
+D. bakteryjna
 E. 
 
 25. Niedoczynność tarczycy
@@ -190,15 +200,15 @@ E.
 
 26. Neuropatia cukrzyków
 ODP:E
-a. zimna stopa z cienką skórą nie wchodzi
+a. zimna stopa z cienką skórą
 b. chromanie przestankowe
 c. palce pałeczkowate
 d. ból goleni i stawów skokowych
 e. skóra podatna na zakażenie
 
 
-27 Zollinger Elison
-OPD:A
+27 Zollinger - Elison
+ODP:A
 a. zwiększony HCl
 b. gastryna i somatostatyna
 C. 
@@ -208,10 +218,10 @@ E.
 
 28. Chorzy z POChP przebiegającą z retencją CO2
 ODP:0
-a. mają znaczną obturację oskrzeli chyba nie weszło
-b. nazywani są pink puffers retencja CO2 u niebieskich (którzy maja przewlekłe zapalenie oskrzeli)
+a. mają znaczną obturację oskrzeli
+b. nazywani są pink puffers retencja CO2 u niebieskich
 c. mają znacznie zmniejszoną objętość oddechową
-d. mają większe uczucie duszności (to nie)
+d. mają większe uczucie duszności
 e. mają mały udział przestrzeni martwej w wentylacji
 
 
@@ -227,16 +237,16 @@ e. choroba refluksowa przełyku
 ODP:0
 a. szybko doprowadzi do pozanerkowej niewydolności nerek
 b. występuje w moczówce prostejhipostenuria
-c. świadczy o uszkodzeniu kłębuszków nerkowych ??? nie wchodzi
-d. doprowadzi do mocznicy???
+c. świadczy o uszkodzeniu kłębuszków nerkowych
+d. doprowadzi do mocznicy
 e. doprowadza do retencji wody i zatrucia wodnego
 
 31. Antygeny w chorobie GravesaBasedova
-OPD:D
-a. TPO (slim) Ab
-b. TgAb
-c. TPO Ab
-d. TSI
+ODP:D
+A. TPO (slim) Ab
+B. TgAb
+C. TPO Ab
+D. TSI
 E.
 
 32.W Prawokomorowej niewydolności serca Z ZAWAŁEM obrzęk płuc
@@ -255,7 +265,7 @@ c. PGE1
 d. bradykininę
 e. pobudzenie cholinergiczne
 
-33. Choroba LeściowskiegoCrohnajest patologią zapalną
+33. Choroba Leściowskiego-Crohna jest patologią zapalną
 ODP:B
 a. w etiologii wirusowej
 b. nieswoistą
@@ -263,9 +273,8 @@ c. o etiologii bateryjnej
 d. wywołaną uszkodzeniem śluzówki przez pasożyty
 e. swoistą
 
-34. Białkomocz przekraczający 34
+34. Białkomocz przekraczający 3-4 g na dobę może występować w
 ODP:A
-g na dobę może występować w
 a. zespole nerczycowym
 b. enteropatii wysiękowej
 c. przednerkowej niewydolności nerek
@@ -283,7 +292,7 @@ e. u ponad połowy przypadków objawia się nadmiernym napięciem mięśni
 36. Bilirubina pojawia się w moczu w przypadku żółtaczki
 ODP:E
 a. zakaźnej
-b. miąższowej (nie wchodzi)
+b. miąższowej 
 c. hemolitycznej
 d. noworodków
 e. mechanicznej
@@ -298,11 +307,11 @@ e. hiperkaliemią
 
 38. Charakterystyczne dla wstrząsu zaburzenia metaboliczne i/lub elektrolitowe
 ODP:B
-a. kwasica oddechowa ( nie bo metaboliczna)
-b. wzrost metabolizmu tkankowego(i z tego kwasica mleczanowa)
+a. kwasica oddechowa
+b. wzrost metabolizmu tkankowego
 c. hiponatremia
-d. spadek wytwarzania czegoś1
-e. hiopkaliemia / hipokalcemia( a nie to?> bo aktywacja RAA)
+d. spadek wytwarzania czegoś
+e. hiopkaliemia / hipokalcemia
 
 39. Przyczyną ostrej niewydolności oddechowej typu 1 (hipoksemicznego) mogą być
 ODP:C
@@ -314,7 +323,7 @@ e. zwiększenie wydzielania śluzu w drogach oddechowych
 
 40. Tyreoperoksydaza odpowiada za
 ODP:E
-a. wychwyt jonów jodkowych przez tyreocyty (??)
+a. wychwyt jonów jodkowych przez tyreocyty
 b. konwersję tyroksyny do trójjodotyroniny
 c. syntezę tyreoglobuliny
 d. odjodowanie tyroksyny
@@ -337,10 +346,10 @@ d. nerczycy
 e. zapalenia dróg żółciowych
 
 43. Pacjent z obrzękami obwodowymi, poszerzeniem obwodu brzucha oraz rozszerzeniem żył szyjnych uskarża się na:
-ODP:0
-a. nykturię, pocenie i częste obrzęki płuc nie wchodzi
+ODP:C
+a. nykturię, pocenie i częste obrzęki płuc
 b. hepatomegalia i ortopnoe
-c. niewydolnośc prawej komory/ tamponada serca (to pytanie było dwa razy i raz w odpowiedziach była niewydolność prawej komory raz tamponada) potem mnóstwo kombinacji z nykturią, wydolnością której komory itp na pewno chodzi o PK
+c. niewydolnośc prawej komory/ tamponada serca
 D.
 E.
 
@@ -354,7 +363,7 @@ E.
 
 45. Poliuria to:
 ODP:0
-a. wydalanie więcej niż 2 l/dobę nie wchodzi (powyżej 3 l/doba)
+a. wydalanie więcej niż 2 l/dobę
 b.
 C.
 D.
@@ -372,13 +381,13 @@ E.
 ODP:C
 a. lipopolisacharyd
 b. interleukina 1
-c. etiocholanolon (Maśliński strona 288)
+c. etiocholanolon
 d. coś dziwnego
 E.
 
 48. Co prowadzi do miopatii wtórnej ?
 ODP:0
-a. gruczolak przysadki nie wchodzi
+a. gruczolak przysadki
 b. niedoczynnośc tarczycy
 c. nadczynnośc pprzytarczyc potem było coś z przytarczycami chyba Ogólnie tu chyba poprawna będzie jakaś odpowiedź z karnityną
 D.

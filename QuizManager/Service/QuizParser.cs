@@ -58,7 +58,7 @@ namespace QuizManager.Service
       {
         question.Answers.ForEach(
           x => x.IsCorrect = validAnswers.Any(
-            y => y == GetFirstLetter(x.Name).ToString()));
+            y => y.ToLower() == GetFirstLetter(x.Name).ToString().ToLower()));
       }
     }
 
